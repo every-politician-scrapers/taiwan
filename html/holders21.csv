@@ -1,0 +1,68 @@
+position,person,personID,start,end
+President,Lee Teng-hui,Q315528,1988-01-13,2000-05-20
+President,Chen Shui-bian,Q22368,2000-05-20,2008-05-20
+President,Ma Ying-jeou,Q19216,2008-05-20,2016-05-20
+President,Tsai Ing-wen,Q233984,2016-05-20,
+Vice President,Lien Chan,Q558718,1996-05-20,2000-05-20
+Vice President,Wu Den-yih,Q57838,2012-05-20,2016-05-19
+Vice President,Chen Chien-jen,Q9182314,2016-05-20,2020-05-19
+Vice President,Lai Ching-te,Q3847080,2020-05-20,
+Premier,Vincent Siew,Q700659,1997-09-01,2000-05-20
+Premier,Tang Fei,Q716768,2000-05-20,2000-10-06
+Premier,Chang Chun-hsiung,Q716710,2000-10-06,2002-02-01
+Premier,Yu Shyi-kun,Q707887,2002-02-01,2005-02-01
+Premier,Frank Hsieh,Q472310,2005-02-01,2006-01-25
+Premier,Su Tseng-chang,Q551904,2006-01-25,2007-05-21
+Premier,Chang Chun-hsiung,Q716710,2007-05-21,2008-05-20
+Premier,Liu Chao-shiuan,Q556828,2008-05-20,2009-09-10
+Premier,Wu Den-yih,Q57838,2009-09-10,2012-02-06
+Premier,Sean Chen,Q281540,2012-02-06,2013-02-18
+Premier,Jiang Yi-huah,Q4118817,2013-02-18,2014-12-08
+Premier,Mao Chi-kuo,Q6753581,2014-12-08,2016-02-01
+Premier,Chang San-cheng,Q10294207,2016-02-01,2016-05-20
+Premier,Lin Chuan,Q8997373,2016-05-20,2017-09-08
+Premier,Lai Ching-te,Q3847080,2017-09-08,2019-01-14
+Premier,Su Tseng-chang,Q551904,2019-01-14,
+Vice Premier,Liu Chao-shiuan,Q556828,1997-12-11,2000-05-20
+Vice Premier,Yu Shyi-kun,Q707887,2000-05-20,2000-07-27
+Vice Premier,Eric Chu,Q5386280,2009-09-10,2010-05-17
+Vice Premier,Sean Chen,Q281540,2010-05-17,2012-02-06
+Vice Premier,Jiang Yi-huah,Q4118817,2012-02-06,2013-02-18
+Vice Premier,Mao Chi-kuo,Q6753581,2013-02-18,2014-12-07
+Vice Premier,Chang San-cheng,Q10294207,2014-12-07,2016-01-02
+Vice Premier,Woody Tyzz-Jiun Duh,Q11099334,2016-02-01,2016-05-20
+Vice Premier,Lin Hsi-yao,Q8349604,2016-05-20,2017-09-07
+Vice Premier,Shih Jun-ji,Q9184683,2017-09-08,2019-01-14
+Vice Premier,Chen Chi-mai,Q5090717,2019-01-14,2020-06-19
+Vice Premier,Shen Jong-chin,Q16150359,2020-06-19,
+Secretary General,Cho Jung-tai,Q5116472,2005-09-19,2006-01-25
+Secretary General,Chen Chin-jun,Q8347947,2007-05-21,2008-05-19
+Secretary General,Lee Shu-chuan,Q19849473,2014-03-01,2015-01-24
+Secretary General,Cho Jung-tai,Q5116472,2017-09-18,2018-12-28
+Minister of Defence,Michael Tsai,Q8350293,2008-02-25,2008-05-19
+Minister of Defence,Andrew Yang,Q11118258,2013-08-01,2013-08-07
+Minister of Defence,Yen Ming,Q9123228,2013-08-08,2015-01-30
+Minister of Defence,Feng Shih-kuan,Q23894469,2016-05-20,2018-02-25
+Minister of Defence,Yen Teh-fa,Q15914789,2018-02-26,2021-02-23
+Minister of Defence,Chiu Kuo-cheng,Q19825815,2021-02-23,
+Minister of Environmental Protection,Stephen Shen,Q9302997,2008-05-20,2014-03-02
+Minister of Environmental Protection,Wei Kuo-yen,Q15831062,2014-03-03,
+Minister of Foreign Affairs,Mark Chen,Q707648,2004-04-16,2006-01-25
+Minister of Foreign Affairs,Francisco Ou,Q715476,2008-05-20,2009-09-10
+Minister of Foreign Affairs,David Lee,Q5236438,2016-05-20,2018-02-25
+Minister of Foreign Affairs,Joseph Wu,Q6288088,2018-02-26,
+Minister of Justice,Luo Ying-shay,Q14866531,2013-09-30,2016-05-20
+Minister of Transportation and Communications,Wang Kwo-tsai,Q24851744,2018-12-04,2019-01-13
+Minister of Transportation and Communications,Wang Kwo-tsai,Q24851744,2021-04-20,
+Minister Without Portfolio,Chen Chi-mai,Q5090717,2004-05-20,2005-02-01
+Minister Without Portfolio,Kao Su-po,Q8273451,2008-05-20,2011-02-09
+Minister Without Portfolio,Hsu Kuo-yung,Q8348841,2017-12-25,2018-07-15
+President of the Legislative Yuan,Wang Jin-pyng,Q707601,1999-02-01,2016-01-31
+President of the Legislative Yuan,Su Jia-chyuan,Q700774,2016-02-01,2020-01-31
+President of the Legislative Yuan,Yu Shyi-kun,Q707887,2020-02-01,
+Vice President of the Legislative Yuan,Yao Eng-Chi,Q8276042,1999-02-01,2002-01-31
+Vice President of the Legislative Yuan,Chiang Pin-kung,Q5095206,2002-02-01,2005-01-31
+Vice President of the Legislative Yuan,David Chung,Q8974482,2005-02-01,2008-01-31
+Vice President of the Legislative Yuan,Tseng Yung-chuan,Q8271249,2008-02-01,2012-01-31
+Vice President of the Legislative Yuan,Hung Hsiu-chu,Q8274029,2012-02-01,2016-01-31
+Vice President of the Legislative Yuan,Tsai Chi-chang,Q8350279,2016-02-01,
