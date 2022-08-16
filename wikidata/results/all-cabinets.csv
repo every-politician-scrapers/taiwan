@@ -1,1 +1,6 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q18654109,Mao Chi-kuo's Cabinet,,,2014-12-08,11,2016-02-01,11,,,,,,,Q11134257,Jiang Yi-huah's Cabinet,Q24837351,Chang San-cheng's Cabinet
+,Q24837351,Chang San-cheng's Cabinet,,,2016-02-01,11,2016-05-20,11,,,,,,,Q18654109,Mao Chi-kuo's Cabinet,Q24834456,Lin cabinet
+,Q24834456,Lin cabinet,,,2016-05-20,11,2017-09-07,11,,,,,,,Q24837351,Chang San-cheng's Cabinet,Q40833216,Lai Ching-te’s Cabinet
+,Q40833216,Lai Ching-te’s Cabinet,,,2017-09-08,11,2019-01-13,11,,,,,,,Q24834456,Lin cabinet,Q60995090,Su Tseng-chang's Second Cabinet
+,Q60995090,Su Tseng-chang's Second Cabinet,,,2019-01-14,11,,,,,,,,,Q40833216,Lai Ching-te’s Cabinet,,
