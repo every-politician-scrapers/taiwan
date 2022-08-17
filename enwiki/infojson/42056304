@@ -1,0 +1,36 @@
+[
+  {
+    "office": {
+      "links": [
+        "Research, Development and Evaluation Commission",
+        "Republic of China"
+      ],
+      "stated_as": "Deputy Minister of Research, Development and Evaluation Commission of the Republic of China"
+    },
+    "P580": "2009",
+    "P582": "2010"
+  },
+  {
+    "office": {
+      "links": [
+        "Environmental Protection Administration",
+        "Republic of China"
+      ],
+      "stated_as": "Minister of Environmental Protection Administration of the Republic of China"
+    },
+    "P580": "2014-03-03",
+    "P1365": {
+      "links": [
+        "Stephen Shen"
+      ],
+      "stated_as": "Stephen Shen"
+    },
+    "P582": "2016-05-20",
+    "P1366": {
+      "links": [
+        "Lee Ying-yuan"
+      ],
+      "stated_as": "Lee Ying-yuan"
+    }
+  }
+]
