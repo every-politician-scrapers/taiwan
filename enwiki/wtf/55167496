@@ -1,0 +1,533 @@
+{
+  "title": "Li Meng-yen",
+  "pageID": 55167496,
+  "categories": [
+    "1966 births",
+    "Living people",
+    "Mayors of Tainan",
+    "Politicians of the Republic of China on Taiwan from Changhua County"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Li Meng-yen (born 12 December 1966) is a Taiwanese politician.",
+              "formatting": {
+                "bold": [
+                  "Li Meng-yen"
+                ]
+              }
+            },
+            {
+              "text": "In an acting capacity, he was Mayor of Tainan from 8 September 2017 until 25 December 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mayor of Tainan"
+                }
+              ]
+            },
+            {
+              "text": "Li has served as Secretary-General of the Executive Yuan since 14 January 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Secretary-General of the Executive Yuan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Politician from Taiwan",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Li"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1966",
+          "month": "12",
+          "day": "12",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "c": "李孟諺",
+          "p": "Lǐ Mèngyàn",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Li Meng-yen"
+          },
+          "native_name": {
+            "text": "李孟諺"
+          },
+          "native_name_lang": {
+            "text": "zh-tw"
+          },
+          "image": {
+            "text": "李孟諺之肖像.jpg"
+          },
+          "office1": {
+            "text": "Secretary-General of the Executive Yuan",
+            "links": [
+              {
+                "text": "Secretary-General of the Executive Yuan",
+                "type": "internal",
+                "page": "List of Secretaries-General of the Executive Yuan"
+              }
+            ]
+          },
+          "deputy1": {
+            "text": "Ho Pei-shan, Sung Yu-hsieh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ho Pei-shan"
+              },
+              {
+                "type": "internal",
+                "page": "Sung Yu-hsieh"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "14 January 2019"
+          },
+          "predecessor1": {
+            "text": "Cho Jung-tai",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cho Jung-tai"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Mayor of Tainan Acting",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mayor of Tainan"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "8 September 2017"
+          },
+          "term_end2": {
+            "text": "25 December 2018"
+          },
+          "predecessor2": {
+            "text": "William Lai",
+            "links": [
+              {
+                "type": "internal",
+                "page": "William Lai"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Huang Wei-cher",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Huang Wei-cher"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 12, 1966"
+          },
+          "birth_place": {
+            "text": "Changhua County, Taiwan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Changhua County"
+              },
+              {
+                "type": "internal",
+                "page": "Taiwan"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Republic of China"
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "National Chung Hsing University UNESCO-IHE",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Chung Hsing University"
+              },
+              {
+                "type": "internal",
+                "page": "UNESCO-IHE"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "author1": "張榮祥",
+          "author2": "王淑芬",
+          "title": "賴清德宣布 李孟諺代理台南市長[影]",
+          "url": "https://www.cna.com.tw/news/firstnews/201709060050.aspx",
+          "access-date": "10 July 2022",
+          "agency": "Central News Agency",
+          "date": "6 September 2017",
+          "location": "Taiwan",
+          "language": "zh",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "劉婉君",
+          "title": "代理市長最後一天挨告 李孟諺強調依法辦理",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/2651594",
+          "access-date": "10 July 2022",
+          "work": "Liberty Times Net",
+          "date": "24 December 2018",
+          "location": "Taiwan",
+          "language": "zh",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "嚴思祺",
+          "title": "蘇貞昌可望搭陳其邁掌政院 秘書長李孟諺",
+          "url": "https://www.cna.com.tw/news/firstnews/201901115002.aspx",
+          "access-date": "10 July 2022",
+          "agency": "Central News Agency",
+          "date": "11 January 2019",
+          "location": "Taiwan",
+          "language": "zh",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Li obtained his bachelor's degree in environmental engineering from National Chung Hsing University and master's degree in water science and engineering from UNESCO-IHE in the Netherlands.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Chung Hsing University"
+                },
+                {
+                  "type": "internal",
+                  "page": "UNESCO-IHE"
+                },
+                {
+                  "type": "internal",
+                  "page": "Netherlands"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.tainan.gov.tw/tainanE/page.asp?nsub=C0A000",
+          "date": "8 September 2017",
+          "title": "Acting Mayor Li Men-yen, Tainan City, Taiwan",
+          "website": "Tainan City Government",
+          "accessdate": "25 September 2017",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Li had been the assistant engineer and branch head of Housing and Urban Development Bureau of Taiwan Provincial Government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Taiwan Provincial Government"
+                }
+              ]
+            },
+            {
+              "text": "At the Taipei County Government, he had been the section chief and technical specialist of Public Works Bureau and acting and vice director-general of Water Resource Bureau and secretary.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Taipei County Government"
+                }
+              ]
+            },
+            {
+              "text": "At the Public Construction Commission, he was the vice director of Department of Construction Management.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Public Construction Commission"
+                }
+              ]
+            },
+            {
+              "text": "At the Taipei City Government, he was the director of Sewerage Systems Office of Public Works Department.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Taipei City Government"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "秘書長、發言人 行政院李孟諺秘書長",
+          "url": "https://www.ey.gov.tw/Page/BC5E0442EE7AD954/dcda43b3-67cd-4522-8616-88efd02aec78",
+          "website": "行政院",
+          "access-date": "10 July 2022",
+          "location": "Taiwan",
+          "language": "zh",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Tainan City Government",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In the Tainan City Government, he was the director-general of Water Resource Bureau and secretary-general.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tainan City Government"
+                }
+              ]
+            },
+            {
+              "text": "Li was appointed acting Tainan Mayor on 7 September 2017 as William Lai was named Premier of the Republic of China by President Tsai Ing-wen.",
+              "links": [
+                {
+                  "text": "Tainan Mayor",
+                  "type": "internal",
+                  "page": "Mayor of Tainan"
+                },
+                {
+                  "type": "internal",
+                  "page": "William Lai"
+                },
+                {
+                  "type": "internal",
+                  "page": "Premier of the Republic of China"
+                },
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of the Republic of China"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tsai Ing-wen"
+                }
+              ]
+            },
+            {
+              "text": "Speaking at a summit held at National Cheng Kung University in June 2018, Li said that his city government aimed to declare English as the second official language of Tainan, starting by having bilingual signs on information at major public places.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Cheng Kung University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2017/09/07/2003677966",
+          "date": "7 September 2017",
+          "title": "William Lai bids farewell, thanks Tainan residents",
+          "work": "Taipei Times",
+          "accessdate": "7 September 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://focustaiwan.tw/news/aedu/201806070021.aspx",
+          "date": "7 June 2018",
+          "title": "Islam Campus Summit held at National Cheng Kung University",
+          "agency": "Central News Agency",
+          "accessdate": "7 June 2018",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Executive Yuan",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He took office as secretary-general of the Executive Yuan on 14 January 2019, with the second Su Tseng-chang cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Su Tseng-chang"
+                }
+              ]
+            },
+            {
+              "text": "Li was named the spokesman of the Executive Yuan on an interim basis on 15 November 2020, following the resignation of Ting Yi-ming from the position."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Chen",
+          "first1": "Yu-fu",
+          "last2": "Hetherington",
+          "first2": "William",
+          "title": "Cabinet announces ministers, ideology",
+          "url": "http://www.taipeitimes.com/News/front/archives/2019/01/14/2003707899",
+          "accessdate": "13 January 2019",
+          "work": "Taipei Times",
+          "date": "14 January 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Yu",
+          "first1": "Matt",
+          "last2": "Hsu",
+          "first2": "Phoenix",
+          "last3": "Cheng",
+          "first3": "Sabine",
+          "last4": "Wen",
+          "first4": "Kuei-hsiang",
+          "last5": "Yeh",
+          "first5": "Su-ping",
+          "last6": "Yen",
+          "first6": "William",
+          "title": "Cheng Li-chiun to remain minister of culture: Executive Yuan",
+          "url": "http://focustaiwan.tw/news/aipl/201901130012.aspx",
+          "accessdate": "13 January 2019",
+          "publisher": "Central News Agency",
+          "date": "13 January 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "EY spokesman steps down after beef noodle gaffe",
+          "url": "https://taipeitimes.com/News/taiwan/archives/2020/11/17/2003747056",
+          "accessdate": "16 November 2020",
+          "work": "Taipei Times",
+          "date": "17 November 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Yu",
+          "first1": "Hsiang",
+          "last2": "Ko",
+          "first2": "Lin",
+          "title": "Cabinet spokesman resigns over erroneous ractopamine comments",
+          "url": "https://focustaiwan.tw/politics/202011160007",
+          "accessdate": "16 November 2020",
+          "agency": "Central News Agency",
+          "date": "16 November 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "commons category"
+        },
+        {
+          "template": "wikiquote"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Lai Ching-te",
+          "template": "s-bef"
+        },
+        {
+          "title": "Mayor of Tainan Acting",
+          "years": "2017–2018",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Huang Wei-cher",
+          "template": "s-aft"
+        },
+        {
+          "template": "executive yuan officials"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
