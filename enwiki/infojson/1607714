@@ -1,0 +1,127 @@
+[
+  {
+    "office": {
+      "links": [
+        "Mainland Affairs Council"
+      ],
+      "stated_as": "Minister of the Mainland Affairs Council"
+    },
+    "P580": "2004-05-20",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Tsai Ing-wen"
+    },
+    "P582": "2007-04-10",
+    "P1366": {
+      "links": [
+        "Chen Ming-tong"
+      ],
+      "stated_as": "Chen Ming-tong"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Taipei Economic and Cultural Representative Office in the United States"
+      ],
+      "stated_as": "Taiwan Representative to the United States"
+    },
+    "P580": "2007-04-10",
+    "P1365": {
+      "links": [
+        "David Lee (politician)"
+      ],
+      "stated_as": "David Lee"
+    },
+    "P582": "2008-07-26",
+    "P1366": {
+      "links": [
+        "Jason Yuan"
+      ],
+      "stated_as": "Jason Yuan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Secretaries-General of the Democratic Progressive Party"
+      ],
+      "stated_as": "Secretary-General of the Democratic Progressive Party"
+    },
+    "P580": "2014-05-28",
+    "P1365": {
+      "links": [
+        "Lin Hsi-yao"
+      ],
+      "stated_as": "Lin Hsi-yao"
+    },
+    "P582": "2016-05-24",
+    "P1366": {
+      "links": [
+        "Hung Yao-fu"
+      ],
+      "stated_as": "Hung Yao-fu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Security Council (Taiwan)"
+      ],
+      "stated_as": "Secretary-General of National Security Council"
+    },
+    "P580": "2016-05-20",
+    "P1365": {
+      "links": [
+        "Kao Hua-chu"
+      ],
+      "stated_as": "Kao Hua-chu"
+    },
+    "P582": "2017-05-22",
+    "P1366": {
+      "links": [
+        "Yen Teh-fa"
+      ],
+      "stated_as": "Yen Teh-fa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary-General to the President, Republic of China"
+      ],
+      "stated_as": "Secretary-General to the President"
+    },
+    "P580": "2017-05-22",
+    "P1365": {
+      "links": [
+        "Liu Chien-sin"
+      ],
+      "stated_as": "Liu Chien-sin (Acting)"
+    },
+    "P582": "2018-02-26",
+    "P1366": {
+      "links": [
+        "Chen Chu"
+      ],
+      "stated_as": "Liu Chien-sin (Acting) Chen Chu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (Republic of China)"
+      ],
+      "stated_as": "27th Minister of Foreign Affairs"
+    },
+    "P580": "2018-02-26",
+    "P1365": {
+      "links": [
+        "David Lee (politician)"
+      ],
+      "stated_as": "David Lee"
+    }
+  }
+]

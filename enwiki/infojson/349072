@@ -1,0 +1,125 @@
+[
+  {
+    "office": {
+      "links": [
+        "Taiwan Provincial Assembly"
+      ],
+      "stated_as": "Member of the Taiwan Provincial Assembly"
+    },
+    "P580": "1981-12-20",
+    "P582": "1989-12-20"
+  },
+  {
+    "office": {
+      "links": [
+        "List of county magistrates of Yilan"
+      ],
+      "stated_as": "Yilan County magistrate"
+    },
+    "P580": "1989-12-20",
+    "P1365": {
+      "links": [
+        "Chen Ding-nan"
+      ],
+      "stated_as": "Chen Ding-nan"
+    },
+    "P582": "1997-12-20",
+    "P1366": {
+      "links": [
+        "Liu Shou-ch'eng"
+      ],
+      "stated_as": "Liu Shou-ch'eng"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice Premier of the Republic of China"
+      ],
+      "stated_as": "Vice Premier of the Republic of China"
+    },
+    "P580": "2000-05-20",
+    "P1365": {
+      "links": [
+        "Liu Chao-shiuan"
+      ],
+      "stated_as": "Liu Chao-shiuan"
+    },
+    "P582": "2000-07-27",
+    "P1366": {
+      "links": [
+        "Chang Chun-hsiung"
+      ],
+      "stated_as": "Chang Chun-hsiung"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Premier of the Republic of China"
+      ],
+      "stated_as": "Premier of the Republic of China"
+    },
+    "P580": "2002-02-01",
+    "P1365": {
+      "links": [
+        "Chang Chun-hsiung"
+      ],
+      "stated_as": "Chang Chun-hsiung"
+    },
+    "P582": "2005-02-01",
+    "P1366": {
+      "links": [
+        "Frank Hsieh"
+      ],
+      "stated_as": "Frank Hsieh"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chairperson of the Democratic Progressive Party"
+      ],
+      "stated_as": "11th Chairperson of the Democratic Progressive Party"
+    },
+    "P1545": "11",
+    "P580": "2006-01-15",
+    "P1365": {
+      "links": [
+        "Annette Lu"
+      ],
+      "stated_as": "Annette Lu (acting)"
+    },
+    "P582": "2007-09-21",
+    "P1366": {
+      "links": [
+        "Chai Trong-rong"
+      ],
+      "stated_as": "Chai Trong-rong (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Legislative Yuan"
+      ],
+      "stated_as": "Member of the Legislative Yuan"
+    },
+    "P580": "2020-02-01"
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Legislative Yuan"
+      ],
+      "stated_as": "President of the Legislative Yuan"
+    },
+    "P580": "2020-02-01",
+    "P1365": {
+      "links": [
+        "Su Chia-chyuan"
+      ],
+      "stated_as": "Su Chia-chyuan"
+    }
+  }
+]

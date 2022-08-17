@@ -1,0 +1,136 @@
+[
+  {
+    "office": {
+      "links": [
+        "Mainland Affairs Council"
+      ],
+      "stated_as": "Minister of the Mainland Affairs Council"
+    },
+    "P580": "2000-05-20",
+    "P1365": {
+      "links": [
+        "Su Chi"
+      ],
+      "stated_as": "Su Chi"
+    },
+    "P582": "2004-05-20",
+    "P1366": {
+      "links": [
+        "Joseph Wu"
+      ],
+      "stated_as": "Joseph Wu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Legislative Yuan"
+      ],
+      "stated_as": "Member of the Legislative Yuan"
+    },
+    "P580": "2005-02-01",
+    "P582": "2006-01-24",
+    "P1366": {
+      "links": [
+        "Wu Ming-ming"
+      ],
+      "stated_as": "Wu Ming-ming"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice Premier of the Republic of China"
+      ],
+      "stated_as": "Vice Premier of the Republic of China"
+    },
+    "P580": "2006-01-25",
+    "P1365": {
+      "links": [
+        "Wu Rong-i"
+      ],
+      "stated_as": "Wu Rong-i"
+    },
+    "P582": "2007-05-21",
+    "P1366": {
+      "links": [
+        "Chiou I-jen"
+      ],
+      "stated_as": "Chiou I-jen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of leaders of the Democratic Progressive Party"
+      ],
+      "stated_as": "Chairwoman of the Democratic Progressive Party"
+    },
+    "P580": "2008-05-20",
+    "P1365": {
+      "links": [
+        "Chen Shui-bian"
+      ],
+      "stated_as": "Chen Shui-bian"
+    },
+    "P582": "2012-02-29",
+    "P1366": {
+      "links": [
+        "Su Tseng-chang"
+      ],
+      "stated_as": "Su Tseng-chang"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of leaders of the Democratic Progressive Party"
+      ],
+      "stated_as": "Chairwoman of the Democratic Progressive Party"
+    },
+    "P580": "2014-05-28",
+    "P1365": {
+      "links": [
+        "Su Tseng-chang"
+      ],
+      "stated_as": "Su Tseng-chang"
+    },
+    "P582": "2018-11-24",
+    "P1366": {
+      "links": [
+        "Cho Jung-tai"
+      ],
+      "stated_as": "Cho Jung-tai"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Republic of China"
+      ],
+      "stated_as": "President of the Republic of China"
+    },
+    "P580": "2016-05-20",
+    "P1365": {
+      "links": [
+        "Ma Ying-jeou"
+      ],
+      "stated_as": "Ma Ying-jeou"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of leaders of the Democratic Progressive Party"
+      ],
+      "stated_as": "Chairwoman of the Democratic Progressive Party"
+    },
+    "P580": "2020-05-20",
+    "P1365": {
+      "links": [
+        "Cho Jung-tai"
+      ],
+      "stated_as": "Cho Jung-tai"
+    }
+  }
+]

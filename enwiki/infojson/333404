@@ -1,0 +1,128 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of county magistrates of Pingtung"
+      ],
+      "stated_as": "Magistrate of Pingtung County"
+    },
+    "P580": "1989-12-20",
+    "P1365": {
+      "links": [
+        "Shih Meng-hsiung"
+      ],
+      "stated_as": "Shih Meng-hsiung"
+    },
+    "P582": "1993-12-20",
+    "P1366": {
+      "links": [
+        "Wu Tse-yuan"
+      ],
+      "stated_as": "Wu Tse-yuan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Mayor of New Taipei"
+      ],
+      "stated_as": "Magistrate of Taipei County"
+    },
+    "P580": "1997-12-20",
+    "P1365": {
+      "links": [
+        "You Ching"
+      ],
+      "stated_as": "You Ching"
+    },
+    "P582": "2004-05-20",
+    "P1366": {
+      "links": [
+        "Lin Hsi-yao",
+        "Chou Hsi-wei"
+      ],
+      "stated_as": "Lin Hsi-yao (acting)\nChou Hsi-wei"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of leaders of the Democratic Progressive Party"
+      ],
+      "stated_as": "Chairman of the Democratic Progressive Party"
+    },
+    "P580": "2005-02-15",
+    "P1365": {
+      "links": [
+        "Ker Chien-ming"
+      ],
+      "stated_as": "Ker Chien-ming (acting)"
+    },
+    "P582": "2005-12-03",
+    "P1366": {
+      "links": [
+        "Annette Lu"
+      ],
+      "stated_as": "Annette Lu (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Premier of the Republic of China"
+      ],
+      "stated_as": "Premier of the Republic of China"
+    },
+    "P580": "2006-01-25",
+    "P1365": {
+      "links": [
+        "Frank Hsieh"
+      ],
+      "stated_as": "Frank Hsieh"
+    },
+    "P582": "2007-05-21",
+    "P1366": {
+      "links": [
+        "Chang Chun-hsiung"
+      ],
+      "stated_as": "Chang Chun-hsiung"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of leaders of the Democratic Progressive Party"
+      ],
+      "stated_as": "Chairman of the Democratic Progressive Party"
+    },
+    "P580": "2012-05-30",
+    "P1365": {
+      "links": [
+        "Tsai Ing-wen"
+      ],
+      "stated_as": "Tsai Ing-wen"
+    },
+    "P582": "2014-05-28",
+    "P1366": {
+      "links": [
+        "Tsai Ing-wen"
+      ],
+      "stated_as": "Tsai Ing-wen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Premier of the Republic of China"
+      ],
+      "stated_as": "Premier of the Republic of China"
+    },
+    "P580": "2019-01-14",
+    "P1365": {
+      "links": [
+        "Lai Ching-te"
+      ],
+      "stated_as": "Lai Ching-te"
+    }
+  }
+]
