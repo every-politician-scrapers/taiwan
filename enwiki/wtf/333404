@@ -437,7 +437,7 @@
             "text": "July 28, 1947"
           },
           "birth_place": {
-            "text": "Pingtung City, Kaohsiung County, Taiwan Province, China",
+            "text": "Pingtung City, Kaohsiung County, Taiwan Province, Republic of China",
             "links": [
               {
                 "type": "internal",
@@ -452,7 +452,7 @@
                 "page": "Taiwan Province"
               },
               {
-                "text": "China",
+                "text": " Republic of China",
                 "type": "internal",
                 "page": "Republic of China (1912–1949)"
               }
