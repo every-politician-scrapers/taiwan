@@ -39,7 +39,7 @@
         {
           "sentences": [
             {
-              "text": "Tsai Ing-wen (born 31 August 1956) is a Taiwanese politician and academic incumbent as the President of the Republic of China (Taiwan) since 2016.",
+              "text": "Tsai Ing-wen ( born 31 August 1956) is a Taiwanese politician and academic incumbent as the President of the Republic of China (Taiwan) since 2016.",
               "links": [
                 {
                   "text": "Taiwanese",
@@ -464,6 +464,12 @@
           "t": "蔡英文",
           "p": "Cài Yīngwén",
           "template": "zh"
+        },
+        {
+          "list": [
+            "Order of Belize"
+          ],
+          "template": "post-nominals"
         }
       ],
       "infoboxes": [
