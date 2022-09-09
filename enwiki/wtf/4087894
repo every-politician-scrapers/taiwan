@@ -354,12 +354,16 @@
               }
             },
             {
-              "text": "Internationally, Tsai has been praised for her response to the COVID-19 pandemic, and for standing up to Communist rule in mainland China.",
+              "text": "Internationally, Tsai has been praised for her response to the COVID-19 pandemic, and for standing up to pressure from Beijing.",
               "links": [
                 {
                   "text": "COVID-19 pandemic",
                   "type": "internal",
                   "page": "COVID-19 pandemic in Taiwan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Beijing"
                 }
               ]
             }
@@ -757,7 +761,7 @@
             "text": "August 31, 1956"
           },
           "birth_place": {
-            "text": "Mackay Memorial Hospital, Zhongshan, Taipei City, Taiwan Province, Republic of China",
+            "text": "Mackay Memorial Hospital, Zhongshan, Taipei, Taiwan",
             "links": [
               {
                 "type": "internal",
@@ -769,13 +773,12 @@
                 "page": "Zhongshan District, Taipei"
               },
               {
-                "text": "Taipei City",
                 "type": "internal",
                 "page": "Taipei"
               },
               {
                 "type": "internal",
-                "page": "Taiwan Province"
+                "page": "Taiwan"
               }
             ]
           },
@@ -928,7 +931,7 @@
         {
           "sentences": [
             {
-              "text": "Tsai was born at Mackay Memorial Hospital in Zhongshan District, Taipei City in Taiwan Province on 31 August 1956, the youngest of eleven children.",
+              "text": "Tsai was born at Mackay Memorial Hospital in Zhongshan District, Taipei, Taiwan on 31 August 1956, the youngest of eleven children.",
               "links": [
                 {
                   "type": "internal",
@@ -940,13 +943,12 @@
                   "page": "Zhongshan District, Taipei"
                 },
                 {
-                  "text": "Taipei City",
                   "type": "internal",
                   "page": "Taipei"
                 },
                 {
                   "type": "internal",
-                  "page": "Taiwan Province"
+                  "page": "Taiwan"
                 }
               ]
             },
