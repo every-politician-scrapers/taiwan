@@ -325,7 +325,7 @@
             "text": "October 6, 1959"
           },
           "birth_place": {
-            "text": "Wanli, Taiwan",
+            "text": "Wanli, Taipei County, Taiwan Province, Republic of China",
             "links": [
               {
                 "text": "Wanli",
@@ -334,7 +334,11 @@
               },
               {
                 "type": "internal",
-                "page": "Taiwan"
+                "page": "Taipei County"
+              },
+              {
+                "type": "internal",
+                "page": "Taiwan Province"
               }
             ]
           },
