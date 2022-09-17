@@ -2471,7 +2471,31 @@
               ]
             },
             "Term": {
-              "text": "2019&ndash;present"
+              "text": "2019&ndash;2021"
+            }
+          },
+          {
+            "Office": {
+              "text": "Minister of Transportation and Communications",
+              "links": [
+                {
+                  "text": "Minister of Transportation and Communications",
+                  "type": "internal",
+                  "page": "Ministry of Transportation and Communications (Republic of China)"
+                }
+              ]
+            },
+            "Name": {
+              "text": "Wang Kwo-tsai",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Wang Kwo-tsai"
+                }
+              ]
+            },
+            "Term": {
+              "text": "2021-present"
             }
           },
           {
@@ -2616,6 +2640,30 @@
             },
             "Term": {
               "text": "2020&ndash;present"
+            }
+          },
+          {
+            "Office": {
+              "text": "Ministry of Digital Affairs",
+              "links": [
+                {
+                  "text": "Ministry of Digital Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Digital Affairs (Taiwan)"
+                }
+              ]
+            },
+            "Name": {
+              "text": "Audrey Tang",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Audrey Tang"
+                }
+              ]
+            },
+            "Term": {
+              "text": "2022&ndash;present"
             }
           }
         ]
