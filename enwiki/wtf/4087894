@@ -945,7 +945,7 @@
         {
           "sentences": [
             {
-              "text": "Tsai was born at Mackay Memorial Hospital in Zhongshan District, Taipei, Taiwan on 31 August 1956, the youngest of eleven children.",
+              "text": "Tsai was born at Mackay Memorial Hospital in Zhongshan District, Taipei City on 31 August 1956, the youngest of eleven children.",
               "links": [
                 {
                   "type": "internal",
@@ -957,12 +957,9 @@
                   "page": "Zhongshan District, Taipei"
                 },
                 {
+                  "text": "Taipei City",
                   "type": "internal",
                   "page": "Taipei"
-                },
-                {
-                  "type": "internal",
-                  "page": "Taiwan"
                 }
               ]
             },
