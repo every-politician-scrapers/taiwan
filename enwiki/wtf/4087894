@@ -314,7 +314,13 @@
               ]
             },
             {
-              "text": "Tsai is the second president from the Democratic Progressive Party, and the first president to have never held a prior elected executive post."
+              "text": "Tsai is the second president from the Democratic Progressive Party, and the first popularly elected president to have never served as Mayor of Taipei.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mayor of Taipei"
+                }
+              ]
             }
           ]
         },
