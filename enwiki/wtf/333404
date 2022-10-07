@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Su Tseng-chang (born 28 July 1947) is a Taiwanese politician serving as premier of the Republic of China (Taiwan) since 2019, and previously from 2006 to 2007.",
+              "text": "Hope Su Tseng-chang (born 28 July 1947) is a Taiwanese politician serving as premier of the Republic of China (Taiwan) since 2019, and previously from 2006 to 2007.",
               "links": [
                 {
                   "text": "Taiwanese",
@@ -39,7 +39,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Su Tseng-chang"
+                  "Hope Su Tseng-chang"
                 ]
               }
             },
@@ -507,6 +507,15 @@
           "first": "June",
           "last": "Tsai",
           "date": "31 May 2012",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "獨／陳菊私人Line帳號英文名曝光！賴清德是「威廉」、蘇貞昌叫Hope JW是誰？ {{!}} ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20200714/1759757.htm",
+          "access-date": "2020-07-17",
+          "website": "www.ettoday.net",
+          "language": "zh-Hant",
           "template": "citation",
           "type": "web"
         },
