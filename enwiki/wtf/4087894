@@ -539,10 +539,6 @@
               },
               {
                 "type": "internal",
-                "page": "Lai Ching-te"
-              },
-              {
-                "type": "internal",
                 "page": "Su Tseng-chang"
               }
             ]
@@ -588,22 +584,10 @@
             "text": "24 November 2018"
           },
           "predecessor2": {
-            "text": "Su Tseng-chang",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Su Tseng-chang"
-              }
-            ]
+            "text": "Su Tseng-chang"
           },
           "successor2": {
-            "text": "Cho Jung-tai",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cho Jung-tai"
-              }
-            ]
+            "text": "Cho Jung-tai"
           },
           "term_start3": {
             "text": "20 May 2008"
@@ -621,13 +605,7 @@
             ]
           },
           "successor3": {
-            "text": "Su Tseng-chang",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Su Tseng-chang"
-              }
-            ]
+            "text": "Su Tseng-chang"
           },
           "office4": {
             "text": "Vice Premier of the Republic of China",
@@ -639,13 +617,7 @@
             ]
           },
           "premier4": {
-            "text": "Su Tseng-chang",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Su Tseng-chang"
-              }
-            ]
+            "text": "Su Tseng-chang"
           },
           "term_start4": {
             "text": "25 January 2006"
