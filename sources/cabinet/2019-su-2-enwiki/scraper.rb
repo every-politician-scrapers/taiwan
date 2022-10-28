@@ -11,7 +11,7 @@ class MemberList
     decorator WikidataIdsDecorator::Links
 
     def member_container
-      noko.xpath("//table[.//th[contains(.,'English')]][position()<3]//tr[td]")
+      noko.xpath("//table[.//th[contains(.,'English')]]//tr[td]")
     end
   end
 
@@ -21,7 +21,7 @@ class MemberList
     end
 
     field :name do
-      name_node.at_css('a') ? name_node.at_css('a').text.tidy : name_node.text.tidy
+      name_node.at_css('a') ? name_node.at_css('a').text.tidy : name_node.text.split('(').first.tidy
     end
 
     field :positionID do
