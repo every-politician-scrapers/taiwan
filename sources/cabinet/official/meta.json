@@ -1,0 +1,22 @@
+{
+    "jurisdiction": {
+        "name": "Taiwan",
+        "id": "Q865"
+    },
+    "cabinet": {
+      "id":     "Q60995090",
+      "start":  "2019-01-14",
+      "parent": "Q715055"
+    },
+    "reference": {
+        "P854":   "https://english.ey.gov.tw/Page/540C919953029C52",
+        "P1476": {
+            "text": "Heads of Ministries and Agencies",
+            "language": "en"
+        }
+    },
+    "current_only": "true",
+    "person_description": {
+        "en": "politician in Taiwan"
+    }
+}
