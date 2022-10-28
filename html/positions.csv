@@ -1,11 +1,37 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q114895807,Chairperson of the Central Election Commission,,Q865,,,,,,,
+Q114895813,Chairperson of the Fair Trade Commission,,Q865,,,,,,,
+Q114895801,Chairperson of the Financial Supervisory Commission,,Q865,,,,,,,
+Q114895780,Chairperson of the National Communications Commission,,Q865,,,,,,,
+Q114895828,Director of the National Palace Museum,,Q865,,,,,,,
+Q114895734,Governor of the Central Bank of the Republic of China,Q865,,,,,,,,
 Q6310593,Member of the Legislative Yuan,Q865,Q865,,,,,,,
 Q11078943,Minister Without Portfolio,Q865,Q865,,,,,,,
+Q114895338,Minister of Agriculture,,Q865,,,,,,,
+Q114895432,Minister of Atomic Energy,,Q865,,,,,,,
+Q114895411,"Minister of Budget, Accounting and Statistics",,Q865,,,,,,,
+Q114894988,Minister of Culture,,Q865,,,,,,,
+Q113630396,Minister of Digital Affairs,Q865,Q865,,,2022-08-27,,,,
+Q114894847,Minister of Economic Affairs,,Q865,,,,,,,
+Q114894853,Minister of Education,,Q865,,,,,,,
 Q20789094,Minister of Environmental Protection Administration of the Executive Yuan,Q865,Q865,,,,,,,
+Q114894856,Minister of Finance,,Q865,,,,,,,
 Q2482650,Minister of Foreign Affairs of the Republic of China,Q865,Q865,,,,,,,Minister of Foreign Affairs (Republic of China)
+Q114894998,Minister of Hakka Affairs,,Q865,,,,,,,
+Q114894860,Minister of Health and Welfare,,Q865,,,,,,,
+Q60595885,Minister of Indigenous Affairs,Q865,Q865,,,,,,,
 Q106361604,Minister of Justice,Q865,Q865,,,,,,,Minister of Justice (Taiwan)
+Q114894866,Minister of Labor,,Q865,,,,,,,
+Q114895384,Minister of Mainland Affairs,,Q865,,,,,,,
 Q21449248,Minister of National Defense of the Republic of China,Q865,,,,,,,,Minister of National Defense (Republic of China)
+Q114895586,Minister of National Development,,Q865,,,,,,,
+Q114895405,Minister of Ocean Affairs,,Q865,,,,,,,
+Q114895676,Minister of Overseas Community Affairs,,Q865,,,,,,,
+Q114895656,Minister of Personnel Administration,,Q865,,,,,,,
+Q114895726,Minister of Public Construction,,Q865,,,,,,,
+Q114894927,Minister of Science and Technology,,Q865,,,,,,,
 Q10876310,Minister of Transportation and Communications of the Republic of China,Q865,Q865,,,,,,,
+Q114895418,Minister of Veterans Affairs,,Q865,,,,,,,
 Q108022269,Minister of interior of Taiwan,Q865,Q865,,,,,,,
 Q702650,President of the Executive Yuan,Q865,Q865,Q13644819,Q4907617,1928,,,,Premier of the Republic of China
 Q7241342,President of the Legislative Yuan,,Q865,,,1928-03-13,,,,President of the Legislative Yuan

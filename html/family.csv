@@ -1,7 +1,9 @@
 id,name,relationship,relative,relativename
 Q11099334,Woody Tyzz-Jiun Duh,sibling,Q60991997,Tu Tze-chen
 Q14866531,Luo Ying-shay,father,Q15936472,羅錫疇
+Q15025,Audrey Tang,mother,Q9210881,Lee Ya-ching
 Q15909081,Wellington Koo,spouse,Q15918515,Wang Mei-hua
+Q15918515,Wang Mei-hua,spouse,Q15909081,Wellington Koo
 Q15920021,Chiang Wan-an,father,Q5371883,Chiang Hsiao-yen
 Q15920021,Chiang Wan-an,relative,Q16574,Chiang Kai-shek
 Q15920021,Chiang Wan-an,sibling,Q15915513,Vivian Chang
@@ -168,5 +170,6 @@ Q9130647,Yu Mei-nu,spouse,Q55829919,Remington Huang
 Q9141091,Hsu Hsin-ying,sibling,Q22099965,徐世勳
 Q9182314,Chen Chien-jen,father,Q22099625,Chen Hsin-an
 Q9185489,Wu Rong-i,child,Q1965328,Wu Chih-chung
+Q9206928,Lee Yung-te,spouse,Q8347775,Chiu Yi-ying
 Q9292454,Freddy Lim,spouse,Q15903733,Doris Yeh
 Q9458408,Huang Wen-ling,father,Q9459543,George Huang

@@ -63,6 +63,11 @@ Secretary General,Chien Tai-lang,Q8975842,2015-01-24,2016-05-20
 Secretary General,Chen Mei-ling,Q24247649,2016-05-20,2017-09-07
 Secretary General,Cho Jung-tai,Q5116472,2017-09-18,2018-12-28
 Secretary General,Lee Meng-yen,Q38876935,2019-01-14,
+Minister of Agriculture,Chen Chi-chung,Q60431375,2019-01-14,
+Minister of Atomic Energy,Hsieh Shou-shing,Q28416621,2016-05-20,
+"Minister of Budget, Accounting and Statistics",Chu Tzer-ming,Q24053403,2016-05-20,
+Minister of Culture,Cheng Li-chun,Q8351107,2016-05-20,2020-05-20
+Minister of Culture,Lee Yung-te,Q9206928,2020-05-20,
 Minister of Defence,Tang Fei,Q716768,1999-02-01,2000-05-19
 Minister of Defence,Wu Shih-wen,Q8276889,2000-05-20,2002-01-31
 Minister of Defence,Tang Yao-ming,Q9308254,2002-02-01,2004-05-19
@@ -77,8 +82,15 @@ Minister of Defence,Kao Kuang-chi,Q14516312,2015-01-31,2016-05-19
 Minister of Defence,Feng Shih-kuan,Q23894469,2016-05-20,2018-02-25
 Minister of Defence,Yen Teh-fa,Q15914789,2018-02-26,2021-02-23
 Minister of Defence,Chiu Kuo-cheng,Q19825815,2021-02-23,
+Minister of Digital Affairs,Audrey Tang,Q15025,2022-08-27,
+Minister of Economic Affairs,Shen Jong-chin,Q16150359,2017-09-08,2020-06-19
+Minister of Economic Affairs,Wang Mei-hua,Q15918515,2020-06-19,
+Minister of Education,Pan Wen-chung,Q23954823,2016-05-20,2018-04-14
+Minister of Education,Pan Wen-chung,Q23954823,2019-01-14,
 Minister of Environmental Protection,Stephen Shen,Q9302997,2008-05-20,2014-03-02
-Minister of Environmental Protection,Wei Kuo-yen,Q15831062,2014-03-03,
+Minister of Environmental Protection,Wei Kuo-yen,Q15831062,2014-03-03,2016-05-20
+Minister of Environmental Protection,Chang Tzi-chin,Q16143196,2019-01,
+Minister of Finance,Su Jain-rong,Q9340026,2018-07-16,
 Minister of Foreign Affairs,Chen Chien-jen,Q8273004,1999-11-30,2000-05-20
 Minister of Foreign Affairs,Tien Hung-mao,Q9317972,2000-05-20,2002-02-01
 Minister of Foreign Affairs,Eugene Chien,Q866951,2002-02-01,2004-04-16
@@ -90,6 +102,13 @@ Minister of Foreign Affairs,Timothy Yang,Q58182,2009-09-10,2012-09-26
 Minister of Foreign Affairs,David Lin,Q5236615,2012-09-27,2016-05-20
 Minister of Foreign Affairs,David Lee,Q5236438,2016-05-20,2018-02-25
 Minister of Foreign Affairs,Joseph Wu,Q6288088,2018-02-26,
+Minister of Hakka Affairs,Lee Yung-te,Q9206928,2005-03-15,2008-05-19
+Minister of Hakka Affairs,Lee Yung-te,Q9206928,2016-05-20,2020-05-19
+Minister of Hakka Affairs,Yiong Con-ziin,Q8350699,2020-05-20,
+Minister of Health and Welfare,Chen Shih-chung,Q28655382,2017-02-08,2022-07-18
+Minister of Health and Welfare,Hsueh Jui-yuan,Q40272747,2022-07-18,
+Minister of Indigenous Affairs,Icyang Parod,Q8350030,2016-05-20,
+Minister of Interior,Hsu Kuo-yung,Q8348841,2018-07-16,
 Minister of Justice,Yeh Chin-fong,Q8280389,1999-02-01,2000-05-20
 Minister of Justice,Chen Ding-nan,Q256274,2000-05-20,2005-02-01
 Minister of Justice,Morley Shih,Q9031582,2005-02-01,2008-05-20
@@ -100,11 +119,40 @@ Minister of Justice,Chen Ming-tang,Q16241144,2013-09-06,2013-09-30
 Minister of Justice,Luo Ying-shay,Q14866531,2013-09-30,2016-05-20
 Minister of Justice,Chiu Tai-san,Q8357028,2016-05-20,2018-07-16
 Minister of Justice,Tsai Ching-hsiang,Q55505798,2018-07-16,
+Minister of Labour,Hsu Ming-chun,Q50170749,2018-02-26,
+Minister of Mainland Affairs,Chen Ming-tong,Q13408438,2007-04-10,2008-05-20
+Minister of Mainland Affairs,Chen Ming-tong,Q13408438,2018-03-19,2021-02-22
+Minister of Mainland Affairs,Chiu Tai-san,Q8357028,2021-02-23,
+Minister of National Development,Chen Mei-ling,Q24247649,2017-09-08,2020-05-19
+Minister of National Development,Kung Ming-hsin,Q27735496,2020-05-20,
+Minister of Ocean Affairs,Lee Chung-wei,Q24238270,2019-02-15,2022-09-01
+Minister of Ocean Affairs,Chou Mei-wu,Q28416486,2022-09-01,
+Minister of Overseas Community Affairs,Wu Hsin-hsing,Q24053404,2016-05-20,2020-05-19
+Minister of Overseas Community Affairs,Tung Chen-yuan,Q9322496,2020-05-20,
+Minister of Personnel Administration,Jay N. Shih,Q16239908,2016-05-20,2022-02-11
+Minister of Personnel Administration,Su Chun-jung,Q27678861,2022-02-11,
+Minister of Public Construction,Wu Tze-cheng,Q29952844,2006-01-15,2008-05-20
+Minister of Public Construction,Wu Tze-cheng,Q29952844,2017-11-23,
+Minister of Science and Technology,Chen Liang-gee,Q15915252,2017-02-08,2020-05-19
+Minister of Science and Technology,Wu Tsung-tsong,Q26265161,2020-05-20,
 Minister of Transportation and Communications,Wang Kwo-tsai,Q24851744,2018-12-04,2019-01-13
+Minister of Transportation and Communications,Lin Chia-lung,Q6550004,2019-01-14,2021-04-19
 Minister of Transportation and Communications,Wang Kwo-tsai,Q24851744,2021-04-20,
+Minister of Veterans Affairs,Chiu Kuo-cheng,Q19825815,2018-02-26,2019-07-23
+Minister of Veterans Affairs,Feng Shih-kuan,Q23894469,2019-08-05,
 Minister Without Portfolio,Chen Chi-mai,Q5090717,2004-05-20,2005-02-01
 Minister Without Portfolio,Kao Su-po,Q8273451,2008-05-20,2011-02-09
+Minister Without Portfolio,Wu Tsung-tsong,Q26265161,2016-05-20,2020-05-19
+Minister Without Portfolio,Audrey Tang,Q15025,2016-10-01,2022-08-27
 Minister Without Portfolio,Hsu Kuo-yung,Q8348841,2017-12-25,2018-07-15
+Chairperson of the Central Election Commission,Lee Chin-yung,Q8349734,2019-02-25,
+Chairperson of the Fair Trade Commission,Huang Mei-ying,Q36618272,2017-02-01,2021-02-01
+Chairperson of the Fair Trade Commission,May Lee,Q114895959,2021-02-01,
+Chairperson of the Financial Supervisory Commission,Wellington Koo,Q15909081,2017-09-08,2020-05-19
+Chairperson of the Financial Supervisory Commission,Huang Tien-mu,Q21934105,2020-05-20,
+Chairperson of the National Communications Commission,Chen Yaw-shyang,Q85133282,2020-07-10,
+Director of the National Palace Museum,Wu Mi-cha,Q9055323,2019-02-15,
+Governor of the Central Bank,Yang Chin-long,Q11963553,2018-02-26,
 President of the Legislative Yuan,Wang Jin-pyng,Q707601,1999-02-01,2016-01-31
 President of the Legislative Yuan,Su Jia-chyuan,Q700774,2016-02-01,2020-01-31
 President of the Legislative Yuan,Yu Shyi-kun,Q707887,2020-02-01,
