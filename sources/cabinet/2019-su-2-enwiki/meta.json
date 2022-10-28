@@ -1,0 +1,17 @@
+{
+    "jurisdiction": {
+        "name": "Taiwan",
+        "id": "Q865"
+    },
+    "cabinet": {
+      "id":     "Q60995090",
+      "start":  "2019-01-14",
+      "parent": "Q715055"
+    },
+    "reference": {
+        "P4656": "https://en.wikipedia.org/wiki/Second_Su_cabinet"
+    },
+    "person_description": {
+        "en": "politician in Taiwan"
+    }
+}
