@@ -1,0 +1,207 @@
+{
+  "title": "Su Chun-jung",
+  "pageID": 52178142,
+  "categories": [
+    "Living people",
+    "1960 births",
+    "Political office-holders in the Republic of China on Taiwan",
+    "National Chung Hsing University alumni",
+    "Boston University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Su Chun-jung is a Taiwanese politician.",
+              "formatting": {
+                "bold": [
+                  "Su Chun-jung"
+                ]
+              }
+            },
+            {
+              "text": "He has served as the Deputy Minister of the Directorate-General of Personnel Administration since 20 May 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Directorate-General of Personnel Administration"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Taiwanese politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Su"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "list": [
+            "1960"
+          ],
+          "template": "b-da"
+        },
+        {
+          "c": "蘇俊榮",
+          "p": "Sū Jùnróng",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Su Chun-jung"
+          },
+          "native_name": {
+            "text": "蘇俊榮"
+          },
+          "office1": {
+            "text": "Deputy Minister of Directorate-General of Personnel Administration of the Republic of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Directorate-General of Personnel Administration"
+              },
+              {
+                "type": "internal",
+                "page": "Republic of China"
+              }
+            ]
+          },
+          "minister1": {
+            "text": "Jay N. Shih",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jay N. Shih"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "20 May 2016"
+          },
+          "nationality": {
+            "text": "Republic of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Republic of China"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "National Chung Hsing University Boston University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Chung Hsing University"
+              },
+              {
+                "type": "internal",
+                "page": "Boston University"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Su obtained his bachelor's degree in statistics from National Chung Hsing University in 1983 and master's degree in computer science from Boston University in the United States in 1988.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Chung Hsing University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Boston University"
+                },
+                {
+                  "type": "internal",
+                  "page": "United States"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.dgpa.gov.tw/ct.asp?xItem=9330&CtNode=1356&mp=10",
+          "date": "20 May 2016",
+          "title": "Minister's Profile",
+          "publisher": "Directorate-General of Personnel Administration, Executive Yuan",
+          "accessdate": "3 November 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "At the Financial Data Center of the Ministry of Finance (MOF), he was the Deputy Director-General in 2009-2011 and Director-General in 2011–2013.",
+              "links": [
+                {
+                  "text": "Ministry of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance (Taiwan)"
+                }
+              ]
+            },
+            {
+              "text": "In 2013–2016, he was the Director-General of Fiscal Information Agency of the MOF.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fiscal Information Agency"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "state": "collapsed",
+          "template": "executive yuan officials"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "taiwan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

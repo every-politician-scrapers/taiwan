@@ -1,0 +1,206 @@
+{
+  "title": "Chu Tzer-ming",
+  "pageID": 50245651,
+  "categories": [
+    "Political office-holders in the Republic of China on Taiwan",
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chu Tzer-ming is a Taiwanese educator and politician.",
+              "links": [
+                {
+                  "text": "Taiwanese",
+                  "type": "internal",
+                  "page": "Taiwanese people"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Chu Tzer-ming"
+                ]
+              }
+            },
+            {
+              "text": "He has been the Minister of the Directorate-General of Budget, Accounting and Statistics in the Executive Yuan since 20 May 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Directorate-General of Budget, Accounting and Statistics"
+                },
+                {
+                  "type": "internal",
+                  "page": "Executive Yuan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Chu"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "c": "朱澤民",
+          "p": "Zhū Zémín",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Chu Tzer-ming"
+          },
+          "native_name": {
+            "text": "朱澤民"
+          },
+          "office1": {
+            "text": "Minister of Directorate General of Budget, Accounting and Statistics of the Republic of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Directorate General of Budget, Accounting and Statistics"
+              },
+              {
+                "type": "internal",
+                "page": "Republic of China"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "20 May 2016"
+          },
+          "predecessor1": {
+            "text": "Shih Su-mei",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shih Su-mei"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Republic of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Republic of China"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "National Chengchi University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Chengchi University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://focustaiwan.tw/news/aipl/201604200018.aspx",
+          "title": "Cabinet lineup for education, culture announced",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2016/04/21/2003644461",
+          "title": "Fourteen more Cabinet members named",
+          "date": "21 April 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chu obtained his bachelor's degree in finance and master's degree in public finance from National Chengchi University (NCCU) in 1973 and 1977, respectively.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Chengchi University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.ey.gov.tw/en/Member_Info.aspx?n=C9F41B76CE5FB05D&s=C1AB93E4838E85E3",
+          "title": "Executive Yuan, R.O.C. (Taiwan)",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://eng.dgbas.gov.tw/ct.asp?xItem=39717&CtNode=1890&mp=2",
+          "title": "Directorate General of Budget, Accounting and Statistics, Executive Yuan, R.O.C. - Minister Tzer-Ming Chu",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chu was a lecturer at NCCU from 1977 to 1984, associate professor at NCCU from 1984 to 1995, associate professor at National Taipei University of Business from 2001 to 2005 and associate professor at Jinwen University of Science and Technology from 1999 to 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Taipei University of Business"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jinwen University of Science and Technology"
+                }
+              ]
+            },
+            {
+              "text": "He became Minister of the ROC Directorate-General of Budget, Accounting and Statistics on 20 May 2016."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "state": "collapsed",
+          "template": "executive yuan officials"
+        },
+        {
+          "template": "taiwan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

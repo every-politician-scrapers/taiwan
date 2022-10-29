@@ -926,7 +926,7 @@
         {
           "sentences": [
             {
-              "text": "On 29 November 2021, during the process co-operating with the Parliament to establish the All-Out Defense Mobilization Agency to reform the ROC Armed Forces Reserve system, Chiu personally handed a fifty-fifth annual military literature award to Colonel Yi-ching Zhou, Deputy Commander of the Psychological Warfare Team from the Political Warfare Bureau, author of the controversial short screenscript Lao Di for its deviation from the historical facts of Lieyu massacre in 1987, referring to the conscription reserve officer in the second lieutenant rank from the National Taiwan University and a retired Senior master sergeant as the offenders and the end with the refugees received the compensation to leave peacefully,  hence caused injustice concern among the veterans in the society.",
+              "text": "On 29 November 2021, during the process co-operating with the Parliament to establish the All-Out Defense Mobilization Agency to reform the ROC Armed Forces Reserve system, Chiu personally handed a fifty-fifth annual military literature award to Colonel Yi-ching Zhou, Deputy Commander of the Psychological Warfare Team from the Political Warfare Bureau, author of the controversial short screen script Lao Dzai for its deviation from the historical facts of Lieyu massacre in 1987, referring to the conscription reserve officer in the second lieutenant rank from the National Taiwan University and a retired Senior master sergeant as the offenders and the end with the refugees received the compensation to leave peacefully,  hence caused injustice concern among the veterans in the society.",
               "links": [
                 {
                   "text": "ROC Armed Forces Reserve",
@@ -977,7 +977,7 @@
               ],
               "formatting": {
                 "italic": [
-                  "Lao Di"
+                  "Lao Dzai"
                 ]
               }
             }
@@ -1033,7 +1033,7 @@
         },
         {
           "title": "S2E15與國軍文藝金像獎得主周宜慶上校談劇本《老翟》(上)",
-          "trans-title": "Talk with the winner of the ROC military literature award, Colonel Yi-ching Zhou on the screenscript <Lao Di>, Part I",
+          "trans-title": "Talk with the winner of the ROC military literature award, Colonel Yi-ching Zhou on the screen script <Lao Dzai>, Part I",
           "url": "https://player.soundon.fm/p/ebaf8612-7feb-48f7-858d-ca66d0d0ad2b/episodes/554c781b-8556-4883-8c04-93426fd9ef7d",
           "date": "25 February 2022",
           "access-date": "21 March 2022",
@@ -1049,7 +1049,7 @@
         },
         {
           "title": "S2E16與國軍文藝金像獎得主周宜慶談劇本《老翟》(下)",
-          "trans-title": "Talk with the winner of the ROC military literature award, Colonel Yi-ching Zhou on the screenscript <Lao Di>, Part II",
+          "trans-title": "Talk with the winner of the ROC military literature award, Colonel Yi-ching Zhou on the screen script <Lao Dzai>, Part II",
           "url": "https://podcasts.apple.com/tw/podcast/s2e16與國軍文藝金像獎得主周宜慶談劇本-老翟-下/id1562115557?i=1000552288970",
           "date": "25 February 2022",
           "access-date": "21 March 2022",
@@ -1186,6 +1186,126 @@
           "date": "25 March 2022",
           "access-date": "29 March 2022",
           "publisher": "RW News",
+          "language": "zh-TW",
+          "location": "Taipei",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "FBI Counterintelligence Investigation",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In October, 2022, FBI Counterintelligence Division arrested Chu Yi-fei, an employee of the National Oceanic and Atmospheric Administration for making false statements about his ties with the Republic of China Navy and falsifying documents when applying for security clearance, according to the FBI investigator's affidavit filed in federal court.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "FBI Counterintelligence Division"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Oceanic and Atmospheric Administration"
+                },
+                {
+                  "type": "internal",
+                  "page": "Republic of China Navy"
+                },
+                {
+                  "text": "security clearance",
+                  "type": "internal",
+                  "page": "security clearance"
+                },
+                {
+                  "text": "FBI",
+                  "type": "internal",
+                  "page": "Federal Bureau of Investigation"
+                }
+              ]
+            },
+            {
+              "text": "Born in Taiwan, Chu signed forms declaring he had renounced his citizenship in 2008, but concealed the fact being still a ROC citizen; and also lied about obtaining a new ROC passport and traveling to live in Taiwan in 2020-21 without his supervisors' knowledge."
+            },
+            {
+              "text": "Chu failed to disclose extensive contacts with the ROC Navy members and being hired by the Taiwanese company, and multiple meeting occasions on a military base in Taiwan.",
+              "links": [
+                {
+                  "text": "ROC Navy",
+                  "type": "internal",
+                  "page": "Republic of China Navy"
+                }
+              ]
+            },
+            {
+              "text": "Chu provided the ROC Navy the consulting services related to his work during an employment period with the United States Navy, which predated his work at NOAA, as per the criminal complaint announced by United States Attorney Dawn Ison.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United States Navy"
+                },
+                {
+                  "type": "internal",
+                  "page": "United States Attorney"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dawn Ison"
+                }
+              ]
+            },
+            {
+              "text": "On 28 October, Chiu delares that Chu is not a ROC military personnel, neither has the direct contact with the ROC Navy, nor ever entered a military camp as rumored."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "FBI nabs Taiwanese man for secret work with Taiwan Navy",
+          "url": "https://www.taiwannews.com.tw/en/news/4699956",
+          "first": "Keoni",
+          "last": "Everington",
+          "date": "25 October 2022",
+          "access-date": "28 October 2022",
+          "publisher": "Taiwan News",
+          "location": "Taipei",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Feds arrest Ypsi man in rare FBI counterintelligence probe",
+          "url": "https://www.detroitnews.com/story/news/local/michigan/2022/10/25/fbi-arrests-yifei-chu-in-counterintelligence-case-involving-taiwan/69589049007/",
+          "first": "Robert",
+          "last": "Snell",
+          "date": "25 October 2022",
+          "access-date": "28 October 2022",
+          "publisher": "The Detroit News",
+          "location": "Michigan",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ypsilanti man charged with making false statements to obtain security clearance",
+          "url": "https://www.cbsnews.com/detroit/news/ypsilanti-man-charged-with-making-false-statements-to-obtain-security-clearance/",
+          "date": "25 October 2022",
+          "access-date": "28 October 2022",
+          "publisher": "CBS News",
+          "location": "Detroit",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "美台裔公務員遭捕傳是台灣海軍　邱國正：已確認非軍方人員",
+          "trans-title": "Regarding the arrested U.S. public servant with Taiwanese origin being a Taiwanese Navy member, Chiu Kuo-cheng: \"Verified not a military personnel\"",
+          "url": "https://www.ettoday.net/news/20221028/2367761.htm",
+          "last": "Du",
+          "first": "Guan-lin",
+          "date": "28 October 2022",
+          "access-date": "28 October 2022",
+          "publisher": "ETtoday News",
           "language": "zh-TW",
           "location": "Taipei",
           "template": "citation",

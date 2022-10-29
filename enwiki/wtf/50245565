@@ -1,0 +1,406 @@
+{
+  "title": "Pan Wen-chung",
+  "pageID": 50245565,
+  "categories": [
+    "Living people",
+    "1962 births",
+    "Taiwanese Ministers of Education",
+    "National Taiwan Normal University alumni",
+    "Politicians of the Republic of China on Taiwan from Yilan County, Taiwan",
+    "Deputy mayors of Taichung"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pan Wen-chung (born 28 November 1962) is a Taiwanese educator and politician.",
+              "formatting": {
+                "bold": [
+                  "Pan Wen-chung"
+                ]
+              }
+            },
+            {
+              "text": "He first served as Minister of Education from May 2016 to April 2018 and returned to the post in January 2019.",
+              "links": [
+                {
+                  "text": "Minister of Education",
+                  "type": "internal",
+                  "page": "Ministry of Education (Taiwan)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Taiwanese educator and politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Pan"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "df": "y",
+          "year": "1962",
+          "month": "11",
+          "day": "28",
+          "template": "birth date and age"
+        },
+        {
+          "c": "潘文忠",
+          "w": "Pʻan¹ Wên²-Chung¹",
+          "p": "Pān Wénzhōng",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Pan Wen-chung"
+          },
+          "native_name": {
+            "text": "潘文忠"
+          },
+          "image": {
+            "text": "教育部長潘文忠 (cropped).jpg"
+          },
+          "office1": {
+            "text": "Minister of Education of the Republic of China",
+            "links": [
+              {
+                "text": "Minister of Education",
+                "type": "internal",
+                "page": "Ministry of Education (Taiwan)"
+              }
+            ]
+          },
+          "deputy1": {
+            "text": "Fan Sun-lu, Lio Mon-chi (political) Lin Teng-chiao (administrative)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fan Sun-lu"
+              },
+              {
+                "type": "internal",
+                "page": "Lio Mon-chi"
+              },
+              {
+                "type": "internal",
+                "page": "Lin Teng-chiao"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "14 January 2019"
+          },
+          "predecessor1": {
+            "text": "Yao Leeh-ter (acting) Yeh Jiunn-rong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yao Leeh-ter"
+              },
+              {
+                "type": "internal",
+                "page": "Yeh Jiunn-rong"
+              }
+            ]
+          },
+          "deputy2": {
+            "text": "Chen Liang-gee, Tsai Ching-hwa (political) Lin Teng-chiao (administrative)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chen Liang-gee"
+              },
+              {
+                "type": "internal",
+                "page": "Tsai Ching-hwa"
+              },
+              {
+                "type": "internal",
+                "page": "Lin Teng-chiao"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "20 May 2016"
+          },
+          "term_end2": {
+            "text": "14 April 2018"
+          },
+          "predecessor2": {
+            "text": "Wu Se-hwa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wu Se-hwa"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Maw-Kuen Wu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maw-Kuen Wu"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Deputy Mayor of Taichung",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Taichung"
+              }
+            ]
+          },
+          "1blankname3": {
+            "text": "Mayor"
+          },
+          "1namedata3": {
+            "text": "Jason Hu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jason Hu"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "2014",
+            "number": 2014
+          },
+          "term_end3": {
+            "text": "2016",
+            "number": 2016
+          },
+          "birth_date": {
+            "text": "November 28, 1962"
+          },
+          "birth_place": {
+            "text": "Zhuangwei, Yilan County, Taiwan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zhuangwei"
+              },
+              {
+                "text": "Yilan County",
+                "type": "internal",
+                "page": "Yilan County, Taiwan"
+              },
+              {
+                "type": "internal",
+                "page": "Taiwan"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Republic of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Republic of China"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Taiwan Provincial Junior Teachers’ College National Taiwan Normal University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Taiwan Provincial Junior Teachers’ College"
+              },
+              {
+                "type": "internal",
+                "page": "National Taiwan Normal University"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pan obtained his teaching certificate from Taiwan Provincial Junior Teachers’ College in 1983.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Taiwan Provincial Junior Teachers’ College"
+                }
+              ]
+            },
+            {
+              "text": "He then obtained his bachelor's, master's and doctoral degrees in education from National Taiwan Normal University in 1989, 1993 and 2003 respectively.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Taiwan Normal University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://english.moe.gov.tw/content.asp?CuItem=16746",
+          "title": "Minister of Education Wen-Chung Pan",
+          "last": "徐玉芳",
+          "date": "19 May 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Ministry of Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pan was named Minister of Education in April 2016, and took office on 20 May.",
+              "links": [
+                {
+                  "text": "Minister of Education",
+                  "type": "internal",
+                  "page": "Ministry of Education (Taiwan)"
+                }
+              ]
+            },
+            {
+              "text": "On 13 October 2016, Pan unveiled the Youth Employment Pilot Program at the Executive Yuan to help the low income high school graduates to college or careers in which those qualified will get a NT$5,000 monthly subsidy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Executive Yuan"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Youth Employment Pilot Program"
+                ]
+              }
+            },
+            {
+              "text": "He resigned from the education ministry in April 2018, over the controversy regarding the selection of Kuan Chung-ming as president of National Taiwan University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kuan Chung-ming"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Taiwan University"
+                }
+              ]
+            },
+            {
+              "text": "Pan was reappointed education minister in January 2019."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://focustaiwan.tw/news/aipl/201604200018.aspx",
+          "title": "Cabinet lineup for education, culture announced",
+          "agency": "Central News Agency",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2016/10/14/2003657132",
+          "title": "Minister unveils youth subsidy program - Taipei Times",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Lin",
+          "first1": "Sean",
+          "title": "Minister quits over NTU controversy",
+          "url": "http://www.taipeitimes.com/News/front/archives/2018/04/15/2003691341",
+          "access-date": "15 April 2018",
+          "work": "Taipei Times",
+          "date": "15 April 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Ku",
+          "first1": "Chuan",
+          "last2": "Chen",
+          "first2": "Chih-chung",
+          "last3": "Low",
+          "first3": "Y.F.",
+          "title": "Education minister resigns over NTU president-elect appointment row",
+          "url": "http://focustaiwan.tw/news/aipl/201804140005.aspx",
+          "access-date": "14 April 2018",
+          "agency": "Central News Agency",
+          "date": "14 April 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Chen",
+          "first1": "Yu-fu",
+          "last2": "Hetherington",
+          "first2": "William",
+          "title": "Cabinet announces ministers, ideology",
+          "url": "http://www.taipeitimes.com/News/front/archives/2019/01/14/2003707899",
+          "access-date": "14 January 2019",
+          "work": "Taipei Times",
+          "date": "14 January 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "commons category"
+        },
+        {
+          "template": "wikiquote"
+        },
+        {
+          "template": "ministers of education of the republic of china"
+        },
+        {
+          "template": "executive yuan officials"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "taiwan-mayor-stub"
+        }
+      ]
+    }
+  ]
+}

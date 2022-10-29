@@ -1,0 +1,910 @@
+{
+  "title": "Yiong Con-ziin",
+  "pageID": 64010859,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "Taiwanese politicians of Hakka descent",
+    "Democratic Progressive Party (Taiwan) politicians",
+    "Government ministers of Taiwan",
+    "Politicians of the Republic of China on Taiwan from Miaoli County",
+    "Tunghai University alumni",
+    "Taiwanese human rights activists",
+    "21st-century Taiwanese politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yiong Con-ziin (born 22 April 1963) is a Taiwanese politician.",
+              "formatting": {
+                "bold": [
+                  "Yiong Con-ziin"
+                ]
+              }
+            },
+            {
+              "text": "He worked in several capacities within the Democratic Progressive Party, and was named minister of the Hakka Affairs Council on 20 May 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Democratic Progressive Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hakka Affairs Council"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Taiwanese politician",
+          "template": "short description"
+        },
+        {
+          "year": "1963",
+          "month": "4",
+          "day": "22",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "t": "楊長鎮",
+          "p": "Yáng Chángzhèn",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Yiong Con-ziin"
+          },
+          "native_name": {
+            "text": "楊長鎮"
+          },
+          "image": {
+            "text": "Yiong Con-ziin (cropped).jpg"
+          },
+          "office1": {
+            "text": "Minister of the Hakka Affairs Council",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hakka Affairs Council"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "20 May 2020"
+          },
+          "predecessor1": {
+            "text": "Lee Yung-te",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lee Yung-te"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Deputy Minister of the Hakka Affairs Council",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hakka Affairs Council"
+              }
+            ]
+          },
+          "minister2": {
+            "text": "Lee Yung-te",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lee Yung-te"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "20 May 2016"
+          },
+          "term_end2": {
+            "text": "19 May 2020"
+          },
+          "birth_date": {
+            "text": "April 22, 1963"
+          },
+          "birth_place": {
+            "text": "Shitan, Miaoli County, Taiwan",
+            "links": [
+              {
+                "text": "Shitan",
+                "type": "internal",
+                "page": "Shitan, Miaoli"
+              },
+              {
+                "type": "internal",
+                "page": "Miaoli County"
+              },
+              {
+                "type": "internal",
+                "page": "Taiwan"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Republic of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Republic of China"
+              }
+            ]
+          },
+          "party": {
+            "text": "Democratic Progressive Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Democratic Progressive Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Tunghai University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tunghai University"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yiong was born on 22 April 1963."
+            },
+            {
+              "text": "He was raised in Shitan, Miaoli, and speaks Taiwanese Hakka.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Shitan, Miaoli"
+                },
+                {
+                  "type": "internal",
+                  "page": "Taiwanese Hakka"
+                }
+              ]
+            },
+            {
+              "text": "He is a graduate of Tunghai University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tunghai University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "很潮！ 客委會副主委楊長鎮秀出「客語拼音」護照",
+          "url": "https://newtalk.tw/news/view/2020-05-11/404950",
+          "access-date": "21 May 2020",
+          "work": "Newtalk",
+          "date": "11 May 2020",
+          "language": "zh",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Loa",
+          "first1": "Iok-sin",
+          "title": "Group to take action against local officials over kilns",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2009/01/12/2003433516",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "12 January 2009",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Lin",
+          "first1": "Jean",
+          "title": "Hakka activists decry prejudice in legislature",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2005/10/13/2003275571",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "13 October 2005",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Loa",
+          "first1": "Iok-sin",
+          "title": "DPP candidate calls for checks of Hakka road sign names",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2011/09/23/2003513988",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "23 September 2011",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Lee Yung-te Appointed Minister of Hakka Affairs Council; Yiong Cong-ziin Deputy Minister",
+          "url": "https://english.hakka.gov.tw/Content/Content?NodeID=463&PageID=34912&LanguageType=ENG",
+          "access-date": "20 May 2020",
+          "agency": "Hakka Affairs Council",
+          "date": "20 May 2016",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 1990, Yiong began working for Yeh Chu-lan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yeh Chu-lan"
+                }
+              ]
+            },
+            {
+              "text": "Yiong was appointed to the Hakka Affairs Council in 2001, the year it was founded.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hakka Affairs Council"
+                }
+              ]
+            },
+            {
+              "text": "By 2004, Yiong had become leader of the Democratic Progressive Party's Ethnic Affairs Department.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Democratic Progressive Party"
+                }
+              ]
+            },
+            {
+              "text": "As director of the Ethnic Affairs Department, Yiong backed initiatives reaching out to Taiwanese indigenous people and those of Mainland Chinese descent.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Taiwanese indigenous people"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mainland Chinese"
+                }
+              ]
+            },
+            {
+              "text": "During his tenure, the party passed the Resolution on Ethnic Diversity and National Unity, and issued a report on Japanese rule in Taiwan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Japanese rule in Taiwan"
+                }
+              ]
+            },
+            {
+              "text": "In 2005, the DPP Ethnic Affairs Department produced a documentary about the sinking of the Taiping on 27 January 1949.",
+              "links": [
+                {
+                  "text": "Taiping",
+                  "type": "internal",
+                  "page": "Taiping (steamer)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Taiping"
+                ]
+              }
+            },
+            {
+              "text": "The Democratic Progressive Party nominated Yiong to contest the Miaoli County magistracy in 2005, which he lost to Liu Cheng-hung.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Liu Cheng-hung"
+                }
+              ]
+            },
+            {
+              "text": "Yiong subsequently returned to the Department of Ethnic Affairs."
+            },
+            {
+              "text": "By 2009, Yiong had become the leader of the DPP Department of Social Movement."
+            },
+            {
+              "text": "In December of that year, he again sought the Miaoli County magistracy, which Liu Cheng-hung retained."
+            },
+            {
+              "text": "By 2011, Yiong was reappointed to the DPP's Ethnic Affairs Department."
+            },
+            {
+              "text": "The party backed his 2012 legislative bid in Miaoli."
+            },
+            {
+              "text": "During his own campaign, Yiong analyzed the Tsai Ing-wen presidential bid with regard to Hakka voters.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tsai Ing-wen"
+                }
+              ]
+            },
+            {
+              "text": "Yiong and other Hakka drew attention to the lack of promotion and resources devoted to the culture under the Ma Ying-jeou administration.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ma Ying-jeou"
+                }
+              ]
+            },
+            {
+              "text": "After losing the legislative election, Yiong worked for Thinking Taiwan, an organization affiliated with Tsai Ing-wen, as director of its Social Force Development Center."
+            },
+            {
+              "text": "By 2015, Yiong returned to work for the Democratic Progressive Party, serving as director of the Taiwan Academy for Democracy."
+            },
+            {
+              "text": "From 20 May 2016, Yiong served as deputy minister of the Hakka Affairs Council under Lee Yung-te.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lee Yung-te"
+                }
+              ]
+            },
+            {
+              "text": "Yiong replaced Lee as leader of the Hakka Affairs Council after Lee was named culture minister at the start of Tsai Ing-wen's second presidential term."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Outside of the Democratic Progressive Party, Yiong has supported a number of causes as an activist."
+            },
+            {
+              "text": "He was a member of the Culture and History Council at the Community Construction Society and the Alliance to Preserve Four Four South Village as a National Relic."
+            },
+            {
+              "text": "Both organizations supported the preservation of Four Four South Village as a historic site.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Four Four South Village"
+                }
+              ]
+            },
+            {
+              "text": "Yiong's continued activism led to him becoming a founding member of Taiwan Friends of Tibet, and Taiwan Friends of Uyghurs."
+            },
+            {
+              "text": "Yiong has served as the deputy chairman of Taiwan Friends of Tibet, and the executive director of the Deng Liberty Foundation."
+            },
+            {
+              "text": "While affiliated with Taiwan Friends of Tibet, Yiong called for the government to grant asylum to Tibetans in Taiwan, distributed flyers at the Taipei Zoo, participated in several commemorations of the 1959 Tibetan uprising,  and petitioned the Ma Ying-jeou presidential administration regarding human rights in Tibet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Taipei Zoo"
+                },
+                {
+                  "text": "1959 Tibetan uprising",
+                  "type": "internal",
+                  "page": "1959 Tibetan uprising"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Hong",
+          "first1": "Caroline",
+          "title": "Yeh Chu-lan sheds image as victimized widow",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2004/05/10/2003154870",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "10 May 2004",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Lin",
+          "first1": "Miao-Jung",
+          "title": "Seminar tackles ethnic issues",
+          "url": "http://www.taipeitimes.com/News/local/archives/2001/12/26/0000117347",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "26 December 2001",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Chang",
+          "first1": "Yun-ping",
+          "title": "DPP using anniversary to vie for Hakkas",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2004/07/04/2003177617",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "4 July 2004",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Chang",
+          "first1": "Yun-ping",
+          "title": "Panel backs Chen to lead DPP",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2004/07/24/2003180201",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "24 July 2004",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Hong",
+          "first1": "Caroline",
+          "title": "Respect key to solving ethnic conflict",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2004/10/18/2003207376",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "18 October 2004",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Lin",
+          "first1": "Chieh-yu",
+          "title": "Lu claims others should apologize for controversy",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2004/07/25/2003180334",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "25 July 2004",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Huang",
+          "first1": "Jewel",
+          "title": "DPP charter change proposal an effort to ease tensions",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2004/09/24/2003204123",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "24 September 2004",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "DPP clarifies stance on Taiwan's era as a colony of Japan",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2005/08/16/2003267914",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "16 August 2005",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Huang",
+          "first1": "Jewel",
+          "title": "TV film recounts horror of `Taiping' steamer tragedy",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2005/04/23/2003251591",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "23 April 2005",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Wang",
+          "first1": "Hsiao-wen",
+          "title": "Historic sea tragedy revisited",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2005/01/27/2003221111",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "27 January 2005",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Huang",
+          "first1": "Jewel",
+          "title": "DPP readies candidate picks for year-end polls",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2005/06/21/2003260135",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "21 June 2005",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Loa",
+          "first1": "Iok-sin",
+          "title": "Tibetans in exile launch global action for Tibet",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2007/08/09/2003373310",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "9 August 2007",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Loa",
+          "first1": "Iok-sin",
+          "title": "Taiwan urged to export democracy to China",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2009/06/01/2003445087",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "1 June 2009",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Almost the status quo",
+          "url": "http://www.taipeitimes.com/images/2009/12/06/TT-981206-P03-IB.pdf",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "6 December 2009",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Wang",
+          "first1": "Chris",
+          "title": "ANALYSIS: DPP confident of its chances in Hakka constituencies",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2011/08/15/2003510794",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "15 August 2011",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Wang",
+          "first1": "Chris",
+          "title": "2012 ELECTIONS: Hakkas unhappy with Wu’s stance",
+          "url": "http://www.taipeitimes.com/News/front/archives/2011/11/16/2003518417",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "16 November 2011",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Wang",
+          "first1": "Chris",
+          "title": "2012 ELECTIONS: ANALYSIS: Multifaceted Tsai is different kind of candidate",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2011/10/28/2003516876",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "28 October 2011",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Wang",
+          "first1": "Chris",
+          "title": "DPP is confident of Hakka vote",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2011/10/16/2003515887",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "16 October 2011",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Wang",
+          "first1": "Chris",
+          "title": "Ma did not deliver, Hakka groups say",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2011/11/29/2003519491",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "29 November 2011",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Loa",
+          "first1": "Iok-sin",
+          "title": "Clear status of Hakka TV for better future: activists",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2013/06/30/2003565996",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "30 June 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Wang",
+          "first1": "Chris",
+          "title": "NUCLEAR POWER DEBATE: Majority wants no plebiscite threshold",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2014/04/30/2003589235",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "30 April 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Chen",
+          "first1": "Wei-han",
+          "title": "Greenpeace gives yellow card to KMT, DPP",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2015/12/19/2003635163",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "19 December 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Loa",
+          "first1": "Iok-sin",
+          "title": "Parents demand restoration of BCT",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2015/10/26/2003630959",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "26 October 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Wu",
+          "first1": "Hsin-tien",
+          "last2": "Heatherington",
+          "first2": "William",
+          "title": "Mauritius hotel calls off event after Chinese threat",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2018/02/26/2003688285",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "26 February 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Yeh",
+          "first1": "Joseph",
+          "title": "Taiwan cancels Hakka event in Mauritius due to Chinese oppression",
+          "url": "https://focustaiwan.tw/politics/201802250008",
+          "access-date": "20 May 2020",
+          "agency": "Central News Agency",
+          "date": "25 February 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Lin",
+          "first1": "Sean",
+          "title": "Holdovers means new Cabinet looks much like old one",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2020/05/20/2003736742",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "20 May 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Ku",
+          "first1": "Chuan",
+          "last2": "Yu",
+          "first2": "Matt",
+          "last3": "Yeh",
+          "first3": "Joseph",
+          "title": "Minor Cabinet reshuffle announced ahead of Tsai's new term",
+          "url": "https://focustaiwan.tw/politics/202005190012",
+          "access-date": "20 May 2020",
+          "agency": "Central News Agency",
+          "date": "19 May 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Wang",
+          "first1": "Flor",
+          "last2": "Wang",
+          "first2": "Cheng-chung",
+          "last3": "Wen",
+          "first3": "Kuei-hsiang",
+          "title": "Culture minister quits, six others to keep posts in new Cabinet",
+          "url": "https://focustaiwan.tw/politics/202005150013",
+          "access-date": "20 May 2020",
+          "agency": "Central News Agency",
+          "date": "15 May 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Ko",
+          "first1": "Shu-ling",
+          "title": "Activists appeal to save village",
+          "url": "http://www.taipeitimes.com/News/local/archives/2001/01/17/0000070101",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "17 January 2001",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Ko",
+          "first1": "Shu-ling",
+          "url": "http://www.taipeitimes.com/News/local/archives/2001/03/24/78843",
+          "title": "Taipei City's decision on village confuses activists",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "24 March 2001",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Loa",
+          "first1": "Iok-sin",
+          "title": "Sunday parade to pay tribute to Tibetan uprising",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2010/03/11/2003467747",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "11 March 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Loa",
+          "first1": "Iok-sin",
+          "title": "Taiwan ‘must follow its own security policies’",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2013/04/27/2003560844",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "27 April 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Hsu",
+          "first1": "Jenny W.",
+          "title": "Descendants of victims mark ‘Taiping’ tragedy",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2009/01/18/2003434015",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "18 January 2009",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Hsu",
+          "first1": "Jenny W.",
+          "title": "Advocates voice support for Chinese democratic efforts",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2008/12/21/2003431656",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "21 December 2008",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Loa",
+          "first1": "Iok-sin",
+          "title": "Government urged to amend Immigration Act",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2008/12/26/2003432077",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "26 December 2008",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Loa",
+          "first1": "Iok-sin",
+          "title": "Tibet activists don panda costumes at Taipei Zoo",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2009/02/08/2003435562",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "8 February 2009",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "FEATURE: Parade honors memory of Tibetans 1959 uprising",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2010/03/15/2003468065",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "15 March 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Loa",
+          "first1": "Iok-sin",
+          "title": "Supporters of Tibet take to streets to mark 1959 uprising",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2014/03/10/2003585312",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "10 March 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Loa",
+          "first1": "Iok-sin",
+          "title": "Taiwan Friends of Tibet calls on all nations to join rally",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2014/03/06/2003584996",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "6 March 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Loa",
+          "first1": "Iok-sin",
+          "title": "Group reminds Ma to support Tibet",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2012/12/23/2003550809",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "23 December 2012",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Mo",
+          "first1": "Yan-chih",
+          "title": "Tibet freedom activists submit petition to Ma",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2012/03/10/2003527438",
+          "access-date": "20 May 2020",
+          "work": "Taipei Times",
+          "date": "10 March 2012",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "commons category"
+        },
+        {
+          "state": "collapsed",
+          "template": "executive yuan officials"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

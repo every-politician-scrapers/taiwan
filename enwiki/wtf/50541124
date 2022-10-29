@@ -1,0 +1,248 @@
+{
+  "title": "Hsieh Shou-shing",
+  "pageID": 50541124,
+  "categories": [
+    "1950 births",
+    "Living people",
+    "Political office-holders in the Republic of China on Taiwan"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hsieh Shou-shing (born 8 December 1950) is a Taiwanese politician, who has been the Minister of the Atomic Energy Council since 20 May 2016.",
+              "links": [
+                {
+                  "text": "Taiwanese",
+                  "type": "internal",
+                  "page": "Taiwanese people"
+                },
+                {
+                  "type": "internal",
+                  "page": "Atomic Energy Council"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Hsieh Shou-shing"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Politician from Taiwan",
+          "template": "short description"
+        },
+        {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Hsieh"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "list": [
+            "8 December 1950"
+          ],
+          "template": "b-da"
+        },
+        {
+          "t": "謝曉星",
+          "s": "谢晓星",
+          "first": "t",
+          "p": "Xiè Xiǎoxīng",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Hsieh Shou-shing"
+          },
+          "native_name": {
+            "text": "謝曉星"
+          },
+          "image": {
+            "text": "原能會主委謝曉星 (cropped).jpg"
+          },
+          "office1": {
+            "text": "Minister of Atomic Energy Council of the Republic of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Atomic Energy Council"
+              },
+              {
+                "type": "internal",
+                "page": "Republic of China"
+              }
+            ]
+          },
+          "deputy1": {
+            "text": "Tsai Huei-min, Huang Tsing-tung Tsai Huei-min, Chiu Tzu-tsung",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tsai Huei-min"
+              },
+              {
+                "type": "internal",
+                "page": "Huang Tsing-tung"
+              },
+              {
+                "type": "internal",
+                "page": "Tsai Huei-min"
+              },
+              {
+                "type": "internal",
+                "page": "Chiu Tzu-tsung"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "20 May 2016"
+          },
+          "predecessor1": {
+            "text": "Chou Yuan-chin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chou Yuan-chin"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Hsinchu City, Taiwan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hsinchu City"
+              },
+              {
+                "type": "internal",
+                "page": "Taiwan"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Republic of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Republic of China"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Tatung Institute of Technology National Taiwan University Drexel University Ohio State University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tatung Institute of Technology"
+              },
+              {
+                "type": "internal",
+                "page": "National Taiwan University"
+              },
+              {
+                "type": "internal",
+                "page": "Drexel University"
+              },
+              {
+                "type": "internal",
+                "page": "Ohio State University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "last": "Loa",
+          "first": "Iok-sin",
+          "date": "29 April 2016",
+          "url": "http://www.taipeitimes.com/News/front/archives/2016/04/29/2003645071",
+          "title": "Premier-designate presents final Cabinet picks",
+          "work": "Taipei Times",
+          "access-date": "13 November 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hsieh obtained his bachelor's degree in mechanical engineering from Tatung Institute of Technology in 1973, master's degree in mechanical engineering from National Taiwan University in 1978, master's degree in mechanical engineering from Drexel University in the United States (US) in 1980, master's and doctoral degrees in from Ohio State University in the US in 1981 and 1983 respectively.",
+              "links": [
+                {
+                  "text": "Tatung Institute of Technology",
+                  "type": "internal",
+                  "page": "Tatung University"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Taiwan University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Drexel University"
+                },
+                {
+                  "type": "internal",
+                  "page": "United States"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ohio State University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.ey.gov.tw/en/Member_Info.aspx?n=C9F41B76CE5FB05D&s=E8A62D04BE844430",
+          "title": "Executive Yuan, R.O.C. (Taiwan)",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "commons category"
+        },
+        {
+          "state": "collapsed",
+          "template": "executive yuan officials"
+        },
+        {
+          "template": "taiwan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

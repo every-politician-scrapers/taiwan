@@ -1,0 +1,921 @@
+{
+  "title": "Wu Mi-cha",
+  "pageID": 59947756,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "National Taiwan University alumni",
+    "National Taiwan University faculty",
+    "Historians of Taiwan",
+    "21st-century Taiwanese historians",
+    "20th-century Taiwanese historians",
+    "Democratic Progressive Party (Taiwan) politicians",
+    "Government ministers of Taiwan",
+    "Directors of National Palace Museum",
+    "University of Tokyo alumni",
+    "Writers from Tainan"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wu Mi-cha (born 22 March 1956) is a Taiwanese historian.",
+              "formatting": {
+                "bold": [
+                  "Wu Mi-cha"
+                ]
+              }
+            },
+            {
+              "text": "He was the vice chairman of the Council for Cultural Affairs from 2001 to 2004, after which he became director of the National Museum of Taiwan History.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Council for Cultural Affairs"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Museum of Taiwan History"
+                }
+              ]
+            },
+            {
+              "text": "In May 2016, Wu was appointed head of Academia Historica, serving until February 2019, when he was named Director of the National Palace Museum.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Academia Historica"
+                },
+                {
+                  "type": "internal",
+                  "page": "Director of the National Palace Museum"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Taiwanese historian",
+          "template": "short description"
+        },
+        {
+          "text": "Lu Fang-shang",
+          "lan1": "zh",
+          "text1": "呂芳上",
+          "template": "ill"
+        },
+        {
+          "text": "Chen Yi-shen",
+          "lan1": "zh",
+          "text1": "陳儀深",
+          "template": "ill"
+        },
+        {
+          "text": "Lu Li-cheng",
+          "lan1": "zh",
+          "text1": "呂理政",
+          "template": "ill"
+        },
+        {
+          "text": "Tchen Yu-chiou",
+          "lan1": "zh",
+          "text1": "陳郁秀",
+          "template": "ill"
+        },
+        {
+          "df": "y",
+          "year": "1956",
+          "month": "3",
+          "day": "22",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "吴",
+            "密",
+            "察"
+          ],
+          "template": "linktext"
+        },
+        {
+          "list": [
+            "吳",
+            "密",
+            "察"
+          ],
+          "template": "linktext"
+        },
+        {
+          "c": "吳密察",
+          "poj": "Ngô͘ Bi̍t-chhat",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "child": {
+            "text": "yes"
+          },
+          "p": {
+            "text": "Wú Mìchá"
+          },
+          "poj": {
+            "text": "Ngô͘ Bi̍t-chhat"
+          }
+        },
+        {
+          "name": {
+            "text": "Wu Mi-cha"
+          },
+          "native_name": {
+            "text": "吳密察"
+          },
+          "image": {
+            "text": "Wu Mi-cha 2017.jpg"
+          },
+          "caption": {
+            "text": "Wu in 2017"
+          },
+          "nationality": {
+            "text": "Republic of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Republic of China"
+              }
+            ]
+          },
+          "office": {
+            "text": "Director of the National Palace Museum",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Director of the National Palace Museum"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Chen Chi-nan Lee Ching-hui (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chen Chi-nan"
+              },
+              {
+                "type": "internal",
+                "page": "Lee Ching-hui"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "15 February 2019"
+          },
+          "office1": {
+            "text": "Director of Academia Historica"
+          },
+          "term_start1": {
+            "text": "20 May 2016"
+          },
+          "term_end1": {
+            "text": "13 February 2019"
+          },
+          "predecessor1": {
+            "text": "Lu Fang-shang"
+          },
+          "successor1": {
+            "text": "Ho Chih-lin (acting) Chen Yi-shen"
+          },
+          "office2": {
+            "text": "Director of the National Museum of Taiwan History",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Museum of Taiwan History"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "March 2007"
+          },
+          "term_end2": {
+            "text": "1 August 2008"
+          },
+          "successor2": {
+            "text": "Lu Li-cheng"
+          },
+          "office3": {
+            "text": "Vice Chairman of the Council for Cultural Affairs",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Council for Cultural Affairs"
+              }
+            ]
+          },
+          "minister3": {
+            "text": "Tchen Yu-chiou"
+          },
+          "term_start3": {
+            "text": "5 February 2001"
+          },
+          "term_end3": {
+            "text": "20 May 2004"
+          },
+          "predecessor3": {
+            "text": "Luo Wen-jia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luo Wen-jia"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Wu Chin-fa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wu Chin-fa"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 22, 1956"
+          },
+          "birth_place": {
+            "text": "Beimen, Tainan, Taiwan",
+            "links": [
+              {
+                "text": "Beimen",
+                "type": "internal",
+                "page": "Beimen District"
+              },
+              {
+                "type": "internal",
+                "page": "Tainan"
+              },
+              {
+                "type": "internal",
+                "page": "Taiwan"
+              }
+            ]
+          },
+          "party": {
+            "text": "Democratic Progressive Party (since 2002)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Democratic Progressive Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "National Taiwan University University of Tokyo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Taiwan University"
+              },
+              {
+                "type": "internal",
+                "page": "University of Tokyo"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wu studied history at National Taiwan University (NTU) and later joined the faculty after completing his doctorate at the University of Tokyo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Taiwan University"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Tokyo"
+                }
+              ]
+            },
+            {
+              "text": "He specialized in the history of Taiwan.",
+              "links": [
+                {
+                  "text": "history of Taiwan",
+                  "type": "internal",
+                  "page": "history of Taiwan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "By 2001, Wu joined the Executive Yuan as vice chairman of the Council of Cultural Affairs (CCA).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Executive Yuan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Council of Cultural Affairs"
+                }
+              ]
+            },
+            {
+              "text": "While working at the CCA, he remained on the NTU faculty."
+            },
+            {
+              "text": "In 2002, Wu and the CCA established a task force to investigate missing artifacts held by the National Taiwan Museum.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Taiwan Museum"
+                }
+              ]
+            },
+            {
+              "text": "Wu joined the Democratic Progressive Party in July of that year.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Democratic Progressive Party"
+                }
+              ]
+            },
+            {
+              "text": "In his CCA capacity, Wu acted as council spokesman and addressed several groups, among them the European Union Study Association–Taiwan and Ketagalan Academy."
+            },
+            {
+              "text": "In September 2003, Wu announced that the CCA had drafted the National Languages Development Law, ensuring that Taiwan would not have an official language, in turn allowing local governments to choose a suitable language for communication."
+            },
+            {
+              "text": "Wu was supportive of Taichung mayor Jason Hu's unsuccessful attempt to bring a branch of the Guggenheim Museum to the city.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jason Hu"
+                },
+                {
+                  "text": "Guggenheim Museum",
+                  "type": "internal",
+                  "page": "Solomon R. Guggenheim Museum"
+                }
+              ]
+            },
+            {
+              "text": "In April 2004, Wu visited Europe as CCA vice chair to discuss storage of historical documents."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He left the CCA in 2004, and returned to National Taiwan University."
+            },
+            {
+              "text": "Wu subsequent endeavors included a set of bilingual comic books on Taiwan's history, published in 2005, and a documentary on Lee Teng-hui's leadership during the democratization of Taiwan, released in 2006.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lee Teng-hui"
+                }
+              ]
+            },
+            {
+              "text": "Wu's other publications include Liu Yung-fu in the Yiwei Battle, contributions to The Expedition to Formosa, and International View of the 228 Incident.",
+              "formatting": {
+                "italic": [
+                  "Liu Yung-fu in the Yiwei Battle",
+                  "The Expedition to Formosa",
+                  "International View of the 228 Incident"
+                ]
+              }
+            },
+            {
+              "text": "By 2007, Wu had become the director of the National Museum of Taiwan History, which was scheduled to open the next year.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Museum of Taiwan History"
+                }
+              ]
+            },
+            {
+              "text": "Previously, in 2004, Wu had contributed records of Taiwan's opium production during the Japanese era to the museum.",
+              "links": [
+                {
+                  "text": "Japanese era",
+                  "type": "internal",
+                  "page": "Taiwan under Japanese rule"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2016, Wu was appointed director of Academia Historica and to the board of the Memorial Foundation of 228."
+            },
+            {
+              "text": "In August 2016, Wu stated that Academia Historica would be enforcing access restrictions to documents within its archives codified by Freedom of Government Information Act."
+            },
+            {
+              "text": "As the institute's director, Wu worked with the Tsai Ing-wen presidential administration to compile records of persecution, namely relating to the 228 incident of 1947.",
+              "links": [
+                {
+                  "text": "Tsai Ing-wen presidential administration",
+                  "type": "internal",
+                  "page": "Presidency of Tsai Ing-wen"
+                },
+                {
+                  "text": "228 incident",
+                  "type": "internal",
+                  "page": "228 incident"
+                }
+              ]
+            },
+            {
+              "text": "By June 2017, the Academia Historica under Wu's leadership had released 260,000 documents for publication online."
+            },
+            {
+              "text": "Wu has continually advocated for the declassification and publication of documents from several periods of the history of the Republic of China during his time with the Memorial Foundation of 228 and Academia Historica.",
+              "links": [
+                {
+                  "text": "history of the Republic of China",
+                  "type": "internal",
+                  "page": "history of the Republic of China"
+                }
+              ]
+            },
+            {
+              "text": "In February 2019, Wu was appointed as Director of the National Palace Museum.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Director of the National Palace Museum"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "Academia Historica",
+          "lan1": "zh",
+          "text1": "國史館",
+          "template": "ill"
+        },
+        {
+          "text": "Memorial Foundation of 228",
+          "lan1": "zh",
+          "text1": "二二八事件紀念基金會",
+          "template": "ill"
+        }
+      ],
+      "references": [
+        {
+          "title": "Talk By Wu Mi-Cha",
+          "url": "https://china.usc.edu/calendar/talk-wu-mi-cha",
+          "access-date": "14 February 2019",
+          "publisher": "University of Southern California Annenberg School for Communication and Journalism",
+          "date": "January 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Chu",
+          "first1": "Monique",
+          "title": "New Zealander donates account of 228",
+          "url": "http://www.taipeitimes.com/News/local/archives/2000/02/27/0000025746",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "27 February 2000",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Chu",
+          "first1": "Monique",
+          "title": "NZ manuscript tells about 228",
+          "url": "http://www.taipeitimes.com/News/local/archives/2000/02/28/0000025867/2",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "28 February 2000",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Yeh",
+          "first1": "Lindy",
+          "title": "The mystique of med school",
+          "url": "http://www.taipeitimes.com/News/local/archives/2001/08/13/0000098329/2",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "13 August 2001",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Chu",
+          "first1": "Monique",
+          "title": "Koizumi visit to shrine gets late response",
+          "url": "http://www.taipeitimes.com/News/local/archives/2001/08/15/0000098613",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "15 August 2001",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Yeh",
+          "first1": "Lindy",
+          "title": "Association celebrates local culture",
+          "url": "http://www.taipeitimes.com/News/local/archives/2001/10/17/0000107480/2",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "17 October 2001",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Huang",
+          "first1": "Sandy",
+          "title": "Legislator says staff stole museum relics",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2002/02/27/0000125571",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "27 February 2002",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Lin",
+          "first1": "Miao-jung",
+          "title": "MAC official's DPP ties run deep",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2002/07/18/0000148695",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "18 July 2002",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Lin",
+          "first1": "Miao-jung",
+          "last2": "Chu",
+          "first2": "Monique",
+          "title": "Government officials migrate to DPP",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2002/07/22/0000149222",
+          "work": "Taipei Times",
+          "access-date": "13 February 2019",
+          "date": "22 July 2002",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Lin",
+          "first1": "Mei-chun",
+          "title": "Top officials to join DPP in ceremony",
+          "url": "http://www.taipeitimes.com/News/front/archives/2002/07/29/0000158144",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "29 July 2002",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Phipps",
+          "first1": "Gavin",
+          "title": "From station to station",
+          "url": "http://www.taipeitimes.com/News/feat/archives/2002/12/07/0000186297",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "7 December 2002",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Chang",
+          "first1": "Yun-ping",
+          "title": "Forum focuses on cultural industry",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2003/03/27/0000199646",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "27 March 2003",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Lin",
+          "first1": "Mei-chun",
+          "title": "Ketagalan Academy president calls for opposition to stop attacking institution",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2003/04/15/0000202135",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "15 April 2003",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Huang",
+          "first1": "Jewel",
+          "title": "Council says country to have no official language",
+          "url": "http://www.taipeitimes.com/News/front/archives/2003/09/23/2003068879",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "23 September 2003",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Editorial: Ensuring linguistic diversity",
+          "url": "http://www.taipeitimes.com/News/editorials/archives/2003/09/25/2003069193",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "25 September 2003",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Lee",
+          "first1": "Vico",
+          "title": "Taichung the new Bilbao?",
+          "url": "http://www.taipeitimes.com/News/feat/archives/2003/10/04/2003070398",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "4 October 2003",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Team visits Vatican",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2004/04/20/2003137361",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "20 April 2004",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Chang",
+          "first1": "Rich",
+          "title": "Choice of book gift may give clues to Lien's intentions",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2005/04/26/2003252029",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "26 April 2005",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Bilingual comics tell nation's history",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2005/06/11/2003258826",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "11 June 2005",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Huang",
+          "first1": "Jewel",
+          "title": "Film highlights Lee Teng-hui's role in democratization",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2006/07/11/2003318231",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "11 July 2006",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Han Cheung",
+          "title": "As the last resistance fell",
+          "url": "http://www.taipeitimes.com/News/feat/archives/2016/06/19/2003648948",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "19 June 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Han Cheung",
+          "title": "Taiwan in Time: Sovereignty in question",
+          "url": "http://www.taipeitimes.com/News/feat/archives/2016/05/08/2003645758",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "8 May 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Shih",
+          "first1": "Hsiao-kuang",
+          "last2": "Chung",
+          "first2": "Jake",
+          "title": "Deep-blue group exhibits data to 'exonerate' KMT",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2018/02/25/2003688216",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "25 February 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Bartholomew",
+          "first1": "Ian",
+          "title": "Museum offers historical tours of Tainan",
+          "url": "http://www.taipeitimes.com/News/feat/archives/2007/10/03/2003381577",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "3 October 2007",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Hsu",
+          "first1": "Jenny W.",
+          "title": "Taiwan signs museum exchange",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2007/10/20/2003383967",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "20 October 2007",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Huang",
+          "first1": "Jewel",
+          "title": "A museum for everybody requires everybody's help",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2004/02/11/2003098293",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "11 February 2004",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Tseng",
+          "first1": "Wei-chen",
+          "title": "Next Academia Historica head appointed",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2016/05/16/2003646384",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "16 May 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Lee",
+          "first1": "Hsin-fang",
+          "last2": "Chung",
+          "first2": "Jake",
+          "title": "228 Massacre Anniversary: Foundation locked in power struggle",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2016/09/24/2003655825",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "24 September 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Tseng",
+          "first1": "Wei-chen",
+          "last2": "Hetherington",
+          "first2": "William",
+          "title": "Academia Historica to halt document access to Chinese",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2016/08/01/2003652233",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "1 August 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "228 evidence indicts Chiang: academic",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2017/02/25/2003665668",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "25 February 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Lee",
+          "first1": "Hsin-fang",
+          "title": "Tsai recommits to transitional justice",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2017/06/25/2003673259",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "25 June 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Chung",
+          "first1": "Li-hua",
+          "last2": "Hetherington",
+          "first2": "William",
+          "title": "KMT refuse Academia Historica publishing rights",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2016/12/20/2003661574",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "20 December 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Chung",
+          "first1": "Li-hua",
+          "last2": "Chung",
+          "first2": "Jake",
+          "title": "Foundation bemoans reluctance to declassify 228 files",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2017/02/26/2003665736",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "26 February 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Su",
+          "first1": "Yung-yao",
+          "last2": "Hetherington",
+          "first2": "William",
+          "title": "Transitional Justice Act: INTERVIEW: Wu says act can collect 'hidden' records, increase trust",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2017/12/10/2003683738",
+          "access-date": "13 February 2019",
+          "work": "Taipei Times",
+          "date": "10 December 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Ku",
+          "first1": "Chuan",
+          "last2": "Kao",
+          "first2": "Evelyn",
+          "title": "National Palace Museum, marine agency get new leaders",
+          "url": "http://focustaiwan.tw/news/aipl/201902130010.aspx",
+          "access-date": "13 February 2019",
+          "agency": "Central News Agency",
+          "date": "13 February 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Huang",
+          "first1": "Tzu-ti",
+          "title": "Taiwan's Academia Historica head tapped as new National Palace Museum Director",
+          "url": "https://www.taiwannews.com.tw/en/news/3637135",
+          "access-date": "13 February 2019",
+          "work": "Taiwan News",
+          "date": "13 February 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "list": [
+            "Wu Mi-cha"
+          ],
+          "template": "commons category"
+        },
+        {
+          "template": "directors of national palace museum"
+        },
+        {
+          "template": "executive yuan officials"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
