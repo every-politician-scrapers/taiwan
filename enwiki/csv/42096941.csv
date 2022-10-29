@@ -1,8 +1,8 @@
 who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,replacedByLabel,posidx
 42096941,Q13644819,Vice Premier of the Republic of China,2020-06-19,,Q5090717,Chen Chi-mai,,,0
-42096941,Ministry of Economic Affairs (Taiwan),Minister of Economic Affairs of the Republic of China,2017-09-08,19 June 2020 Acting: 16 August 2017 - 8 September 2017,Chih-Kung Lee,Lee Chih-kung,Wang Mei-hua,Wang Mei-hua,1
-42096941,Republic of China,Minister of Economic Affairs of the Republic of China,2017-09-08,19 June 2020 Acting: 16 August 2017 - 8 September 2017,Chih-Kung Lee,Lee Chih-kung,Wang Mei-hua,Wang Mei-hua,2
-42096941,Ministry of Economic Affairs (Republic of China),Administrative Deputy Minister of Economic Affairs of the Republic of China,2016-05-20,2017-08-15,,,Kung Ming-hsin,Kung Ming-hsin,3
-42096941,Republic of China,Administrative Deputy Minister of Economic Affairs of the Republic of China,2016-05-20,2017-08-15,,,Kung Ming-hsin,Kung Ming-hsin,4
+42096941,Ministry of Economic Affairs (Taiwan),Minister of Economic Affairs of the Republic of China,2017-09-08,19 June 2020 Acting: 16 August 2017 - 8 September 2017,Chih-Kung Lee,Lee Chih-kung,Q15918515,Wang Mei-hua,1
+42096941,Republic of China,Minister of Economic Affairs of the Republic of China,2017-09-08,19 June 2020 Acting: 16 August 2017 - 8 September 2017,Chih-Kung Lee,Lee Chih-kung,Q15918515,Wang Mei-hua,2
+42096941,Ministry of Economic Affairs (Republic of China),Administrative Deputy Minister of Economic Affairs of the Republic of China,2016-05-20,2017-08-15,,,Q27735496,Kung Ming-hsin,3
+42096941,Republic of China,Administrative Deputy Minister of Economic Affairs of the Republic of China,2016-05-20,2017-08-15,,,Q27735496,Kung Ming-hsin,4
 42096941,Ministry of Economic Affairs (Republic of China),Vice Minister of Economic Affairs of the Republic of China,2014-02,2016-05-20,Q11099334,Woody Duh,,,5
 42096941,Republic of China,Vice Minister of Economic Affairs of the Republic of China,2014-02,2016-05-20,Q11099334,Woody Duh,,,6
