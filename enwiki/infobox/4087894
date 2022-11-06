@@ -1,5 +1,4 @@
 {
-  "honorific_prefix": "Her Excellency",
   "name": "Tsai Ing-wen",
   "native_name": "蔡英文",
   "native_name_lang": "zh-Hant-TW",
@@ -38,7 +37,6 @@
   "predecessor6": "Su Chi",
   "successor6": "Joseph Wu",
   "birth_date": "August 31, 1956",
-  "birth_place": "Mackay Memorial Hospital, Zhongshan, Taipei, Taiwan",
   "party": "Democratic Progressive (2004–present)",
   "otherparty": "Independent (before 2004)",
   "residence": "Yonghe Residence",
