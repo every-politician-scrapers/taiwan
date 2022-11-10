@@ -389,7 +389,7 @@
             "text": "April 25, 1948"
           },
           "birth_place": {
-            "text": "Dongshan, Yilan County, Taiwan Province, China",
+            "text": "Dongshan, Taipei County, Taiwan Province, China",
             "links": [
               {
                 "text": "Dongshan",
@@ -397,9 +397,8 @@
                 "page": "Dongshan, Yilan"
               },
               {
-                "text": "Yilan County",
                 "type": "internal",
-                "page": "Yilan County, Taiwan"
+                "page": "Taipei County"
               },
               {
                 "type": "internal",
