@@ -3,5 +3,5 @@ who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,r
 50838761,Taiwan,Minister of Transportation and Communications of the Republic of China,2021-04-20,,Q6550004,Lin Chia-lung,,,1
 50838761,Ministry of Transportation and Communications (Taiwan),Political Deputy Minister of Transportation and Communications of the Republic of China,2016-05-20,2021-04-19,,,,,2
 50838761,Taiwan,Political Deputy Minister of Transportation and Communications of the Republic of China,2016-05-20,2021-04-19,,,,,3
-50838761,Ministry of Transportation and Communications (Taiwan),Minister of Transportation and Communications of the Republic of China (acting),2018-12-02,2019-01-13,Wu Hong-mo,Wu Hong-mo,Q6550004,Lin Chia-lung,4
-50838761,Republic of China,Minister of Transportation and Communications of the Republic of China (acting),2018-12-02,2019-01-13,Wu Hong-mo,Wu Hong-mo,Q6550004,Lin Chia-lung,5
+50838761,Ministry of Transportation and Communications (Taiwan),Minister of Transportation and Communications of the Republic of China (acting),2018-12-02,2019-01-13,Q23883800,Wu Hong-mo,Q6550004,Lin Chia-lung,4
+50838761,Republic of China,Minister of Transportation and Communications of the Republic of China (acting),2018-12-02,2019-01-13,Q23883800,Wu Hong-mo,Q6550004,Lin Chia-lung,5
