@@ -29,7 +29,8 @@
     "Grand Crosses of the Order of José Matías Delgado",
     "Grand Crosses of the Order of the Quetzal",
     "20th-century Taiwanese women politicians",
-    "21st-century Taiwanese women politicians"
+    "21st-century Taiwanese women politicians",
+    "Women government ministers of Taiwan"
   ],
   "sections": [
     {
@@ -3727,7 +3728,7 @@
         {
           "sentences": [
             {
-              "text": "Under Tsai, several countries which had formally recognized the Republic of China (ROC) switched recognition to the People's Republic of China (PRC): São Tomé and Príncipe in 2016, Panama in 2017, the Dominican Republic and El Salvador in 2018, and the Solomon Islands in 2019.",
+              "text": "Under Tsai, several countries which had formally recognized the Republic of China (ROC) switched recognition to the People's Republic of China (PRC): São Tomé and Príncipe in 2016, Panama in 2017, the Dominican Republic, Burkina Faso and El Salvador in 2018, and the Solomon Islands and Kiribati in 2019, and Nicaragua in 2021.",
               "links": [
                 {
                   "text": "switched recognition",
@@ -3748,11 +3749,23 @@
                 },
                 {
                   "type": "internal",
+                  "page": "Burkina Faso"
+                },
+                {
+                  "type": "internal",
                   "page": "El Salvador"
                 },
                 {
                   "type": "internal",
                   "page": "Solomon Islands"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kiribati"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nicaragua"
                 }
               ]
             },
