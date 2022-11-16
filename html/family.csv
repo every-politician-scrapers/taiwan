@@ -59,8 +59,10 @@ Q5371883,Chiang Hsiao-yen,sibling,Q5095188,Chiang Hsiao-yung
 Q5371883,Chiang Hsiao-yen,sibling,Q8026049,Winston Chang
 Q5386280,Eric Chu,relative,Q8273349,Kao Yu-jen
 Q551904,Su Tseng-chang,child,Q19825781,Su Chiao-hui
-Q556828,Liu Chao-shiuan,father,Q8274501,Liu Kuo-yun
+Q556828,Liu Chao-shiuan,father,Q8274501,Liu Goo Yun
+Q556828,Liu Chao-shiuan,relative,Q5386981,Eric Liu
 Q556828,Liu Chao-shiuan,sibling,Q10899428,Liu Chao-kai
+Q556828,Liu Chao-shiuan,sibling,Q115214146,Chao-hua Liu
 Q556828,Liu Chao-shiuan,sibling,Q8990897,Liu Chao-Han
 Q558718,Lien Chan,child,Q16260705,Lien Yung-hsin
 Q558718,Lien Chan,child,Q19825813,Lien Sheng-wu
