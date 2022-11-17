@@ -843,7 +843,11 @@
                   "page": "Mainland Affairs Council"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "You and his cabinet resigned en masse following the pan-Green Coalition failure to gain a majority in the 2004 legislative elections.",
               "links": [

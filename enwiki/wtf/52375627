@@ -104,6 +104,9 @@
           "image": {
             "text": "Chiu Kuo-cheng 邱國正 (05.28 總統接見美國海外作戰退伍軍人協會哈蒙總會長 (Flickr id 41497715175)).jpg"
           },
+          "image_size": {
+            "text": "225px"
+          },
           "office1": {
             "text": "34th Minister of National Defense",
             "links": [
@@ -116,6 +119,15 @@
           },
           "term_start1": {
             "text": "23 February 2021"
+          },
+          "president1": {
+            "text": "Tsai Ing-wen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tsai Ing-wen"
+              }
+            ]
           },
           "predecessor1": {
             "text": "Yen Teh-fa",
@@ -352,10 +364,24 @@
                 "page": "Chief of the General Staff (Republic of China)"
               }
             ]
+          },
+          "nickname": {
+            "text": "General Turf-Scalp Chiu the Squad-leader"
           }
         }
       ],
       "references": [
+        {
+          "title": "從兩皮將軍到國防部長　邱國正的「安內攘外」之路",
+          "url": "https://www.appledaily.com.tw/politics/20220327/BOPSJX5PA5FULCXZFJQVF6CKQE/",
+          "date": "2022-03-27",
+          "publisher": "Apple Daily",
+          "accessdate": "2022-11-16",
+          "language": "zh-tw",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
         {
           "template": "citation",
           "type": "inline",
