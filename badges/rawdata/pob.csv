@@ -1,0 +1,494 @@
+item,itemLabel,rank,pob,pobLabel,hasCountry,hasAdmin,hasref,refitem,exurl,wmurl,wmproj
+Q10294207,Chang San-cheng,NormalRank,Q56283112,Taipei,true,true,true,false,false,false,true
+Q10413949,Q10413949,,,,,,false,,,,
+Q10564184,Q10564184,,,,,,false,,,,
+Q10900397,Liu Yu-you,,,,,,false,,,,
+Q10918847,Wu Se-hwa,NormalRank,Q473035,Beigang,true,true,true,false,false,false,true
+Q10919115,Q10919115,,,,,,false,,,,
+Q10919979,Lu Yu-ling,NormalRank,Q25303104,Taoyuan County,true,true,true,false,false,false,true
+Q10920153,Chou Ni-an,,,,,,false,,,,
+Q11091487,Tseng Chu-wei,,,,,,false,,,,
+Q11096596,Q11096596,,,,,,false,,,,
+Q11099334,Woody Tyzz-Jiun Duh,NormalRank,Q956,Beijing,true,true,true,false,false,false,true
+Q11106169,Q11106169,,,,,,false,,,,
+Q11118258,Andrew Yang,NormalRank,Q1867,Taipei,true,true,true,false,false,true,true
+Q114895959,May Lee,,,,,,false,,,,
+Q11963553,Yang Chin-long,NormalRank,Q865,Taiwan,true,false,true,false,false,false,true
+Q13408438,Chen Ming-tong,NormalRank,Q701682,Taichung County,true,true,true,false,false,false,true
+Q14516312,Kao Kuang-chi,NormalRank,Q865,Taiwan,true,false,true,false,false,true,true
+Q14866531,Luo Ying-shay,NormalRank,Q249868,Hualien County,true,true,true,false,false,false,true
+Q15704593,Jaclyn Tsai,NormalRank,Q865,Taiwan,true,false,true,false,false,false,true
+Q15831062,Wei Kuo-yen,NormalRank,Q865,Taiwan,true,false,true,false,false,false,true
+Q15895660,Jang Show-ling,NormalRank,Q1867,Taipei,true,true,true,false,false,true,true
+Q15899237,Huang Kuo-chang,PreferredRank,Q570601,Xizhi District,true,true,false,,,,
+Q15901623,Frida Tsai,NormalRank,Q708696,Yuchi Township,true,true,false,,,,
+Q15903055,Hwung Hwung-hweng,,,,,,false,,,,
+Q15905278,Lin I-chin,NormalRank,Q140631,Tainan,true,true,false,,,,
+Q15909081,Wellington Koo,NormalRank,Q249996,Keelung,true,true,true,false,false,false,true
+Q15911945,Yeh Chin-ling,NormalRank,Q181557,Kaohsiung,true,true,true,false,false,false,true
+Q15914057,Q15914057,,,,,,false,,,,
+Q15914789,Yen Teh-fa,NormalRank,Q181557,Kaohsiung,true,true,false,,,,
+Q15915252,Chen Liang-gee,NormalRank,Q706707,Baozhong,true,true,true,false,false,true,true
+Q15918515,Wang Mei-hua,NormalRank,Q865,Taiwan,true,false,true,false,false,false,true
+Q15920021,Chiang Wan-an,NormalRank,Q1867,Taipei,true,true,true,false,false,true,true
+Q15930216,Chen Yi-chieh,NormalRank,Q1867,Taipei,true,true,false,,,,
+Q15931826,Q15931826,,,,,,false,,,,
+Q15932070,Q15932070,,,,,,false,,,,
+Q15933742,Su Ching-chuan,NormalRank,Q707728,Donggang Township,true,true,true,false,false,true,true
+Q15934391,Q15934391,,,,,,false,,,,
+Q16143196,Chang Tzi-chin,,,,,,false,,,,
+Q16150359,Shen Jong-chin,NormalRank,Q477601,Tainan County,true,true,true,false,false,false,true
+Q16193401,Tseng Ming-chung,NormalRank,Q166977,Chiayi County,true,true,true,false,false,false,true
+Q16196866,Chen Ming-jen,,,,,,false,,,,
+Q16239471,Chen Der-hwa,,,,,,false,,,,
+Q16239478,Chen Shu-hui,,,,,,false,,,,
+Q16239639,Hung Meng-chi,,,,,,false,,,,
+Q16239906,Sheu Yu-jer,,,,,,false,,,,
+Q16239908,Jay N. Shih,,,,,,false,,,,
+Q16241144,Chen Ming-tang,,,,,,false,,,,
+Q16260492,Chen Min-jen,,,,,,false,,,,
+Q16260539,Lai Pin-yu,NormalRank,Q1867,Taipei,true,true,false,,,,
+Q16336308,Ko Cheng-fang,NormalRank,Q714614,Shenkang Township,true,true,false,,,,
+Q16905422,Li Gui-min,,,,,,false,,,,
+Q16905500,Lin Yuanyuan,,,,,,false,,,,
+Q16907985,Chen I-hsin,NormalRank,Q153221,Yunlin County,true,true,true,false,false,false,true
+Q16926490,Ho Chih-wei,,,,,,false,,,,
+Q16926907,Lai Cheng-chang,,,,,,false,,,,
+Q16928868,Lu Sun-ling,NormalRank,Q24287568,Taipei County,true,true,false,,,,
+Q17027222,Sra Kacaw,NormalRank,Q249868,Hualien County,true,true,true,false,false,true,true
+Q17066681,Q17066681,,,,,,false,,,,
+Q18109591,Q18109591,NormalRank,Q15897444,Taichung,true,true,true,false,false,true,true
+Q18109691,Q18109691,,,,,,false,,,,
+Q18415702,Wu Kuen-yuh,NormalRank,Q166977,Chiayi County,true,true,false,,,,
+Q18658400,Chiang Chieh-an,NormalRank,Q63706,Miaoli County,true,true,true,false,false,true,true
+Q18659220,Hsu Shu-hua,NormalRank,Q715171,Nantou City,true,true,true,false,false,true,true
+Q18659469,Q18659469,NormalRank,Q63706,Miaoli County,true,true,true,false,false,false,true
+Q19058548,Huang Kuo-shu,NormalRank,Q82357,Nantou County,true,true,true,false,false,true,true
+Q1911971,Wu Maw-kuen,NormalRank,Q249868,Hualien County,true,true,true,false,false,false,true
+Q19653988,Chen Su-yueh,NormalRank,Q82357,Nantou County,true,true,true,false,false,false,true
+Q19825208,Chen Lai Su-mei,,,,,,false,,,,
+Q19825322,Hsu Chih-jung,NormalRank,Q63706,Miaoli County,true,true,false,,,,
+Q19825639,Zhaoxiang Qu,,,,,,false,,,,
+Q19825673,Lin Chun-hsien,NormalRank,Q15895448,Tainan City,true,true,true,false,false,false,true
+Q19825688,Yang Ying-hsiung,NormalRank,Q249870,Kinmen County,true,true,true,false,false,true,true
+Q19825781,Su Chiao-hui,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q19825797,Lai Jui-lung,NormalRank,Q133865,Changhua County,true,true,true,false,false,false,true
+Q19825815,Chiu Kuo-cheng,NormalRank,Q249868,Hualien County,true,true,true,false,false,false,true
+Q19849340,Hung Tsung-yi,,,,,,false,,,,
+Q19849402,Hung Tzu-yung,NormalRank,Q569640,Shalu District,true,true,true,false,false,true,true
+Q19849414,Wu Chi-ming,NormalRank,Q153221,Yunlin County,true,true,true,false,false,true,true
+Q19849473,Lee Shu-chuan,NormalRank,Q708227,Liuqiu,true,true,false,,,,
+Q20063502,Lee Yen-hsiu,NormalRank,Q1867,Taipei,true,true,false,,,,
+Q21016998,Chiu Hsien-chih,NormalRank,Q718362,Zhuqi Township,true,true,false,,,,
+Q21055079,Chen Jiau-hua,NormalRank,Q140631,Tainan,true,true,true,false,false,true,true
+Q21449416,Q21449416,,,,,,false,,,,
+Q21652173,Kawlo Iyun Pacidal,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q21934105,Huang Tien-mu,,,,,,false,,,,
+Q22093639,Lin Li-chan,NormalRank,Q1850,Phnom Penh,true,true,true,false,false,false,true
+Q22099059,Sandy Yu,NormalRank,Q237258,Yilan County,true,true,false,,,,
+Q22099954,Kolas Yotaka,NormalRank,Q74054,Hsinchu County,true,true,false,,,,
+Q22100240,Chao Cheng-yu,NormalRank,Q74052,Bade District,true,true,true,false,false,false,true
+Q22100706,Kuo Kuo-wen,NormalRank,Q1186591,Guanmiao District,true,true,true,false,false,true,true
+Q22773998,Karen Yu,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q22774114,Wu Yu-chin,,,,,,false,,,,
+Q22774121,Chou Chun-mi,NormalRank,Q713377,Pingtung City,true,true,true,false,false,false,true
+Q22774129,Lin Ching-yi,NormalRank,Q82357,Nantou County,true,true,false,,,,
+Q22774142,Chung Kong-chao,,,,,,false,,,,
+Q22774153,Chen Man-li,NormalRank,Q1867,Taipei,true,true,true,false,false,true,true
+Q22774355,Yang Cheng-wu,NormalRank,Q249870,Kinmen County,true,true,false,,,,
+Q233984,Tsai Ing-wen,NormalRank,Q271167,Zhongshan District,true,true,true,false,false,false,true
+Q23883800,Wu Hong-mo,,,,,,false,,,,
+Q23894469,Feng Shih-kuan,NormalRank,Q24841416,Huaiyin County,true,true,true,false,false,false,true
+Q23927581,Hsu Yu-jen,NormalRank,Q181557,Kaohsiung,true,true,true,false,false,false,true
+Q23954823,Pan Wen-chung,NormalRank,Q712947,Zhuangwei,true,true,true,false,false,false,true
+Q24053403,Chu Tzer-ming,,,,,,false,,,,
+Q24053404,Wu Hsin-hsing,,,,,,false,,,,
+Q24175183,Yeh Jiunn-rong,NormalRank,Q271134,Wanhua District,true,true,false,,,,
+Q24238270,Lee Chung-wei,NormalRank,Q249994,Hsinchu,true,true,true,false,false,true,true
+Q24247649,Chen Mei-ling,,,,,,false,,,,
+Q24263737,Stanley Kao,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q24572278,Hsu Jan-yau,NormalRank,Q181557,Kaohsiung,true,true,true,false,false,false,true
+Q24572279,Lin Mei-chu,,,,,,false,,,,
+Q24839448,Chen Yi-ming,NormalRank,Q219147,Kaohsiung County,true,true,true,false,false,false,true
+Q24840132,Lee Li-feng,,,,,,false,,,,
+Q24851744,Wang Kwo-tsai,NormalRank,Q477601,Tainan County,true,true,true,false,false,false,true
+Q25190242,Lin Cheng-yi,,,,,,false,,,,
+Q256274,Chen Ding-nan,NormalRank,Q10866106,Samseng,true,true,true,false,false,false,true
+Q26265161,Wu Tsung-tsong,,,,,,false,,,,
+Q27678861,Su Chun-jung,,,,,,false,,,,
+Q27735496,Kung Ming-hsin,,,,,,false,,,,
+Q27901812,Zhao Ziqi,NormalRank,Q1148671,Rehe Province,true,false,false,,,,
+Q281540,Sean Chen,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q28411114,Wu Sz-huai,NormalRank,Q181557,Kaohsiung,true,true,true,false,false,false,true
+Q28413232,Chiu Tai-yuan,NormalRank,Q249995,Chiayi City,true,true,true,false,false,false,true
+Q28413567,Q28413567,,,,,,false,,,,
+Q28416376,Ko Chih-en,,,,,,false,,,,
+Q28416486,Chou Mei-wu,,,,,,false,,,,
+Q28416621,Hsieh Shou-shing,NormalRank,Q249994,Hsinchu,true,true,true,false,false,true,true
+Q28417359,Hung Mong-kai,NormalRank,Q82357,Nantou County,true,true,true,false,false,false,true
+Q28418899,Hsu Chen-wei,NormalRank,Q865,Taiwan,true,false,true,false,false,true,true
+Q284597,Jason Hu,NormalRank,Q17579219,Peiping,true,false,true,false,false,false,true
+Q28522108,Hsiu-Hsia Chou Chen,NormalRank,Q140631,Tainan,true,true,true,false,false,true,true
+Q28655382,Chen Shih-chung,NormalRank,Q56283112,Taipei,true,true,true,false,false,true,true
+Q29952844,Wu Tze-cheng,NormalRank,Q706720,Jiaoxi,true,true,true,false,false,true,true
+Q30941045,Lu Ming-che,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q30946589,Lai Huei-yuen,NormalRank,Q166977,Chiayi County,true,true,false,,,,
+Q315528,Lee Teng-hui,NormalRank,Q10866707,Sanshi village,true,true,true,false,false,true,true
+Q36618272,Huang Mei-ying,,,,,,false,,,,
+Q374271,Perng Fai-nan,NormalRank,Q249994,Hsinchu,true,true,false,,,,
+Q3846538,Su Nan-cheng,NormalRank,Q697894,Tainan Prefecture,true,true,true,false,false,false,true
+Q3846662,Kuan Bi-ling,NormalRank,Q569604,Fengyuan District,true,true,true,false,false,false,true
+Q3846869,Yang Chiu-hsing,NormalRank,Q707836,Yanchao District,true,true,true,false,false,false,true
+Q3847080,Lai Ching-te,NormalRank,Q570582,Wanli District,true,true,false,,,,
+Q38876935,Lee Meng-yen,NormalRank,Q133865,Changhua County,true,true,true,false,false,true,true
+Q40272747,Hsueh Jui-yuan,,,,,,false,,,,
+Q4118817,Jiang Yi-huah,NormalRank,Q249996,Keelung,true,true,true,false,false,false,true
+Q472310,Frank Hsieh,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q4846081,Su Huan-chih,NormalRank,Q708677,Cigu District,true,true,true,false,false,true,true
+Q48896684,Chen Yu-chen,NormalRank,Q249870,Kinmen County,true,true,true,false,false,false,true
+Q48903743,Q48903743,,,,,,false,,,,
+Q50067722,Chen Hsiu-bao,NormalRank,Q245023,Taichung,true,true,true,false,false,false,true
+Q50170749,Hsu Ming-chun,,,,,,false,,,,
+Q50410542,Q50410542,,,,,,false,,,,
+Q50413814,Q50413814,,,,,,false,,,,
+Q5090717,Chen Chi-mai,NormalRank,Q249996,Keelung,true,true,true,false,false,false,true
+Q5090859,Chen Ming-wen,NormalRank,Q706520,Puzi City,true,true,true,false,false,false,true
+Q5091239,Cheng Li-wun,NormalRank,Q153221,Yunlin County,true,true,false,,,,
+Q5095206,Chiang Pin-kung,NormalRank,Q10907935,Nantou County,true,false,false,,,,
+Q5101463,Chiou I-jen,NormalRank,Q477601,Tainan County,true,true,true,false,false,true,true
+Q5105427,Chou Hsi-wei,NormalRank,Q133865,Changhua County,true,true,true,false,false,false,true
+Q5116472,Cho Jung-tai,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q517151,Lai Shin-Yuan,NormalRank,Q245023,Taichung,true,true,true,false,false,false,true
+Q5236438,David Lee,NormalRank,Q1867,Taipei,true,true,false,,,,
+Q5236615,David Lin,NormalRank,Q865,Taiwan,true,false,true,false,false,true,true
+Q5366551,Elmer Fung,NormalRank,Q10867816,"Shanghai Municipality, Republic of China",true,false,true,false,false,false,true
+Q5371883,Chiang Hsiao-yen,NormalRank,Q189633,Guilin,true,true,true,false,false,false,true
+Q5386280,Eric Chu,NormalRank,Q74052,Bade District,true,true,false,,,,
+Q551904,Su Tseng-chang,NormalRank,Q194989,Pingtung County,true,true,true,false,false,false,true
+Q55505798,Tsai Ching-hsiang,,,,,,false,,,,
+Q556828,Liu Chao-shiuan,NormalRank,Q30002,Chengdu,true,true,true,false,false,false,true
+Q55694614,Yao Leeh-ter,,,,,,false,,,,
+Q55697080,Chen Po-wei,NormalRank,Q181557,Kaohsiung,true,true,true,false,false,false,true
+Q558718,Lien Chan,NormalRank,Q5826,Xi'an,true,true,false,,,,
+Q56159332,Pi-Han Chen,,,,,,false,,,,
+Q5925638,Huang Ming-hui,NormalRank,Q263915,Dongshi Township,true,true,true,false,false,false,true
+Q60431375,Chen Chi-chung,NormalRank,Q194989,Pingtung County,true,true,false,,,,
+Q60992669,Tsai Pi-ru,NormalRank,Q194989,Pingtung County,true,true,true,false,false,false,true
+Q60992793,Wang Chih-ping,NormalRank,Q245023,Taichung,true,true,true,false,false,false,true
+Q60992873,Chen Ching-min,NormalRank,Q1867,Taipei,true,true,false,,,,
+Q6134031,Sisy Chen,NormalRank,Q237258,Yilan County,true,true,true,false,false,false,true
+Q6138091,Lee Tien-yu,NormalRank,Q43407,Shandong,true,true,true,false,false,true,true
+Q6148708,Yeh Chu-lan,NormalRank,Q63706,Miaoli County,true,true,true,false,false,false,true
+Q6288088,Joseph Wu,NormalRank,Q133865,Changhua County,true,true,true,false,false,false,true
+Q6393270,Ker Chien-ming,NormalRank,Q249994,Hsinchu,true,true,true,false,false,false,true
+Q6473605,Lai In-jaw,NormalRank,Q706720,Jiaoxi,true,true,false,,,,
+Q6515593,Lee Ying-yuan,NormalRank,Q153221,Yunlin County,true,true,true,false,false,false,true
+Q6550004,Lin Chia-lung,NormalRank,Q271134,Wanhua District,true,true,true,false,false,false,true
+Q6550038,Lin Hsin-i,NormalRank,Q140631,Tainan,true,true,true,false,false,false,true
+Q6550136,Lin Yu-fang,NormalRank,Q181557,Kaohsiung,true,true,true,false,false,false,true
+Q6653712,Liu Shih-fang,NormalRank,Q1867,Taipei,true,true,true,false,false,true,true
+Q6704543,Luo Wen-jia,NormalRank,Q715876,Xinwu District,true,true,true,false,false,false,true
+Q6753581,Mao Chi-kuo,NormalRank,Q713372,Fenghua District,true,true,true,false,false,false,true
+Q67934535,Lin Si-ming,,,,,,false,,,,
+Q67934538,Wan Mei-ling,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q697862,Kao Chin Su-mei,NormalRank,Q569695,Heping,true,true,true,false,false,false,true
+Q698464,Hsu Tain-tsair,NormalRank,Q709018,Guantian District,true,true,true,false,false,false,true
+Q699188,Lee Jye,NormalRank,Q11736,Tianjin,true,true,false,,,,
+Q700659,Vincent Siew,NormalRank,Q249995,Chiayi City,true,true,true,false,false,false,true
+Q700752,Hsiao Bi-khim,NormalRank,Q48320,Kōbe,true,true,true,false,true,false,false
+Q700774,Su Jia-chyuan,NormalRank,Q707733,Changjhih,true,true,true,false,false,false,true
+Q707601,Wang Jin-pyng,NormalRank,Q713367,Luzhu District,true,true,true,false,false,false,true
+Q707648,Mark Chen,NormalRank,Q11174918,Ensui town,true,true,true,false,false,false,true
+Q707887,Yu Shyi-kun,NormalRank,Q706284,Dongshan,true,true,true,false,false,false,true
+Q709508,Wang Ting-yu,NormalRank,Q25303104,Taoyuan County,true,true,false,,,,
+Q710060,Huang Chih-hsiung,NormalRank,Q570493,Shulin District,true,true,true,false,false,false,true
+Q715476,Francisco Ou,NormalRank,Q697879,Shinchiku Prefecture,true,true,true,false,false,false,true
+Q715504,James C. F. Huang,NormalRank,Q140631,Tainan,true,true,true,false,false,false,true
+Q716710,Chang Chun-hsiung,NormalRank,Q10924092,Kagi City,true,true,true,false,false,false,true
+Q716768,Tang Fei,NormalRank,Q61985,Taicang,true,true,true,false,false,false,true
+Q7198343,Chen Ying,NormalRank,Q249904,Taitung County,true,true,true,false,false,false,true
+Q7682659,Tang Bi-a,NormalRank,Q140631,Tainan,true,true,true,false,false,false,true
+Q78116451,Hsieh Yi-fong,NormalRank,Q133865,Changhua County,true,true,true,false,false,false,true
+Q78123032,Hung Sun-han,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q78123037,Lo Mei-ling,,,,,,false,,,,
+Q78123040,Wang Mei-hui,NormalRank,Q249995,Chiayi City,true,true,true,false,false,false,true
+Q7849539,Tseng Yung-fu,,,,,,false,,,,
+Q7967389,Wang Ching-feng,NormalRank,Q140631,Tainan,true,true,false,,,,
+Q7967625,Wang Shu-hui,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q7967735,Wang Yu-chi,NormalRank,Q865,Taiwan,true,false,false,,,,
+Q81789073,Jang Chyi-lu,NormalRank,Q25303104,Taoyuan County,true,true,true,false,false,false,true
+Q81840652,Wu Li-hua,NormalRank,Q219147,Kaohsiung County,true,true,true,false,false,false,true
+Q8270063,Huang Chao-shun,NormalRank,Q718412,Fuxing Township,true,true,true,false,false,false,true
+Q8270318,Helen Lin,,,,,,false,,,,
+Q8270435,Lin Yi-hua,NormalRank,Q701682,Taichung County,true,true,false,,,,
+Q8271249,Tseng Yung-chuan,NormalRank,Q194989,Pingtung County,true,true,true,false,false,false,true
+Q8272045,Lin Join-sane,NormalRank,Q137816,Taiwan under Japanese rule,true,false,true,false,false,false,true
+Q8272096,Stella Chen,,,,,,false,,,,
+Q8272145,Chen Chien-ming,,,,,,false,,,,
+Q8272537,Q8272537,,,,,,false,,,,
+Q8272590,Shen Chih-hwei,NormalRank,Q569533,Beitun District,true,true,false,,,,
+Q8272594,Wu Tse-yuan,NormalRank,Q697874,Takao Prefecture,true,true,true,false,false,false,true
+Q8272604,Eric Wu,NormalRank,Q1867,Taipei,true,true,true,false,false,true,true
+Q8272616,Q8272616,NormalRank,Q24841447,Guichi County,true,false,true,false,false,false,true
+Q8272659,Yen Ching-piao,NormalRank,Q569640,Shalu District,true,true,true,false,false,true,true
+Q8272755,Lin Yi-shih,NormalRank,Q713090,Qieding District,true,true,true,false,false,false,true
+Q8272916,Cheng Ru-fen,NormalRank,Q133865,Changhua County,true,true,true,false,false,false,true
+Q8272933,Chen Chen-hsiang,NormalRank,Q359990,Wuhu,true,true,true,false,false,true,true
+Q8272967,Alex Tsai,NormalRank,Q153221,Yunlin County,true,true,false,,,,
+Q8273004,Chen Chien-jen,NormalRank,Q662101,Jiading District,true,true,false,,,,
+Q8273045,Apollo Chen,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q8273076,Chen Chao-min,NormalRank,Q697890,Taichū Prefecture,true,true,true,false,false,true,true
+Q8273082,Chen Hsueh-sheng,NormalRank,Q714903,Juguang,true,true,true,false,false,false,true
+Q8273115,Chang Ching-chung,,,,,,false,,,,
+Q8273132,Chang Li-shan,NormalRank,Q708809,Tuku,true,true,true,false,false,true,true
+Q8273168,Cai Jin-long,,,,,,false,,,,
+Q8273178,Paul Chiu,NormalRank,Q697858,Karenkō Prefecture,true,true,true,false,false,false,true
+Q8273222,Q8273222,,,,,,false,,,,
+Q8273248,Chen Chao-ming,NormalRank,Q63706,Miaoli County,true,true,true,false,false,true,true
+Q8273289,Ting Shou-chung,NormalRank,Q181557,Kaohsiung,true,true,false,,,,
+Q8273349,Kao Yu-jen,NormalRank,Q10887044,Q10887044,true,true,true,false,false,false,true
+Q8273357,Kao Hua-chu,NormalRank,Q713349,Jimo District,true,true,true,false,false,false,true
+Q8273451,Kao Su-po,NormalRank,Q15895448,Tainan City,true,true,true,false,false,false,true
+Q8273865,Daniel Hwang,NormalRank,Q153221,Yunlin County,true,true,true,false,false,false,true
+Q8273958,Hou Tsai-feng,NormalRank,Q249995,Chiayi City,true,true,true,false,false,false,true
+Q8273961,Q8273961,,,,,,false,,,,
+Q8274029,Hung Hsiu-chu,NormalRank,Q56283112,Taipei,true,true,true,false,false,false,true
+Q8274088,Hsieh Kuo-liang,NormalRank,Q249996,Keelung,true,true,true,false,false,false,true
+Q8274095,Han Kuo-yu,NormalRank,Q570090,Banqiao District,true,true,true,false,false,false,true
+Q8274104,Justin Huang,NormalRank,Q249904,Taitung County,true,true,true,false,false,false,true
+Q8274112,Huang Yu-cheng,,,,,,false,,,,
+Q8274144,Chiang Nai-shin,NormalRank,Q10867816,"Shanghai Municipality, Republic of China",true,false,true,false,false,false,true
+Q8274185,Chien Tung-ming,NormalRank,Q194989,Pingtung County,true,true,true,false,false,true,true
+Q8274205,Chiang Huei-chen,,,,,,false,,,,
+Q8274214,Chi Kuo-tung,,,,,,false,,,,
+Q8274261,Kung Wen-chi,NormalRank,Q708418,Ren'ai Township,true,true,true,false,false,false,true
+Q8274333,Lin Ming-chen,NormalRank,Q82357,Nantou County,true,true,true,false,false,false,true
+Q8274364,Li Chinyuan,NormalRank,Q715951,Jiasian District,true,true,false,,,,
+Q8274368,Lee Hsin,NormalRank,Q24287568,Taipei County,true,true,true,false,false,false,true
+Q8274398,Liao Kuo-tung,NormalRank,Q249904,Taitung County,true,true,true,false,false,false,true
+Q8274436,Lin Hung-chih,NormalRank,Q570249,Pingxi District,true,true,true,false,false,false,true
+Q8274707,Lu Shiow-yen,NormalRank,Q707578,Anle District,true,true,false,,,,
+Q8274933,Lu Hsueh-chang,,,,,,false,,,,
+Q8274940,Liao Wan-ju,,,,,,false,,,,
+Q8274946,Liao Cheng-ching,,,,,,false,,,,
+Q8274964,Q8274964,,,,,,false,,,,
+Q8275026,Lee Ching-hua,NormalRank,Q4970,Hangzhou,true,true,false,,,,
+Q8275063,Q8275063,,,,,,false,,,,
+Q8275071,Catherine Lee,NormalRank,Q237258,Yilan County,true,true,false,,,,
+Q8275115,Lee Hong-chun,,,,,,false,,,,
+Q8275203,Lin Te-fu,NormalRank,Q24287568,Taipei County,true,true,false,,,,
+Q8275291,Lin Tsang-min,,,,,,false,,,,
+Q8275440,Lu Chia-chen,NormalRank,Q244898,New Taipei,true,true,true,false,false,true,true
+Q8275466,Lo Ming-tsai,NormalRank,Q133865,Changhua County,true,true,true,false,false,false,true
+Q8275467,Lo Shu-lei,NormalRank,Q1867,Taipei,true,true,false,,,,
+Q8275493,Lai Shyh-bao,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q8275706,Pang Chien-kuo,NormalRank,Q63706,Miaoli County,true,true,true,false,false,false,true
+Q8275781,Tina Pan,NormalRank,Q194989,Pingtung County,true,true,true,false,false,true,true
+Q8275964,Chin Heui-chu,NormalRank,Q25303104,Taoyuan County,true,true,false,,,,
+Q8276042,Yao Eng-Chi,NormalRank,Q11599008,Q11599008,true,true,true,true,false,false,false
+Q8276537,Herman Shuai,NormalRank,Q9378711,Wan County,true,false,true,false,false,false,true
+Q8276552,Q8276552,,,,,,false,,,,
+Q8276570,Hsu Yao-chang,NormalRank,Q713758,Toufen,true,true,true,false,false,false,true
+Q8276675,Q8276675,,,,,,false,,,,
+Q8276889,Wu Shih-wen,NormalRank,Q164904,Taishan,true,true,true,false,false,false,true
+Q8277043,Q8277043,,,,,,false,,,,
+Q8277229,Wu Yu-sheng,NormalRank,Q477601,Tainan County,true,true,false,,,,
+Q8277261,John Wu,NormalRank,Q172146,Zhongli,true,true,true,false,false,false,true
+Q8277493,Wu Cherng-dean,NormalRank,Q708080,Lieyu Township,true,true,true,false,false,true,true
+Q8277631,Wang Ting-son,NormalRank,Q249868,Hualien County,true,true,true,false,false,true,true
+Q8277895,Hsieh Shen-shan,NormalRank,Q697858,Karenkō Prefecture,true,true,true,false,false,true,true
+Q8278206,Q8278206,,,,,,false,,,,
+Q8278346,Yang Li-huan,NormalRank,Q115256,Taoyuan,true,true,false,,,,
+Q8278721,Yiin Chii-ming,NormalRank,Q140631,Tainan,true,true,true,false,false,true,true
+Q8278747,Yang Yu-xing,NormalRank,Q249994,Hsinchu,true,true,false,,,,
+Q8278752,Yang Chiung-ying,NormalRank,Q701682,Taichung County,true,true,true,false,false,false,true
+Q8278820,Yen Kuan-heng,NormalRank,Q569640,Shalu District,true,true,true,false,false,true,true
+Q8279010,Q8279010,,,,,,false,,,,
+Q8279212,Chang Chia-chun,,,,,,false,,,,
+Q8279292,Q8279292,,,,,,false,,,,
+Q8279427,Wu Yu-jen,NormalRank,Q153221,Yunlin County,true,true,false,,,,
+Q8279442,Sun Ta-chien,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q8279533,Lin Kuo-cheng,NormalRank,Q701682,Taichung County,true,true,true,false,false,false,true
+Q8279603,Johnny Chiang,NormalRank,Q569604,Fengyuan District,true,true,true,false,false,false,true
+Q8279684,Wang Huei-mei,NormalRank,Q718437,Xiushui Township,true,true,true,false,false,true,true
+Q8279711,Wang Yu-min,NormalRank,Q166977,Chiayi County,true,true,false,,,,
+Q8279779,Zhan Che,NormalRank,Q133865,Changhua County,true,true,false,,,,
+Q8279787,Q8279787,,,,,,false,,,,
+Q8279815,Chiau Wen-Yan,NormalRank,Q865,Taiwan,true,false,true,false,false,false,true
+Q8279842,Chen Shyh-kwei,,,,,,false,,,,
+Q8279858,Ma Wen-chun,NormalRank,Q706544,Puli,true,true,true,false,false,false,true
+Q8280332,Su Chi,NormalRank,Q245023,Taichung,true,true,true,false,false,false,true
+Q8280346,Wu Jin-lin,NormalRank,Q708815,Wandan,true,true,true,false,false,false,true
+Q8280360,Hsueh Hsiang-chuan,NormalRank,Q181557,Kaohsiung,true,true,true,false,false,false,true
+Q8280389,Yeh Chin-fong,NormalRank,Q697890,Taichū Prefecture,true,true,true,false,false,false,true
+Q8347124,Chang Ching-hui,NormalRank,Q11112226,Tōen District,true,true,true,false,false,false,true
+Q8347212,Q8347212,,,,,,false,,,,
+Q8347259,Chen Chau-nan,,,,,,false,,,,
+Q8347281,Chen Chieh-ju,,,,,,false,,,,
+Q8347319,Chang Liao Wan-chien,NormalRank,Q15897444,Taichung,true,true,true,false,false,false,true
+Q8347358,Chou Ching-yu,NormalRank,Q697894,Tainan Prefecture,true,true,true,false,false,true,true
+Q8347378,Chou Ya-shu,,,,,,false,,,,
+Q8347429,Chang Chuan-tien,NormalRank,Q15940338,Q15940338,true,true,false,,,,
+Q8347483,Chang Shiow-jen,,,,,,false,,,,
+Q8347574,Lee Chun-yi,NormalRank,Q249995,Chiayi City,true,true,true,false,false,true,true
+Q8347638,Tsai Shih-ying,NormalRank,Q24287568,Taipei County,true,true,false,,,,
+Q8347665,Chao Tien-lin,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q8347718,Chiu Chi-wei,NormalRank,Q181557,Kaohsiung,true,true,true,false,false,false,true
+Q8347775,Chiu Yi-ying,NormalRank,Q194989,Pingtung County,true,true,true,false,false,true,true
+Q8347820,Chen Ting-fei,NormalRank,Q15895448,Tainan City,true,true,true,false,false,false,true
+Q8347947,Chen Chin-jun,NormalRank,Q153221,Yunlin County,true,true,true,false,false,false,true
+Q8347974,Chen Tsiao-long,,,,,,false,,,,
+Q8347997,Chen Ou-po,NormalRank,Q237258,Yilan County,true,true,true,false,false,true,true
+Q8348181,Chen Chin-te,NormalRank,Q706261,Luodong,true,true,true,false,false,true,true
+Q8348328,Julian Kuo,NormalRank,Q181557,Kaohsiung,true,true,false,,,,
+Q8348374,Kao Meng-ting,NormalRank,Q153221,Yunlin County,true,true,false,,,,
+Q8348414,Kao Chia-yu,NormalRank,Q249996,Keelung,true,true,false,,,,
+Q8348463,Gao Jyh-peng,NormalRank,Q249996,Keelung,true,true,false,,,,
+Q8348633,Huang Jen-shu,,,,,,false,,,,
+Q8348653,Huang Wei-cher,NormalRank,Q140631,Tainan,true,true,false,,,,
+Q8348768,Ho Min-hao,NormalRank,Q245023,Taichung,true,true,true,false,false,true,true
+Q8348788,Ho Hsin-chun,NormalRank,Q701682,Taichung County,true,true,true,false,false,false,true
+Q8348813,Q8348813,,,,,,false,,,,
+Q8348841,Hsu Kuo-yung,NormalRank,Q1867,Taipei,true,true,false,,,,
+Q8348951,Hsueh Ling,NormalRank,Q569611,Dajia District,true,true,false,,,,
+Q8349077,Hsu Chih-chieh,NormalRank,Q718212,Xingang Township,true,true,true,false,false,false,true
+Q8349186,Q8349186,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q8349222,Upay Radiw Kanasaw,NormalRank,Q713381,Taitung City,true,true,true,false,true,false,false
+Q8349282,Huang Hsiu-fang,NormalRank,Q133865,Changhua County,true,true,true,false,false,true,true
+Q8349451,Cheng Pao-ching,NormalRank,Q25303104,Taoyuan County,true,true,false,,,,
+Q8349521,Cheng Kuei-lien,NormalRank,Q181557,Kaohsiung,true,true,true,false,false,false,true
+Q8349604,Lin Hsi-yao,NormalRank,Q237258,Yilan County,true,true,true,false,false,false,true
+Q8349613,Lo Chih-cheng,NormalRank,Q63706,Miaoli County,true,true,false,,,,
+Q8349619,Lai Chin-lin,NormalRank,Q153221,Yunlin County,true,true,true,false,false,true,true
+Q8349640,Q8349640,,,,,,false,,,,
+Q8349646,Liu Chien-kuo,NormalRank,Q669566,Douliu,true,true,true,false,false,false,true
+Q8349660,Liu Chao-hao,NormalRank,Q713381,Taitung City,true,true,false,,,,
+Q8349723,Lee Kun-tse,NormalRank,Q237258,Yilan County,true,true,true,false,false,false,true
+Q8349725,Q8349725,NormalRank,Q166977,Chiayi County,true,true,true,false,false,false,true
+Q8349734,Lee Chin-yung,NormalRank,Q710313,Sihu,true,true,true,false,false,false,true
+Q8349768,Lin Tai-hua,NormalRank,Q219147,Kaohsiung County,true,true,true,false,false,false,true
+Q8349837,Lin Su-shan,,,,,,false,,,,
+Q8349853,Lin Cho-shui,NormalRank,Q706544,Puli,true,true,true,false,false,false,true
+Q8349886,Lin Tsong-shyan,NormalRank,Q706261,Luodong,true,true,true,false,false,false,true
+Q8349946,Q8349946,NormalRank,Q15910959,Kaohsiung City,true,true,true,false,false,false,true
+Q8350030,Icyang Parod,NormalRank,Q249868,Hualien County,true,true,true,false,false,false,true
+Q8350110,Pan Men-an,NormalRank,Q712977,Checheng,true,true,true,false,false,false,true
+Q8350160,Su Chih-fen,NormalRank,Q473035,Beigang,true,true,true,false,false,false,true
+Q8350171,Shih Yi-fang,NormalRank,Q133865,Changhua County,true,true,true,false,false,true,true
+Q8350180,Shen Fa-hui,NormalRank,Q570601,Xizhi District,true,true,true,false,false,true,true
+Q8350223,Su Chen-ching,,,,,,false,,,,
+Q8350269,Tang Huo-shen,NormalRank,Q708696,Yuchi Township,true,true,true,false,false,true,true
+Q8350279,Tsai Chi-chang,NormalRank,Q569614,Qingshui District,true,true,true,false,false,true,true
+Q8350293,Michael Tsai,NormalRank,Q697890,Taichū Prefecture,true,true,true,false,false,false,true
+Q8350306,Tien Chiu-chin,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q8350321,Tsai Huang-liang,NormalRank,Q706544,Puli,true,true,true,false,false,false,true
+Q8350331,Tsai Chi-fang,NormalRank,Q166977,Chiayi County,true,true,false,,,,
+Q8350363,Twu Shiing-jer,NormalRank,Q706520,Puzi City,true,true,true,false,false,false,true
+Q8350388,Tsai Yi-yu,NormalRank,Q166977,Chiayi County,true,true,false,,,,
+Q8350423,Wang Shih-chien,NormalRank,Q56283112,Taipei,true,true,true,false,false,false,true
+Q8350435,Wu Yi-chen,NormalRank,Q244898,New Taipei,true,true,true,false,false,true,true
+Q8350455,Rosalia Wu,NormalRank,Q24287568,Taipei County,true,true,true,false,false,false,true
+Q8350478,Wu Ping-jui,NormalRank,Q249904,Taitung County,true,true,false,,,,
+Q8350543,Wang Jung-chang,,,,,,false,,,,
+Q8350592,Wei Ming-ku,NormalRank,Q713813,Puxin Township,true,true,true,false,false,false,true
+Q8350626,Yu Tian,NormalRank,Q249994,Hsinchu,true,true,false,,,,
+Q8350643,Yu Lin-ya,NormalRank,Q181557,Kaohsiung,true,true,true,false,false,false,true
+Q8350665,Pasuya Yao,NormalRank,Q74054,Hsinchu County,true,true,true,false,false,true,true
+Q8350686,Yang Yao,NormalRank,Q198525,Penghu County,true,true,true,false,false,true,true
+Q8350693,Yang Fang-wan,,,,,,false,,,,
+Q8350699,Yiong Con-ziin,NormalRank,Q713736,Shitan,true,true,true,false,false,false,true
+Q8350727,Yeh Yi-jin,NormalRank,Q701497,Xinying District,true,true,false,,,,
+Q8350806,Chang Hung-lu,NormalRank,Q569703,Shengang District,true,true,false,,,,
+Q8350914,Chang Fu-mei,NormalRank,Q153221,Yunlin County,true,true,false,,,,
+Q8350960,Chiang Yung-chang,NormalRank,Q24287568,Taipei County,true,true,true,false,false,false,true
+Q8350980,Q8350980,NormalRank,Q181557,Kaohsiung,true,true,true,false,false,false,true
+Q8351019,Chuang Jui-hsiung,NormalRank,Q194989,Pingtung County,true,true,false,,,,
+Q8351107,Cheng Li-chun,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q8351236,Q8351236,,,,,,false,,,,
+Q8351349,Chiu Chang,NormalRank,Q181557,Kaohsiung,true,true,true,false,false,true,true
+Q8351408,Q8351408,,,,,,false,,,,
+Q8351569,Lin Wei-chou,NormalRank,Q74054,Hsinchu County,true,true,false,,,,
+Q8351614,Shen Fu-hsiung,NormalRank,Q697894,Tainan Prefecture,true,true,true,false,false,false,true
+Q8351632,Q8351632,,,,,,false,,,,
+Q8351713,Q8351713,,,,,,false,,,,
+Q8351814,Chung Chia-pin,NormalRank,Q194989,Pingtung County,true,true,true,false,false,true,true
+Q83570179,Claire Wang,NormalRank,Q701651,Miaoli City,true,true,true,false,false,false,true
+Q8357028,Chiu Tai-san,NormalRank,Q569611,Dajia District,true,true,true,false,false,true,true
+Q8357048,Chang Ching-fang,,,,,,false,,,,
+Q8357056,Tuan Yi-kang,NormalRank,Q1867,Taipei,true,true,false,,,,
+Q8357125,Cheng Yun-peng,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q8357143,Lee Wen-chung,NormalRank,Q82357,Nantou County,true,true,true,false,false,true,true
+Q8357162,Lin Shu-fen,NormalRank,Q569604,Fengyuan District,true,true,false,,,,
+Q85133282,Chen Yaw-shyang,,,,,,false,,,,
+Q85877352,Wu I-ding,NormalRank,Q181557,Kaohsiung,true,true,true,false,false,false,true
+Q85877382,Cynthia Wu,,,,,,false,,,,
+Q85879894,Chang Yu-mei,NormalRank,Q74054,Hsinchu County,true,true,true,false,false,false,true
+Q85880978,Lee De-wei,NormalRank,Q245023,Taichung,true,true,true,false,false,false,true
+Q85881325,Lin Wen-jui,NormalRank,Q153221,Yunlin County,true,true,true,false,false,false,true
+Q85881335,Lin Chu-yin,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q85882113,Tang Hui-jen,NormalRank,Q115256,Taoyuan,true,true,true,false,false,false,true
+Q85882126,Wen Yu-hsia,NormalRank,Q166977,Chiayi County,true,true,true,false,false,false,true
+Q85883887,Chuang Ching-Cheng,NormalRank,Q245023,Taichung,true,true,true,false,false,false,true
+Q85884697,Chiu Chen-yuan,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q85885392,Ann Kao,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q85885461,Huang Shih-chieh,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q866951,Eugene Chien,NormalRank,Q115256,Taoyuan,true,true,true,false,false,false,true
+Q8928107,Cheng Mei-lan,,,,,,false,,,,
+Q8929116,Chen Wei-zen,NormalRank,Q708705,Xiaying District,true,true,false,,,,
+Q8938281,Josephine Chu,,,,,,false,,,,
+Q8954159,Fan Yun,NormalRank,Q24287568,Taipei County,true,true,true,false,false,false,true
+Q8956378,Fu Kun-chi,NormalRank,Q245023,Taichung,true,true,true,false,false,false,true
+Q8967661,Hsu Yung-ming,NormalRank,Q701682,Taichung County,true,true,true,false,false,true,true
+Q8968419,Q8968419,,,,,,false,,,,
+Q8974428,Cheng Cheng-chien,NormalRank,Q22569425,Hsinchu City (1951-1982),true,true,true,false,false,false,true
+Q8974482,David Chung,NormalRank,Q697874,Takao Prefecture,true,true,true,false,false,false,true
+Q8974503,Chung Shao-ho,NormalRank,Q219147,Kaohsiung County,true,true,true,false,false,false,true
+Q8975842,Chien Tai-lang,NormalRank,Q713611,Xinyuan,true,true,true,false,false,false,true
+Q8981782,Q8981782,,,,,,false,,,,
+Q8981918,Annie Lee,NormalRank,Q24287568,Taipei County,true,true,false,,,,
+Q8982294,Lee Chu-feng,NormalRank,Q249870,Kinmen County,true,true,true,false,false,false,true
+Q8984370,Chen Fu-hai,NormalRank,Q249870,Kinmen County,true,true,true,false,false,false,true
+Q8991767,Christina Liu,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q8991990,Liu Yuh-san,,,,,,false,,,,
+Q8993248,Q8993248,,,,,,false,,,,
+Q8993494,Liao Hui-ying,,,,,,false,,,,
+Q8997373,Lin Chuan,NormalRank,Q181557,Kaohsiung,true,true,true,false,false,false,true
+Q9025162,Pan Hwai-tzong,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q9026414,Q9026414,,,,,,false,,,,
+Q9031582,Morley Shih,NormalRank,Q166977,Chiayi County,true,true,false,,,,
+Q9031661,Thomas Lee,NormalRank,Q24287568,Taipei County,true,true,false,,,,
+Q9037810,Andrew Hsia,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q9045063,Tsao Chi-hung,NormalRank,Q708239,Linbian,true,true,true,false,false,false,true
+Q9055323,Wu Mi-cha,NormalRank,Q706308,Beimen District,true,true,false,,,,
+Q9057632,Wong Chung-chun,NormalRank,Q718371,Yizhu Township,true,true,true,false,false,true,true
+Q9076050,Yang Tzu-pao,NormalRank,Q249868,Hualien County,true,true,true,false,false,true,true
+Q9092371,Chang Show-foong,NormalRank,Q58210,Jinhua,true,true,false,,,,
+Q9092954,Katharine Chang,,,,,,false,,,,
+Q9093225,Chang Sheng-ford,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q9123228,Yen Ming,NormalRank,Q477601,Tainan County,true,true,true,false,false,false,true
+Q9130647,Yu Mei-nu,NormalRank,Q195215,Changhua City,true,true,false,,,,
+Q9141091,Hsu Hsin-ying,NormalRank,Q713045,Xinfeng,true,true,false,,,,
+Q9182314,Chen Chien-jen,NormalRank,Q712942,Cishan District,true,true,false,,,,
+Q9182857,Fan Liang-shiow,,,,,,false,,,,
+Q9184683,Shih Jun-ji,NormalRank,Q133865,Changhua County,true,true,true,false,false,false,true
+Q9185489,Wu Rong-i,NormalRank,Q697874,Takao Prefecture,true,true,true,false,false,false,true
+Q9206928,Lee Yung-te,NormalRank,Q706754,Meinong District,true,true,true,false,false,false,true
+Q9217065,Lin Shih-chia,NormalRank,Q245023,Taichung,true,true,true,false,false,true,true
+Q9291779,Lin Zhisheng,,,,,,false,,,,
+Q9292454,Freddy Lim,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q9302997,Stephen Shen,NormalRank,Q865,Taiwan,true,false,true,false,false,false,true
+Q9308254,Tang Yao-ming,,,,,,false,,,,
+Q9317972,Tien Hung-mao,,,,,,false,,,,
+Q9322496,Tung Chen-yuan,,,,,,false,,,,
+Q9338108,Chiang Wei-ling,NormalRank,Q865,Taiwan,true,false,true,false,false,false,true
+Q9340026,Su Jain-rong,NormalRank,Q219147,Kaohsiung County,true,true,true,false,false,false,true
+Q9342208,Hsu Chun-hsin,NormalRank,Q140631,Tainan,true,true,false,,,,
+Q9346217,Fai Hung-tai,NormalRank,Q1867,Taipei,true,true,false,,,,
+Q9368963,Chen Wu-hsiung,NormalRank,Q697946,Taihoku Prefecture,true,true,true,false,false,true,true
+Q9370646,Chen Chin-jang,,,,,,false,,,,
+Q9458408,Huang Wen-ling,NormalRank,Q195215,Changhua City,true,true,true,false,false,true,true
+Q15025,Audrey Tang,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
+Q19216,Ma Ying-jeou,NormalRank,Q856077,Kwong Wah Hospital,true,true,false,,,,
+Q22368,Chen Shui-bian,NormalRank,Q709018,Guantian District,true,true,false,,,,
+Q57838,Wu Den-yih,NormalRank,Q708408,Caotun,true,true,true,false,false,false,true
+Q58182,Timothy Yang,NormalRank,Q10880253,Nisui village,true,true,true,false,false,false,true
