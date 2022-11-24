@@ -30,7 +30,7 @@
         {
           "sentences": [
             {
-              "text": "Audrey Tang Feng (born 18 April 1981) is a Taiwanese free software programmer and the inaugural Minister of Digital Affairs of the Republic of China (Taiwan), who has been described as one of the \"ten greatest Taiwanese computing personalities\".",
+              "text": "Audrey Tang (born 18 April 1981) is a Taiwanese free software programmer and the inaugural Minister of Digital Affairs of the Republic of China (Taiwan), who has been described as one of the \"ten greatest Taiwanese computing personalities\".",
               "links": [
                 {
                   "text": "Taiwanese",
@@ -50,7 +50,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Audrey Tang Feng"
+                  "Audrey Tang"
                 ]
               }
             },
@@ -215,7 +215,7 @@
             ]
           },
           "birth_name": {
-            "text": "Autrijus Tang Tsung-han (唐宗漢)"
+            "text": "Tang Tsung-han (唐宗漢)"
           },
           "birth_date": {
             "text": "18 April 1981"

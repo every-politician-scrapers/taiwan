@@ -450,7 +450,7 @@
         {
           "last1": "Wang",
           "first1": "Chris",
-          "title": "‘Oral History’ about DPP establishment launched",
+          "title": "'Oral History' about DPP establishment launched",
           "url": "http://www.taipeitimes.com/News/taiwan/archives/2013/12/16/2003579136",
           "access-date": "13 February 2021",
           "work": "Taipei Times",
@@ -749,7 +749,7 @@
         },
         {
           "author1": "曾盈瑜",
-          "title": "澄清與蘇貞昌沒心結　游錫堃：我們在省議會是鐵三角",
+          "title": "澄清與蘇貞昌沒心結 游錫堃：我們在省議會是鐵三角",
           "url": "https://tw.appledaily.com/politics/20191121/7Q543TJ4IUPA22HBCLVQRPLVCM/",
           "access-date": "2 January 2022",
           "agency": "Apple Daily",
@@ -770,7 +770,7 @@
           "type": "web"
         },
         {
-          "title": "歷史上的今天／八掌溪風暴唐飛請辭獲慰留　游錫堃扛責去職",
+          "title": "歷史上的今天／八掌溪風暴唐飛請辭獲慰留 游錫堃扛責去職",
           "url": "https://www.setn.com/News.aspx?NewsID=784124",
           "access-date": "2 January 2022",
           "agency": "三立新聞網",
@@ -1004,11 +1004,11 @@
           "url": "https://www.washingtonpost.com/wp-dyn/content/article/2007/09/21/AR2007092102110.html",
           "title": "Taiwan's Vice President, 2 Others Charged With Corruption",
           "author": "Jane Rickards",
-          "work": "The Washington Post",
+          "newspaper": "The Washington Post",
           "date": "22 September 2007",
           "access-date": "2 November 2007",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         }
       ]
     },
