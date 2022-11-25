@@ -1,43 +1,43 @@
-item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended
-Q113580751,Q113580751,,,Q865,,,
-Q113807438,Q113807438,,,,,,
-Q114895807,Chairperson of the Central Election Commission,Q701117,Central Election Commission,,Q865,,
-Q114895813,Chairperson of the Fair Trade Commission,Q5429931,Fair Trade Commission,,Q865,,
-Q114895801,Chairperson of the Financial Supervisory Commission,Q5449676,Financial Supervisory Commission,,Q865,,
-Q114895780,Chairperson of the National Communications Commission,Q5973105,National Communications Commission,,Q865,,
-Q114895828,Director of the National Palace Museum,Q540668,National Palace Museum,,Q865,,
-Q5280609,"Directorate-General of Budget, Accounting and Statistics",,,,,1931,
-Q114895734,Governor of the Central Bank of the Republic of China,Q198642,Central Bank of the Republic of China,Q865,,,
-Q11078943,Minister Without Portfolio,,,Q865,Q865,,
-Q114895338,Minister of Agriculture,Q11626125,Council of Agriculture (Republic of China),,Q865,,
-Q114895432,Minister of Atomic Energy,Q5972441,Atomic Energy Council,,Q865,,
-Q114895411,"Minister of Budget, Accounting and Statistics",Q5280609,"Directorate-General of Budget, Accounting and Statistics",,Q865,,
-Q114894988,Minister of Culture,Q697865,Ministry of Culture,,Q865,,
-Q113630396,Minister of Digital Affairs,Q109260060,"Ministry of Digital Affairs, ROC (Taiwan)",Q865,Q865,2022,
-Q114894847,Minister of Economic Affairs,Q697113,Ministry of Economic Affairs,,Q865,,
-Q115202966,Minister of Economic Planning and Development,Q11626126,Council for Economic Planning and Development,,Q865,,
-Q114894853,Minister of Education,Q697093,Ministry of Education,,Q865,,
-Q20789094,Minister of Environmental Protection Administration of the Executive Yuan,Q5381152,"Environmental Protection Administration, Executive Yuan",Q865,Q865,,
-Q114894856,Minister of Finance,Q697099,Ministry of Finance,,Q865,,
-Q2482650,Minister of Foreign Affairs of the Republic of China,Q697158,Ministry of Foreign Affairs,Q865,Q865,,
-Q114894998,Minister of Hakka Affairs,Q709073,Council for Hakka Affairs,,Q865,,
-Q114894860,Minister of Health and Welfare,Q697240,Ministry of Health and Welfare,,Q865,,
-Q60595885,Minister of Indigenous Affairs,Q701210,Council of Indigenous Peoples,Q865,Q865,,
-Q106361604,Minister of Justice,Q697109,Ministry of Justice,Q865,Q865,,
-Q114894866,Minister of Labor,Q5176432,Ministry of Labor,,Q865,,
-Q114895384,Minister of Mainland Affairs,Q705141,Mainland Affairs Council,,Q865,,
-Q115123809,Minister of Mongolian and Tibetan Affairs,Q707551,Mongolian and Tibetan Affairs Commission,,Q865,,
-Q21449248,Minister of National Defense of the Republic of China,Q697444,Ministry of National Defense,Q865,,,
-Q114895586,Minister of National Development,Q15637493,National Development Council,,Q865,,
-Q114895405,Minister of Ocean Affairs,Q10876412,Ocean Affairs Council,,Q865,,
-Q114895676,Minister of Overseas Community Affairs,Q710861,Overseas Chinese Affairs Council,,Q865,,
-Q114895656,Minister of Personnel Administration,Q5280612,Directorate-General of Personnel Administration,,Q865,,
-Q114895726,Minister of Public Construction,Q5972740,Public Construction Commission,,Q865,,
-Q114894927,Minister of Science and Technology,Q11626123,National Science and Technology Council,,Q865,,
-Q10876310,Minister of Transportation and Communications of the Republic of China,,,Q865,Q865,,
-Q114895418,Minister of Veterans Affairs,Q5972697,Veterans Affairs Commission,,Q865,,
-Q108022269,Minister of interior of Taiwan,Q713201,Ministry of the Interior,Q865,Q865,,
-Q10876412,Ocean Affairs Council,,,Q865,,2018,
-Q702650,President of the Executive Yuan,Q715055,Executive Yuan,Q865,Q865,1928,
-Q15902915,Secretary General of the Executive Yuan,,,Q865,,1928,
-Q13644819,Vice Premier of the Republic of China,,,Q865,Q865,1928,
+item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended,holders
+Q113580751,Q113580751,,,Q865,,,,0
+Q113807438,Q113807438,,,,,,,0
+Q114895807,Chairperson of the Central Election Commission,Q701117,Central Election Commission,,Q865,,,1
+Q114895813,Chairperson of the Fair Trade Commission,Q5429931,Fair Trade Commission,,Q865,,,2
+Q114895801,Chairperson of the Financial Supervisory Commission,Q5449676,Financial Supervisory Commission,,Q865,,,2
+Q114895780,Chairperson of the National Communications Commission,Q5973105,National Communications Commission,,Q865,,,1
+Q114895828,Director of the National Palace Museum,Q540668,National Palace Museum,,Q865,,,1
+Q5280609,"Directorate-General of Budget, Accounting and Statistics",,,,,1931,,0
+Q114895734,Governor of the Central Bank of the Republic of China,Q198642,Central Bank of the Republic of China,Q865,,,,2
+Q11078943,Minister Without Portfolio,,,Q865,Q865,,,9
+Q114895338,Minister of Agriculture,Q11626125,Council of Agriculture (Republic of China),,Q865,,,11
+Q114895432,Minister of Atomic Energy,Q5972441,Atomic Energy Council,,Q865,,,1
+Q114895411,"Minister of Budget, Accounting and Statistics",Q5280609,"Directorate-General of Budget, Accounting and Statistics",,Q865,,,2
+Q114894988,Minister of Culture,Q697865,Ministry of Culture,,Q865,,,3
+Q113630396,Minister of Digital Affairs,Q109260060,"Ministry of Digital Affairs, ROC (Taiwan)",Q865,Q865,2022,,1
+Q114894847,Minister of Economic Affairs,Q697113,Ministry of Economic Affairs,,Q865,,,15
+Q115202966,Minister of Economic Planning and Development,Q11626126,Council for Economic Planning and Development,,Q865,,,2
+Q114894853,Minister of Education,Q697093,Ministry of Education,,Q865,,,6
+Q20789094,Minister of Environmental Protection Administration of the Executive Yuan,Q5381152,"Environmental Protection Administration, Executive Yuan",Q865,Q865,,,3
+Q114894856,Minister of Finance,Q697099,Ministry of Finance,,Q865,,,14
+Q2482650,Minister of Foreign Affairs of the Republic of China,Q697158,Ministry of Foreign Affairs,Q865,Q865,,,16
+Q114894998,Minister of Hakka Affairs,Q709073,Council for Hakka Affairs,,Q865,,,8
+Q114894860,Minister of Health and Welfare,Q697240,Ministry of Health and Welfare,,Q865,,,14
+Q60595885,Minister of Indigenous Affairs,Q701210,Council of Indigenous Peoples,Q865,Q865,,,8
+Q106361604,Minister of Justice,Q697109,Ministry of Justice,Q865,Q865,,,12
+Q114894866,Minister of Labor,Q5176432,Ministry of Labor,,Q865,,,11
+Q114895384,Minister of Mainland Affairs,Q705141,Mainland Affairs Council,,Q865,,,7
+Q115123809,Minister of Mongolian and Tibetan Affairs,Q707551,Mongolian and Tibetan Affairs Commission,,Q865,,,4
+Q21449248,Minister of National Defense of the Republic of China,Q697444,Ministry of National Defense,Q865,,,,16
+Q114895586,Minister of National Development,Q15637493,National Development Council,,Q865,,,2
+Q114895405,Minister of Ocean Affairs,Q10876412,Ocean Affairs Council,,Q865,,,3
+Q114895676,Minister of Overseas Community Affairs,Q710861,Overseas Chinese Affairs Council,,Q865,,,2
+Q114895656,Minister of Personnel Administration,Q5280612,Directorate-General of Personnel Administration,,Q865,,,2
+Q114895726,Minister of Public Construction,Q5972740,Public Construction Commission,,Q865,,,3
+Q114894927,Minister of Science and Technology,Q11626123,National Science and Technology Council,,Q865,,,2
+Q10876310,Minister of Transportation and Communications of the Republic of China,,,Q865,Q865,,,25
+Q114895418,Minister of Veterans Affairs,Q5972697,Veterans Affairs Commission,,Q865,,,2
+Q108022269,Minister of interior of Taiwan,Q713201,Ministry of the Interior,Q865,Q865,,,2
+Q10876412,Ocean Affairs Council,,,Q865,,2018,,0
+Q702650,President of the Executive Yuan,Q715055,Executive Yuan,Q865,Q865,1928,,40
+Q15902915,Secretary General of the Executive Yuan,,,Q865,,1928,,17
+Q13644819,Vice Premier of the Republic of China,,,Q865,Q865,1928,,37
