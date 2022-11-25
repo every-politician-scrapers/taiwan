@@ -40,7 +40,6 @@ Q7241342,President of the Legislative Yuan,,Q865,,,1928-03-13,,,,President of th
 Q887003,President of the Republic of China,Q865,Q865,Q707830,Q858092,1912-01-01,,Q10926886,,President of the Republic of China
 Q9384607,Representative of the Republic of China to the United States,Q30,,,,,,,,
 Q15902915,Secretary General of the Executive Yuan,Q865,,,Q41715117,1928,,,,Secretary-General of the Executive Yuan
-Q15932850,Spouse of the President of the Republic of China,Q865,,,,,,,,First Lady of the Republic of China
 Q110638369,Taiwanese representative to Japan,Q17,,,,,,,,
 Q110638654,Taiwanese representative to Spain,Q29,,,,,,Q111079458,,
 Q13644819,Vice Premier of the Republic of China,Q865,Q865,,,1928,,,,Vice Premier of the Republic of China
@@ -51,3 +50,4 @@ Q109350932,ambassador of the Republic of China to Nicaragua,Q811,,,Q109350903,,,
 Q63253507,member of the National Assembly of the Republic of China,Q865,,,,,,,,
 Q110714329,representative of Taiwan to the Russian Federation,Q159,,,,1991-12-25,,Q110714313,,
 Q40338126,representative of the Republic of China to Canada,Q16,,,,1949,,,,
+Q15932850,spouse of the president of the Republic of China,Q865,,,,,,,,First Lady of the Republic of China
