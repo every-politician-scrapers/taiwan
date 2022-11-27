@@ -1,6 +1,7 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q10294207,Chang San-cheng,male,1954-06-24,11,,,張副院長善政.jpg,Chang San-cheng
 Q10413949,王廷兴,,,,,,,
+Q10513434,Tung Hsiang-lung,male,1952-11-21,11,,,Navy (ROCA) Admiral Tung Hsiang-lung 海軍上將董翔龍 (Flickr id 6048790104).jpg,Tung Hsiang-lung
 Q10564184,鍾尚衡,,,,,,,
 Q10900397,Liu Yu-you,male,1931,9,2002,9,Liu Yu-you (cropped).png,Liu Yu-you
 Q10918847,Wu Se-hwa,male,1955-07-09,11,,,教育部部長吳思華 (cropped).jpg,Wu Se-hwa
@@ -24,12 +25,13 @@ Q13408439,Shea Jia-dong,male,1948-10-09,11,,,,Shea Jia-dong
 Q13631978,Chen Bao-ji,male,1953-11-10,11,,,"Chen Bao-ji, Council of Agriculture, Executive Yuan 20130501.jpg",Chen Bao-ji
 Q14516312,Kao Kuang-chi,male,1951-03-09,11,,,Admiral (ROCN) Kao Kuang-chi 海軍上將高廣圻.jpg,Kao Kuang-chi
 Q14866531,Luo Ying-shay,female,1951-11-08,11,2021-04-03,11,羅瑩雪.jpg,Luo Ying-shay
-Q15025,Audrey Tang,nonbinary,1981-04-18,11,,,Audrey tang 089 (25378300354) (cropped).jpg,Audrey Tang
+Q15025,Audrey Tang,female,1981-04-18,11,,,Audrey tang 089 (25378300354) (cropped).jpg,Audrey Tang
 Q15205373,Lin Chiang-yi,male,1949-10-30,11,,,Lin Chiang-yi (cropped).jpg,Lin Chiang-yi
 Q15704593,Jaclyn Tsai,female,1955-08-22,11,,,2015 DAF Taipei Jaclyn Tsai.jpg,Jaclyn Tsai
 Q15831062,Wei Kuo-yen,male,1953-02-05,11,,,台灣環保署長魏國彥.jpg,Wei Kuo-yen
 Q15895660,Jang Show-ling,female,1955-10-09,11,,,Jang Show-ling (cropped).jpg,Jang Show-ling
 Q15899237,Huang Kuo-chang,male,1973-08-19,11,,,黃國昌肖像.jpg,Huang Kuo-chang
+Q15901599,Lee Shying-jow,male,1952-08-02,11,,,李翔宙20141120.jpg,Lee Shying-jow
 Q15901623,Frida Tsai,female,1971-09-02,11,,,民進黨立委蔡培慧.jpg,Frida Tsai
 Q15903055,Hwung Hwung-hweng,male,1946-11-10,11,2019-07-26,11,,Hwung Hwung-hweng
 Q15905278,Lin I-chin,female,1969-08-25,11,,,"Lin, I-Chin Tainan Taiwan 2014.jpg",Lin I-chin
@@ -64,6 +66,7 @@ Q16239906,Sheu Yu-jer,male,1952-10-27,11,2020-02-15,11,,Sheu Yu-jer
 Q16239908,Jay N. Shih,male,1960,9,,,,Jay N. Shih
 Q16241144,Chen Ming-tang,male,1954-05-03,11,,,Chen Ming-tang in Legislative Yuan 20130401.jpg,Chen Ming-tang
 Q16241509,Chiang Been-huang,male,1952,9,,,Chiang Been-huang (cropped).jpg,Chiang Been-huang
+Q16242317,Teng Tsu-lin,male,,,,,,Teng Tsu-lin
 Q16260492,Chen Min-jen,male,,,,,,Chen Min-jen
 Q16260539,Lai Pin-yu,female,1992-03-02,11,,,立法委員賴品妤.jpg,Lai Pin-yu
 Q16336308,Ko Cheng-fang,male,1972-11-30,11,,,柯呈枋.jpg,
@@ -214,6 +217,7 @@ Q6148708,Yeh Chu-lan,female,1949-02-13,11,,,臺灣前總統府秘書長與行政
 Q6288088,Joseph Wu,male,1954-10-31,11,,,吳釗燮外交部長.jpg,Joseph Wu
 Q6393270,Ker Chien-ming,male,1951-09-08,11,,,立法委員 柯建銘.jpg,Ker Chien-ming
 Q6473605,Lai In-jaw,male,1946-08-24,11,,,20190709賴英照.jpg,Lai In-jaw
+Q65051936,Lee Cheng-lin,,1933-10-25,11,,,,
 Q6515593,Lee Ying-yuan,male,1953-03-16,11,2021-11-11,11,李應元 (cropped).JPG,Lee Ying-yuan
 Q6550004,Lin Chia-lung,male,1964-02-13,11,,,Lin Chia-lung.jpg,Lin Chia-lung
 Q6550038,Lin Hsin-i,male,1946-12-02,11,,,總統府資政 林信義.png,Lin Hsin-i
@@ -245,6 +249,7 @@ Q78116451,Hsieh Yi-fong,female,1977-07-12,11,,,彰化第三選區立委候選人
 Q78123032,Hung Sun-han,male,1984-10-18,11,,,,
 Q78123037,Lo Mei-ling,female,1969-05-01,11,,,,Lo Mei-ling
 Q78123040,Wang Mei-hui,female,1965-04-15,11,,,,
+Q7849530,Tseng Jing-ling,male,1947-09-14,11,,,,Tseng Jing-ling
 Q7849539,Tseng Yung-fu,male,1943-01-12,11,,,Tseng Yung-fu.jpg,Tseng Yung-fu
 Q7967389,Wang Ching-feng,female,1952-01-01,11,,,Wang Ching-feng.jpg,Wang Ching-feng
 Q7967625,Wang Shu-hui,female,1955-12-02,11,,,王淑慧委員.jpg,Wang Shu-hui
@@ -261,6 +266,7 @@ Q8271249,Tseng Yung-chuan,male,1947-09-10,11,,,Tseng Yung-chuan 2015-11-06 (crop
 Q8272045,Lin Join-sane,male,1944-12-17,11,,,Lin Join-sane.jpg,Lin Join-sane
 Q8272096,Stella Chen,female,1950-06-10,11,,,Stella Chen 2018-03-25.jpg,
 Q8272145,Chen Chien-ming,male,1961-07-24,11,,,,
+Q8272451,Hu Chen-pu,male,1948-08-14,11,,,,Hu Chen-pu
 Q8272537,林正二,male,1952-01-02,11,,,,
 Q8272590,Shen Chih-hwei,female,1957-09-16,11,,,Wisdomshen.jpg,
 Q8272594,Wu Tse-yuan,male,1945-08-17,11,2008-09-22,11,伍澤元委員.jpg,Wu Tse-yuan
@@ -520,6 +526,7 @@ Q9050836,Ovid Tzeng,male,1944-09-08,11,,,2008TIBE Day2 Hall1 ThemeSquare TaiwanM
 Q9055323,Wu Mi-cha,male,1956-03-22,11,,,Wu Mi-cha 2016.jpg,Wu Mi-cha
 Q9057632,Wong Chung-chun,male,1955-05-31,11,,,,Wong Chung-chun
 Q9076050,Yang Tzu-pao,male,1963-08-08,11,,,Voa chinese Yang Tzu-pao 10arpil08.jpg,Yang Tzu-pao
+Q9076084,Yang Te-chih,male,1941-12-25,11,2019-01-26,11,,
 Q9082721,Yen Ching-chang,male,1948-04-07,11,,,,
 Q9088556,Christine Tsung,female,1948,9,,,Christine Tsung - 2001 (cropped).jpg,Christine Tsung
 Q9092371,Chang Show-foong,female,1941-03-29,11,,,Voa chinese Xiaofeng Zhang 12May10 300.jpg,Chang Show-foong
