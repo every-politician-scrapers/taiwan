@@ -78,7 +78,7 @@
               ]
             },
             {
-              "text": "She has served as chair of the DPP since 2020, and previously from 2008 to 2012 and 2014 to 2018.",
+              "text": "She has served as chair of the DPP from 2020 to 2022, and also previously from 2008 to 2012 and 2014 to 2018.",
               "links": [
                 {
                   "text": "chair of the DPP",
@@ -373,6 +373,9 @@
                   "page": "Beijing"
                 }
               ]
+            },
+            {
+              "text": "On 26 November 2022, Tsai resigned as head of the Democratic People's Party (DPP), and cited her party's poor performance in the local election, as the reason for her resignation."
             }
           ]
         }
@@ -570,6 +573,9 @@
           "term_start1": {
             "text": "20 May 2020"
           },
+          "term_end1": {
+            "text": "26 November 2022"
+          },
           "predecessor1": {
             "text": "Cho Jung-tai",
             "links": [
@@ -578,6 +584,9 @@
                 "page": "Cho Jung-tai"
               }
             ]
+          },
+          "successor1": {
+            "text": "TBD"
           },
           "term_start2": {
             "text": "28 May 2014"
@@ -763,7 +772,7 @@
             ]
           },
           "party": {
-            "text": "Democratic Progressive (2004–present)",
+            "text": "Democratic Progressive (2004–2022)",
             "links": [
               {
                 "text": "Democratic Progressive",
@@ -897,6 +906,24 @@
           "access-date": "2022-08-23",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "Taiwan President Tsai Ing-wen resigns as party leader over election results",
+          "url": "https://www.sbs.com.au/news/article/taiwan-president-tsai-ing-wen-resigns-as-party-leader-over-election-results/buhkxtom8",
+          "access-date": "2022-11-26",
+          "website": "SBS News",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "President Tsai resigns as DPP chairperson after election setback - Focus Taiwan",
+          "url": "https://focustaiwan.tw/politics/202211260031",
+          "access-date": "2022-11-26",
+          "website": "focustaiwan.tw",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
         },
         {
           "title": "President Tsai",
@@ -2012,7 +2039,7 @@
       ]
     },
     {
-      "title": "Third term: 2020–present",
+      "title": "Third term: 2020–2022",
       "depth": 1,
       "paragraphs": [
         {
@@ -2023,6 +2050,16 @@
                 {
                   "type": "internal",
                   "page": "Cho Jung-tai"
+                }
+              ]
+            },
+            {
+              "text": "She resigned as party leader following the 2022 Taiwanese local elections.",
+              "links": [
+                {
+                  "text": "2022 Taiwanese local elections",
+                  "type": "internal",
+                  "page": "2022 Taiwanese local elections"
                 }
               ]
             }
@@ -2053,6 +2090,27 @@
           "date": "20 May 2020",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last1": "Lin",
+          "first1": "Sean",
+          "title": "ELECTIONS 2022/President Tsai resigns as DPP chairperson after election setback",
+          "url": "https://focustaiwan.tw/politics/202211260031",
+          "access-date": "26 November 2022",
+          "agency": "Central News Agency",
+          "date": "26 November 2022}} {{cite news |last1=Lin |first1=Sean |last2=Yeh |first2=Joseph |last3=Kao |first3=Evelyn |title=ELECTIONS 2022/President Tsai resigns as DPP chairperson after election setback (update) |url=https://focustaiwan.tw/politics/202211260034 |access-date=26 November 2022 |agency=Central News Agency |date=26 November 2022|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.npr.org/2022/11/26/1139270577/taiwan-election-president-resigns-china",
+          "title": "Taiwan's president resigns as party leader after election losses",
+          "date": "2022-11-26",
+          "accessdate": "2022-11-26",
+          "lang": "en-US",
+          "publisher": "NPR",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -6769,11 +6827,12 @@
         },
         {
           "title": "Leader of the Democratic Progressive Party",
-          "years": "2020–present",
+          "years": "2020–2022",
           "template": "s-ttl"
         },
         {
-          "template": "s-inc"
+          "after": "vacant",
+          "template": "s-aft"
         },
         {
           "template": "presidents of the republic of china"
