@@ -62,6 +62,7 @@ Q16196866,Chen Ming-jen,,,,,,false,,,,
 Q16239464,Chen Chih-ching,NormalRank,Q82357,Nantou County,true,true,true,false,false,false,true
 Q16239471,Chen Der-hwa,,,,,,false,,,,
 Q16239478,Chen Shu-hui,,,,,,false,,,,
+Q16239498,Lin Chu-chia,NormalRank,Q115256,Taoyuan,true,true,true,false,false,false,true
 Q16239501,Chung Wan-mei,NormalRank,Q63706,Miaoli County,true,true,false,,,,
 Q16239639,Hung Meng-chi,,,,,,false,,,,
 Q16239701,Kuo Fang-yu,NormalRank,Q865,Taiwan,true,false,true,false,false,true,true
@@ -138,6 +139,7 @@ Q24247649,Chen Mei-ling,,,,,,false,,,,
 Q24263737,Stanley Kao,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
 Q24572278,Hsu Jan-yau,NormalRank,Q181557,Kaohsiung,true,true,true,false,false,false,true
 Q24572279,Lin Mei-chu,,,,,,false,,,,
+Q24834554,Chen Tain-jy,,,,,,false,,,,
 Q24839448,Chen Yi-ming,NormalRank,Q219147,Kaohsiung County,true,true,true,false,false,false,true
 Q24840132,Lee Li-feng,,,,,,false,,,,
 Q24851744,Wang Kwo-tsai,NormalRank,Q477601,Tainan County,true,true,true,false,false,false,true
@@ -218,6 +220,7 @@ Q6146212,Lee I-yang,NormalRank,Q249996,Keelung,true,true,true,false,false,false,
 Q6148708,Yeh Chu-lan,NormalRank,Q63706,Miaoli County,true,true,true,false,false,false,true
 Q6288088,Joseph Wu,NormalRank,Q133865,Changhua County,true,true,true,false,false,false,true
 Q6393270,Ker Chien-ming,NormalRank,Q249994,Hsinchu,true,true,true,false,false,false,true
+Q6441079,Kuan Chung-ming,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
 Q6473605,Lai In-jaw,NormalRank,Q706720,Jiaoxi,true,true,false,,,,
 Q65051936,Lee Cheng-lin,,,,,,false,,,,
 Q6515593,Lee Ying-yuan,NormalRank,Q153221,Yunlin County,true,true,true,false,false,false,true
@@ -385,7 +388,7 @@ Q8347483,Chang Shiow-jen,,,,,,false,,,,
 Q8347574,Lee Chun-yi,NormalRank,Q249995,Chiayi City,true,true,true,false,false,true,true
 Q8347638,Tsai Shih-ying,NormalRank,Q24287568,Taipei County,true,true,false,,,,
 Q8347665,Chao Tien-lin,NormalRank,Q1867,Taipei,true,true,true,false,false,false,true
-Q8347718,Chiu Chi-wei,NormalRank,Q181557,Kaohsiung,true,true,true,false,false,false,true
+Q8347718,Chiu Chi-wei,NormalRank,Q708120,Linluo,true,true,true,false,false,false,true
 Q8347775,Chiu Yi-ying,NormalRank,Q194989,Pingtung County,true,true,true,false,false,true,true
 Q8347820,Chen Ting-fei,NormalRank,Q15895448,Tainan City,true,true,true,false,false,false,true
 Q8347862,Chen Chi-nan,NormalRank,Q708090,Gaoshu,true,true,true,false,false,true,true
