@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Joseph Wu Jau-shieh (born October 31, 1954) is a Taiwanese politician currently serving as the Minister of Foreign Affairs of the Republic of China under current President Tsai Ing-wen since February 26, 2018.",
+              "text": "Joseph Wu Jaushieh (born October 31, 1954) is a Taiwanese politician currently serving as the Minister of Foreign Affairs of the Republic of China under current President Tsai Ing-wen since February 26, 2018.",
               "links": [
                 {
                   "text": "Minister of Foreign Affairs",
@@ -38,7 +38,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Joseph Wu Jau-shieh"
+                  "Joseph Wu Jaushieh"
                 ]
               }
             },
@@ -201,7 +201,7 @@
         },
         {
           "name": {
-            "text": "Joseph Wu Jau-shieh"
+            "text": "Joseph Wu Jaushieh"
           },
           "native_name": {
             "text": "吳釗燮"
