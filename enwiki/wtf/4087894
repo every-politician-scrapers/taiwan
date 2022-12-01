@@ -489,15 +489,6 @@
       ],
       "infoboxes": [
         {
-          "honorific_prefix": {
-            "text": "Her Excellency",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Her Excellency"
-              }
-            ]
-          },
           "name": {
             "text": "Tsai Ing-wen"
           },
@@ -586,7 +577,13 @@
             ]
           },
           "successor1": {
-            "text": "TBD"
+            "text": "Chen Chi-mai (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chen Chi-mai"
+              }
+            ]
           },
           "term_start2": {
             "text": "28 May 2014"
