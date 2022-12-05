@@ -406,7 +406,7 @@ Q8348374,Kao Meng-ting,NormalRank,Q153221,Yunlin County,true,true,false,,,,
 Q8348414,Kao Chia-yu,NormalRank,Q249996,Keelung,true,true,false,,,,
 Q8348463,Gao Jyh-peng,NormalRank,Q249996,Keelung,true,true,false,,,,
 Q8348633,Huang Jen-shu,,,,,,false,,,,
-Q8348653,Huang Wei-cher,NormalRank,Q140631,Tainan,true,true,false,,,,
+Q8348653,Huang Wei-cher,NormalRank,Q56283112,Taipei,true,true,true,false,false,false,true
 Q8348768,Ho Min-hao,NormalRank,Q245023,Taichung,true,true,true,false,false,true,true
 Q8348788,Ho Hsin-chun,NormalRank,Q701682,Taichung County,true,true,true,false,false,false,true
 Q8348813,Q8348813,,,,,,false,,,,
@@ -567,7 +567,7 @@ Q9322496,Tung Chen-yuan,,,,,,false,,,,
 Q9337457,Tsai Chuen-horng,NormalRank,Q865,Taiwan,true,false,true,false,false,true,true
 Q9338108,Chiang Wei-ling,NormalRank,Q865,Taiwan,true,false,true,false,false,false,true
 Q9340026,Su Jain-rong,NormalRank,Q219147,Kaohsiung County,true,true,true,false,false,false,true
-Q9342208,Hsu Chun-hsin,NormalRank,Q140631,Tainan,true,true,false,,,,
+Q9342208,Hsu Chun-hsin,NormalRank,Q140631,Tainan,true,true,true,false,false,false,true
 Q9346217,Fai Hung-tai,NormalRank,Q1867,Taipei,true,true,false,,,,
 Q9368963,Chen Wu-hsiung,NormalRank,Q697946,Taihoku Prefecture,true,true,true,false,false,true,true
 Q9370626,Tchen Yu-chiou,,,,,,false,,,,
