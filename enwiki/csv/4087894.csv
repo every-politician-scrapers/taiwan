@@ -1,6 +1,6 @@
 who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,replacedByLabel,posidx
 4087894,Q887003,President of the Republic of China,2016-05-20,,Q19216,Ma Ying-jeou,,,0
-4087894,List of leaders of the Democratic Progressive Party,Chairwoman of the Democratic Progressive Party,2020-05-20,2022-11-26,Q5116472,Cho Jung-tai,,TBD,1
+4087894,List of leaders of the Democratic Progressive Party,Chairwoman of the Democratic Progressive Party,2020-05-20,2022-11-26,Q5116472,Cho Jung-tai,Q5090717,Chen Chi-mai (acting),1
 4087894,,,2014-05-28,2018-11-24,,Su Tseng-chang,,Cho Jung-tai,2
 4087894,,,2008-05-20,2012-02-29,Q22368,Chen Shui-bian,,Su Tseng-chang,3
 4087894,Q13644819,Vice Premier of the Republic of China,2006-01-25,2007-05-21,Q9185489,Wu Rong-i,Q5101463,Chiou I-jen,4
