@@ -976,7 +976,8 @@
                 {
                   "text": "英文",
                   "type": "interwiki",
-                  "wiki": "wikt"
+                  "wiki": "wikt",
+                  "page": "英文"
                 },
                 {
                   "text": "genealogical naming practices",
@@ -4942,13 +4943,7 @@
               "text": "Hakka was made a national language via amendments to the Hakka Basic Act on 29 December 2017."
             },
             {
-              "text": "On 25 December 2018, the sweeping National Languages Development Act passed the legislature, creating broadcast services for each national language of Taiwan, providing interpreters for all national languages in the legislature, guaranteeing access to public services in each language (including legislative, and introducing elective language classes in primary schools."
-            },
-            {
-              "text": "The act also directed the government to work with civic groups to create standard orthographies for each national language, and to develop a plan for preserving and revitalizing threatened languages."
-            },
-            {
-              "text": "It furthermore automatically designated, in Article 3, all languages of all ethnic groups in Taiwan as national languages, thus clearing the way for Taiwanese Hokkien, Taiwanese Sign Language, and the Matsu dialect to become national languages.",
+              "text": "On 25 December 2018, the sweeping National Languages Development Act passed the legislature, creating broadcast services for each national language of Taiwan, providing interpreters for all national languages in the legislature, guaranteeing access to public services in each language (including legislative, and introducing elective language classes in primary schools. The act also directed the government to work with civic groups to create standard orthographies for each national language, and to develop a plan for preserving and revitalizing threatened languages.  It furthermore automatically designated, in Article 3, all languages of all ethnic groups in Taiwan as national languages, thus clearing the way for Taiwanese Hokkien, Taiwanese Sign Language, and the Matsu dialect to become national languages.",
               "links": [
                 {
                   "type": "internal",

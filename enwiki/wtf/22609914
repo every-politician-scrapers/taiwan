@@ -144,32 +144,24 @@
           "template": "sup"
         },
         {
+          "template": "infobox",
+          "type": "chinese",
+          "data": {
+            "title": {},
+            "t": {},
+            "p": {},
+            "w": {},
+            "poj": {},
+            "j": {}
+          }
+        },
+        {
           "t": "賴淸德",
           "poj": "Loā Chheng-tek",
           "template": "zh"
         }
       ],
       "infoboxes": [
-        {
-          "title": {
-            "text": "Lai Ching-te"
-          },
-          "t": {
-            "text": "賴淸德"
-          },
-          "p": {
-            "text": "Lài Qīngdé"
-          },
-          "w": {
-            "text": "Lai4 Chʻing1-tê2"
-          },
-          "poj": {
-            "text": "Loā Chheng-tek"
-          },
-          "j": {
-            "text": "Lai6 Cing1-dak7"
-          }
-        },
         {
           "name": {
             "text": "Lai Ching‑te\n賴淸德"
