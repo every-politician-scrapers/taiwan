@@ -112,21 +112,23 @@
           "template": "linktext"
         },
         {
-          "template": "infobox",
-          "type": "chinese",
-          "data": {
-            "child": {},
-            "p": {},
-            "poj": {}
-          }
-        },
-        {
           "c": "吳密察",
           "poj": "Ngô͘ Bi̍t-chhat",
           "template": "zh"
         }
       ],
       "infoboxes": [
+        {
+          "child": {
+            "text": "yes"
+          },
+          "p": {
+            "text": "Wú Mìchá"
+          },
+          "poj": {
+            "text": "Ngô͘ Bi̍t-chhat"
+          }
+        },
         {
           "name": {
             "text": "Wu Mi-cha"

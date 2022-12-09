@@ -157,23 +157,6 @@
           "template": "sup"
         },
         {
-          "template": "infobox",
-          "type": "chinese",
-          "data": {
-            "child": {},
-            "showflag": {},
-            "first": {},
-            "s": {},
-            "t": {},
-            "p": {},
-            "myr": {},
-            "tp": {},
-            "w": {},
-            "poj": {},
-            "j": {}
-          }
-        },
-        {
           "t": "吳釗燮",
           "p": "Wú Zhāoxiè",
           "poj": "Ngô͘ Chiau-siat",
@@ -181,6 +164,41 @@
         }
       ],
       "infoboxes": [
+        {
+          "child": {
+            "text": "yes"
+          },
+          "showflag": {
+            "text": "stp"
+          },
+          "first": {
+            "text": "t"
+          },
+          "s": {
+            "text": "呉钊燮"
+          },
+          "t": {
+            "text": "吳釗燮"
+          },
+          "p": {
+            "text": "Wú Zhāoxiè"
+          },
+          "myr": {
+            "text": "Wú Jāusyè"
+          },
+          "tp": {
+            "text": "Wú Jhaosiè"
+          },
+          "w": {
+            "text": "Wú Chāo-hsièh"
+          },
+          "poj": {
+            "text": "Ngô͘ Chiau-siat"
+          },
+          "j": {
+            "text": "Ng4 Ciu1-sit8"
+          }
+        },
         {
           "name": {
             "text": "Joseph Wu Jaushieh"
