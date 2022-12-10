@@ -40,7 +40,7 @@
         {
           "sentences": [
             {
-              "text": "Tsai Ing-wen ( born 31 August 1956) is a Taiwanese politician serving as President of the Republic of China (Taiwan) since 2016.",
+              "text": "Tsai Ing-wen ( born 31 August 1956) is a Taiwanese politician serving as president of the Republic of China (Taiwan) since 2016.",
               "links": [
                 {
                   "text": "Taiwanese",
@@ -53,8 +53,9 @@
                   "page": "politician"
                 },
                 {
+                  "text": "president of the Republic of China",
                   "type": "internal",
-                  "page": "President of the Republic of China"
+                  "page": "president of the Republic of China"
                 }
               ],
               "formatting": {
@@ -122,16 +123,18 @@
                   "page": "National Chengchi University"
                 },
                 {
+                  "text": "LLB",
                   "type": "internal",
-                  "page": "LLB"
+                  "page": "Bachelor of Laws"
                 },
                 {
                   "type": "internal",
                   "page": "National Taiwan University"
                 },
                 {
+                  "text": "LLM",
                   "type": "internal",
-                  "page": "LLM"
+                  "page": "Master of Laws"
                 },
                 {
                   "type": "internal",
