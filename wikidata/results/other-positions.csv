@@ -1,16 +1,15 @@
 position,positionLabel,ofLabel,jurisdictionLabel,people,example
 Q49256298,Member of Taipei City Council,,Taipei,15,Q60992793
-Q10876443,"Secretary-General to the President, Republic of China",,,15,Q8280346
-Q22947352,Secretary-General of the Democratic Progressive Party,,,13,Q8349604
+Q22947352,Secretary-General of the Democratic Progressive Party,,,14,Q8349604
 Q16056439,Chairperson of the Kuomintang,,,10,Q8279603
 Q6310828,Chairperson of the Democratic Progressive Party,,Taiwan,9,Q6393270
+Q7450649,senior advisor,,,9,Q27901812
 Q49256480,Member of Tainan City Council,,Tainan,7,Q30946589
-Q7450649,senior advisor,,,7,Q27901812
+Q10781865,Vice Chairperson of the Kuomintang,,,7,Q8279308
 Q11812506,Mayor of Kaohsiung,,Takao City,6,Q8274095
 Q11812506,Mayor of Kaohsiung,,Kaohsiung City,6,Q8274095
 Q11812506,Mayor of Kaohsiung,,Kaohsiung,6,Q8274095
 Q48976144,Member of New Taipei City Council,,New Taipei,6,Q19849414
-Q10781865,Vice Chairperson of the Kuomintang,,,6,Q8279308
 Q67931441,Chairperson of the New Power Party,,Taiwan,5,Q21055079
 Q50306553,Magistrate of Yilan County,,Yilan County,5,Q29952844
 Q49255298,Member of Taipei County Council,,Taipei County,5,Q8357162
@@ -31,6 +30,7 @@ Q50306171,Magistrate of Nantou County,,Nantou County,2,Q8274333
 Q10781685,Magistrate of Taoyuan County,,Taoyuan County,2,Q8277261
 Q6627476,Mayor of Chiayi,,Chiayi City,2,Q8350363
 Q657567,Mayor of Hsinchu,,Hsinchu,2,Q85885392
+Q6797738,Mayor of Keelung,,Keelung,2,Q8349734
 Q49255439,Member of Hsinchu City Council,,Hsinchu,2,Q8974428
 Q49255593,Member of Hsinchu County Council,,Hsinchu County,2,Q67934535
 Q49257749,Member of Kaohsiung City Council,,Kaohsiung,2,Q28413567
@@ -45,7 +45,6 @@ Q50293600,Magistrate of Hsinchu County,,Hsinchu County,1,Q8351421
 Q50293691,Magistrate of Hualien County,,Hualien County,1,Q8956378
 Q50293953,Magistrate of Lienchiang County,,Lienchiang County,1,Q8273082
 Q50306440,Magistrate of Taitung County,,Taitung County,1,Q8274104
-Q6797738,Mayor of Keelung,,Keelung,1,Q8349734
 Q6797771,Mayor of New Taipei,,New Taipei,1,Q5386280
 Q50306671,Mayor of Taoyuan,,Taoyuan,1,Q10294207
 Q49254733,Member of Keelung City Council,,Keelung,1,Q8347638
@@ -67,5 +66,6 @@ Q189290,military officer,,,1,Q716768
 Q22132694,museum director,,,1,Q8938281
 Q1553195,party leader,New Party,,1,Q8277493
 Q10855085,secretary-general,Chinese Federation of Labour,,1,Q60992793
+Q10855085,secretary-general,Examination Yuan,,1,Q26465348
 Q10855085,secretary-general,National Security Council,,1,Q707648
 Q4376769,university president,National Chengchi University,,1,Q5091221
