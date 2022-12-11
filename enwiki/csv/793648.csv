@@ -1,0 +1,18 @@
+who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,replacedByLabel,posidx
+793648,,,,,,,,,0
+793648,Q10876443,Secretary General to the President,2020-08-03,,Q700774,Su Jia-chyuan Liu Chien-sin (acting),,,1
+793648,Q10876443,Secretary General to the President,2020-08-03,,Q26465348,Su Jia-chyuan Liu Chien-sin (acting),,,2
+793648,Straits Exchange Foundation,Chairman of the Straits Exchange Foundation,2020-05-20,2020-08-03,Q9092954,Katharine Chang,Rock Hsu,Rock Hsu (acting),3
+793648,National Security Council (Republic of China),Secretary-General of National Security Council of the Republic of China,2018-02-26,2020-05-19,Q15914789,Yen Teh-fa,Q15909081,Wellington Koo,4
+793648,Republic of China,Secretary-General of National Security Council of the Republic of China,2018-02-26,2020-05-19,Q15914789,Yen Teh-fa,Q15909081,Wellington Koo,5
+793648,Q2482650,Minister of Foreign Affairs,2016-05-20,2018-02-26,Q5236615,David Lin,Q6288088,Joseph Wu,6
+793648,Taipei Economic and Cultural Office in Australia,ROC Representative to Australia,2015-01-01,2016,Q9092954,Katharine Chang,William Lin,William Lin (acting),7
+793648,Australia,ROC Representative to Australia,2015-01-01,2016,Q9092954,Katharine Chang,William Lin,William Lin (acting),8
+793648,TECRO,"Director of the Coordination Council for North American Affairs, TECRO",2012-05-20,2015-01-01,,Shao Yu-ming,,Katherine Chang,9
+793648,Taipei Economic and Cultural Office in Canada,ROC Representative to Canada,2007,2012,,,Liu Chih-kung,Liu Chih-kung,10
+793648,Canada,ROC Representative to Canada,2007,2012,,,Liu Chih-kung,Liu Chih-kung,11
+793648,Taipei Economic and Cultural Representative Office,ROC Representative to United States,2004-07-25,2007-04-10,Q8273004,Chen Chien-jen,Q6288088,Joseph Wu,12
+793648,United States,ROC Representative to United States,2004-07-25,2007-04-10,Q8273004,Chen Chien-jen,Q6288088,Joseph Wu,13
+793648,Taipei Representative Office in the EU and Belgium,ROC Representative to the European Union and Belgium,2001,2004,,,Q8273004,Chen Chien-jen,14
+793648,European Union,ROC Representative to the European Union and Belgium,2001,2004,,,Q8273004,Chen Chien-jen,15
+793648,Belgium,ROC Representative to the European Union and Belgium,2001,2004,,,Q8273004,Chen Chien-jen,16
