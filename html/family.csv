@@ -49,6 +49,8 @@ Q315528,Lee Teng-hui,father,Q14606858,Lee Ching-long (died 1995)
 Q315528,Lee Teng-hui,sibling,Q14606946,Lee Teng-ching
 Q315528,Lee Teng-hui,spouse,Q8264155,Tseng Wen-hui
 Q3846662,Kuan Bi-ling,spouse,Q10526293,Hsu Yang-ming
+Q4515439,Chang Po-ya,mother,Q5924403,Hsu Shih-hsien
+Q4515439,Chang Po-ya,sibling,Q9188552,Chang Wen-ying
 Q472310,Frank Hsieh,relative,Q18659294,張維洲
 Q5090717,Chen Chi-mai,father,Q8272200,Chen Che-nan
 Q5090859,Chen Ming-wen,child,Q60994502,Chen Kuan-ting
@@ -194,3 +196,4 @@ Q9206928,Lee Yung-te,spouse,Q8347775,Chiu Yi-ying
 Q9292454,Freddy Lim,spouse,Q15903733,Doris Yeh
 Q9370626,Tchen Yu-chiou,father,Q15896115,Chen Houei-kuen
 Q9458408,Huang Wen-ling,father,Q9459543,George Huang
+Q9459543,George Huang,child,Q9458408,Huang Wen-ling
