@@ -11,10 +11,10 @@ Q11812506,Mayor of Kaohsiung,,Kaohsiung City,6,Q8274095
 Q11812506,Mayor of Kaohsiung,,Kaohsiung,6,Q8274095
 Q48976144,Member of New Taipei City Council,,New Taipei,6,Q19849414
 Q67931441,Chairperson of the New Power Party,,Taiwan,5,Q21055079
+Q50290512,Magistrate of Changhua County,,Changhua County,5,Q9459543
+Q50306369,Magistrate of Pingtung County,,Pingtung County,5,Q22774121
 Q50306553,Magistrate of Yilan County,,Yilan County,5,Q29952844
 Q49255298,Member of Taipei County Council,,Taipei County,5,Q8357162
-Q50290512,Magistrate of Changhua County,,Changhua County,4,Q8350592
-Q50306369,Magistrate of Pingtung County,,Pingtung County,4,Q8350110
 Q15920422,Magistrate of Yunlin County,,Yunlin County,4,Q8350160
 Q49255147,Member of Changhua County Council,,Changhua County,4,Q50067722
 Q49255748,Member of Taoyuan City Council,,Taoyuan,4,Q67934538
@@ -23,11 +23,12 @@ Q50294007,Magistrate of Kinmen County,,Kinmen County,3,Q22774355
 Q50293073,Magistrate of Tainan County,,Tainan County,3,Q8273349
 Q16239926,Magistrate of Taipei County,,Taipei County,3,Q8349604
 Q10781685,Magistrate of Taoyuan County,,Taoyuan County,3,Q8277261
+Q6627476,Mayor of Chiayi,,Chiayi City,3,Q8350363
 Q6797822,Mayor of Taichung,,Taichung,3,Q8274707
 Q6797825,Mayor of Tainan,,Tainan,3,Q38876935
 Q581817,deputy mayor,Kaohsiung,,3,Q19849473
+Q50293691,Magistrate of Hualien County,,Hualien County,2,Q28418899
 Q50306171,Magistrate of Nantou County,,Nantou County,2,Q8274333
-Q6627476,Mayor of Chiayi,,Chiayi City,2,Q8350363
 Q657567,Mayor of Hsinchu,,Hsinchu,2,Q85885392
 Q6797738,Mayor of Keelung,,Keelung,2,Q8349734
 Q49255439,Member of Hsinchu City Council,,Hsinchu,2,Q8974428
@@ -37,11 +38,11 @@ Q49257377,Member of Kinmen County Council,,Kinmen County,2,Q48896684
 Q49255006,Member of Pingtung County Council,,Pingtung County,2,Q8350223
 Q10493791,Member of Taichung City Council,,Taichung,2,Q19058548
 Q49996446,Member of Taoyuan County Council,,Taoyuan,2,Q67934538
+Q15909024,President of the Control Yuan,,,2,Q4515439
 Q723682,dean,,,2,Q9370626
 Q115669874,Chairman of the Taiwan People's Party,,,1,Q18113714
 Q86224019,Chairperson of Fujian Provincial Government,,Fujian Province,1,Q8951355
 Q50293600,Magistrate of Hsinchu County,,Hsinchu County,1,Q8351421
-Q50293691,Magistrate of Hualien County,,Hualien County,1,Q8956378
 Q50293953,Magistrate of Lienchiang County,,Lienchiang County,1,Q8273082
 Q50306440,Magistrate of Taitung County,,Taitung County,1,Q8274104
 Q6797771,Mayor of New Taipei,,New Taipei,1,Q5386280
@@ -53,14 +54,13 @@ Q106577066,Member of Tainan County Council,,Tainan County,1,Q8349186
 Q49254881,Member of Yilan County Council,,Yilan County,1,Q23883800
 Q49257574,Member of Yunlin County Council,,Yunlin County,1,Q8349646
 Q697113,Ministry of Economic Affairs,,Taiwan,1,Q5095206
-Q15909024,President of the Control Yuan,,,1,Q465280
+Q17000695,Spokesperson of the Office of the President of the Republic of China,,Taiwan,1,Q22099954
 Q140686,chairperson,Public Television Service,,1,Q9370626
 Q93755388,commander of the Central Epidemic Command Center,,Taiwan,1,Q28655382
 Q65680093,county magistrates of Kaohsiung,,Kaohsiung County,1,Q16905500
 Q581817,deputy mayor,Zhonghe District,,1,Q8274095
 Q1162163,director,Council for Cultural Affairs,,1,Q9370626
 Q1210069,general manager,Taipei Agricultural Products Marketing Corporation,,1,Q8274095
-Q17763739,justice minister,,,1,Q7967389
 Q189290,military officer,,,1,Q716768
 Q22132694,museum director,,,1,Q8938281
 Q1553195,party leader,New Party,,1,Q8277493
