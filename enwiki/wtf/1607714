@@ -802,6 +802,19 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2021, he became the first person listed on the “diehard supporters of Taiwan independence” blacklist proposed by the Chinese government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Taiwan independence"
+                }
+              ]
+            }
+          ]
         }
       ],
       "references": [
@@ -811,6 +824,16 @@
           "work": "Taipei Times",
           "date": "May 19, 2014",
           "access-date": "May 26, 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "国台办新闻发布会辑录（2021-05-12）",
+          "url": "http://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202105/t20210512_12351715.htm",
+          "access-date": "2021-09-02",
+          "date": "2021-05-12",
+          "publisher": "中共中央台办（国务院台办）",
+          "language": "zh-hans",
           "template": "citation",
           "type": "web"
         }
