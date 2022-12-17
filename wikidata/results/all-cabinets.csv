@@ -1,4 +1,5 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,abolished,abolishedPrecision,replaces,replacesLabel,replacedBy,replacedByLabel
+,Q715055,Executive Yuan,1928-10-25,11,,,,,,
 ,Q15931257,Yan Xishan's Cabinet,1949-06-12,11,1950-03-12,11,Q10886217,He Yingqin's Cabinet,Q16078702,Chen Cheng's First Cabinet
 ,Q16078702,Chen Cheng's First Cabinet,1950-03-10,11,1954-06-01,11,Q15931257,Yan Xishan's Cabinet,Q10887910,Yu Hung-chun's Cabinet
 ,Q10887910,Yu Hung-chun's Cabinet,1954-06-07,11,1958-07-15,11,Q16078702,Chen Cheng's First Cabinet,Q16078403,Chen Cheng's Second Cabinet
