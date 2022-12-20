@@ -1,0 +1,262 @@
+{
+  "title": "Hsu Li-ming",
+  "pageID": 57159541,
+  "categories": [
+    "Living people",
+    "Mayors of Kaohsiung",
+    "1969 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hsu Li-ming (born 17 January 1969) is a Taiwanese politician.",
+              "formatting": {
+                "bold": [
+                  "Hsu Li-ming"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Taiwanese politician",
+          "template": "short description"
+        },
+        {
+          "year": "1969",
+          "month": "1",
+          "day": "17",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "t": "許立明",
+          "p": "Xǔ Lìmíng",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Hsu Li-ming"
+          },
+          "native_name": {
+            "text": "許立明"
+          },
+          "native_name_lang": {
+            "text": "zh"
+          },
+          "image": {
+            "text": "許立明肖像.jpg"
+          },
+          "image_size": {
+            "text": "250px"
+          },
+          "office1": {
+            "text": "Mayor of Kaohsiung (acting)",
+            "links": [
+              {
+                "text": "Mayor",
+                "type": "internal",
+                "page": "Mayor of Kaohsiung"
+              },
+              {
+                "type": "internal",
+                "page": "Kaohsiung"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "23 April 2018"
+          },
+          "term_end1": {
+            "text": "25 December 2018"
+          },
+          "predecessor1": {
+            "text": "Chen Chu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chen Chu"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Han Kuo-yu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Han Kuo-yu"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 17, 1969"
+          },
+          "birth_place": {
+            "text": "Mailiao, Yunlin, Taiwan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mailiao"
+              },
+              {
+                "type": "internal",
+                "page": "Yunlin"
+              },
+              {
+                "type": "internal",
+                "page": "Taiwan"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Taiwanese"
+          },
+          "party": {
+            "text": "Democratic Progressive Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Democratic Progressive Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "author1": "葛祐豪",
+          "title": "輔佐花媽12年 許立明內定代理高雄市長",
+          "url": "https://news.ltn.com.tw/news/local/paper/1190871",
+          "access-date": "17 July 2022",
+          "work": "Liberty Times Net",
+          "date": "9 April 2018",
+          "location": "Taiwan",
+          "language": "zh",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hsu chaired the Greater Kaohsiung Research, Development and Evaluation Commission before he became a deputy mayor of Kaohsiung in 2015."
+            },
+            {
+              "text": "He was named acting mayor of Kaohsiung in April 2018, as predecessor Chen Chu was appointed presidential secretary general.",
+              "links": [
+                {
+                  "text": "mayor of Kaohsiung",
+                  "type": "internal",
+                  "page": "mayor of Kaohsiung"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chen Chu"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Loa",
+          "first1": "Iok-sin",
+          "title": "MAC admits it picked controversial venue",
+          "url": "http://www.taipeitimes.com/News/front/archives/2014/07/01/2003594069",
+          "accessdate": "18 April 2018",
+          "work": "Taipei Times",
+          "date": "1 July 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Ko",
+          "first1": "You-hao",
+          "last2": "Chung",
+          "first2": "Jake",
+          "title": "Kaohsiung officials rebut Mao criticism",
+          "url": "http://www.taipeitimes.com/News/taiwan/archives/2015/04/13/2003615819",
+          "accessdate": "18 April 2018",
+          "work": "Taipei Times",
+          "date": "13 April 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Wang",
+          "first1": "Shwu-fen",
+          "last2": "Huang",
+          "first2": "Romulo",
+          "title": "Kaohsiung Deputy Mayor Hsu Li-ming named acting mayor",
+          "url": "http://focustaiwan.tw/news/aipl/201804170031.aspx",
+          "accessdate": "18 April 2018",
+          "agency": "Central News Agency",
+          "date": "17 April 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "王淑芬",
+          "title": "首頁 / 重點新聞 陳菊23日走馬上任 許立明代理市長",
+          "url": "https://www.cna.com.tw/news/firstnews/201804100072.aspx",
+          "access-date": "17 July 2022",
+          "agency": "Central News Agency",
+          "date": "10 April 2018",
+          "location": "Taiwan",
+          "language": "zh",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Chen Chu",
+          "template": "s-bef"
+        },
+        {
+          "title": "Mayor of Kaohsiung (acting)",
+          "years": "2018",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Han Kuo-yu",
+          "template": "s-aft"
+        },
+        {
+          "template": "kaohsiung mayors"
+        },
+        {
+          "template": "taiwan-mayor-stub"
+        }
+      ]
+    }
+  ]
+}
