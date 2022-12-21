@@ -2232,7 +2232,49 @@
       "depth": 0,
       "paragraphs": [
         {
-          "sentences": []
+          "sentences": [
+            {
+              "text": "Lai served as president Tsai Ing-wen's special envoy to Honduras for president Xiomara Castro's inauguration in January 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Xiomara Castro"
+                }
+              ]
+            },
+            {
+              "text": "After the assassination of former Japanese prime minister Shinzo Abe, he made a private trip to Tokyo to pay his respects and became Taiwan's most senior official to visit Japan in five decades.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Shinzo Abe"
+                }
+              ]
+            },
+            {
+              "text": "In November 2022, Lai led representatives of Taiwan's travel agencies and industry associations to Palau to foster collaborations between the two countries."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In November 2022, president Tsai Ing-wen resigned as leader of DPP after the party's heavy losses in local elections.",
+              "links": [
+                {
+                  "text": "local elections",
+                  "type": "internal",
+                  "page": "2022 Taiwanese local elections"
+                }
+              ]
+            },
+            {
+              "text": "Lai officially registered as a candidate for the DPP chair election in December."
+            },
+            {
+              "text": "Since Lai was the only candidate running, he is expected to become the new party head in 2023."
+            }
+          ]
         }
       ],
       "images": [
@@ -2244,10 +2286,60 @@
           "links": []
         }
       ],
-      "templates": [
+      "references": [
         {
-          "date": "December 2021",
-          "template": "empty section"
+          "url": "https://www.taiwannews.com.tw/en/news/4425387",
+          "title": "Vice President Lai invites new president of Honduras to visit Taiwan",
+          "work": "Taiwan News",
+          "date": "28 January 2022",
+          "access-date": "21 December 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.reuters.com/world/china/taiwan-vice-president-makes-rare-japan-visit-pay-respects-abe-official-media-2022-07-11/",
+          "title": "Taiwan vice president makes rare Japan visit to pay respects to Abe",
+          "work": "Reuters",
+          "date": "11 July 2022",
+          "access-date": "21 December 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://focustaiwan.tw/politics/202211030028",
+          "title": "VP Lai Ching-te returns to Taiwan after three-day Palau trip",
+          "work": "Central News Agency",
+          "date": "3 November 2022",
+          "access-date": "21 December 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://asia.nikkei.com/Politics/Taiwan-elections/Taiwan-s-Tsai-quits-as-party-leader-after-heavy-local-election-losses",
+          "title": "Taiwan's Tsai quits as party leader after heavy local election losses",
+          "work": "Nikkei",
+          "date": "26 November 2022",
+          "access-date": "21 December 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.taiwannews.com.tw/en/news/4749945",
+          "title": "Taiwan Vice President Lai Ching-te registers candidacy for DPP chair",
+          "work": "Taiwan News",
+          "date": "14 December 2022",
+          "access-date": "21 December 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www3.nhk.or.jp/nhkworld/en/news/20221216_40/",
+          "title": "Taiwan's Vice President Lai expected to head the ruling party",
+          "work": "NHK",
+          "date": "16 December 2022",
+          "access-date": "21 December 2022",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
