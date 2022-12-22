@@ -144,32 +144,21 @@
           "template": "sup"
         },
         {
+          "child": "yes",
+          "t": "賴淸德",
+          "p": "Lài Qīngdé",
+          "w": "Lai4 Chʻing1-tê2",
+          "poj": "Loā Chheng-tek",
+          "j": "Lai6 Cing1-dak7",
+          "template": "chinese"
+        },
+        {
           "t": "賴淸德",
           "poj": "Loā Chheng-tek",
           "template": "zh"
         }
       ],
       "infoboxes": [
-        {
-          "title": {
-            "text": "Lai Ching-te"
-          },
-          "t": {
-            "text": "賴淸德"
-          },
-          "p": {
-            "text": "Lài Qīngdé"
-          },
-          "w": {
-            "text": "Lai4 Chʻing1-tê2"
-          },
-          "poj": {
-            "text": "Loā Chheng-tek"
-          },
-          "j": {
-            "text": "Lai6 Cing1-dak7"
-          }
-        },
         {
           "name": {
             "text": "Lai Ching‑te\n賴淸德"
@@ -385,8 +374,8 @@
         {
           "url": "http://m.focustaiwan.tw/news/aipl/201709060004.aspx",
           "title": "Lai bids farewell to Tainan, names Lee Meng-yen as acting mayor - Politics - FocusTaiwan Mobile - CNA English News",
-          "access-date": "2017-10-14",
-          "archive-date": "2017-10-14",
+          "access-date": "14 October 2017",
+          "archive-date": "14 October 2017",
           "archive-url": "https://web.archive.org/web/20171014234543/http://m.focustaiwan.tw/news/aipl/201709060004.aspx",
           "url-status": "live",
           "template": "citation",
@@ -463,7 +452,7 @@
         {
           "sentences": [
             {
-              "text": "Born in Wanli, a rural coastal town in northern Taipei County (now New Taipei City) on October 6, 1959, Lai underwent schooling in Taipei City and studied at both National Cheng Kung University in Tainan and National Taiwan University in Taipei, where he specialized in rehabilitation.",
+              "text": "Born in Wanli, a rural coastal town in northern Taipei County (now New Taipei City) on 6 October 1959, Lai underwent schooling in Taipei City and studied at both National Cheng Kung University in Tainan and National Taiwan University in Taipei, where he specialized in rehabilitation.",
               "links": [
                 {
                   "text": "Wanli",
@@ -526,8 +515,8 @@
           "language": "zh",
           "script-title": "zh:賴淸德",
           "trans-title": "William Lai",
-          "access-date": "2010-11-30",
-          "archive-date": "2011-05-14",
+          "access-date": "30 November 2010",
+          "archive-date": "14 May 2011",
           "archive-url": "https://web.archive.org/web/20110514221329/http://www.ly.gov.tw/03_leg/0301_main/legIntro.action?lgno=00105&stage=7",
           "url-status": "live",
           "template": "citation",
@@ -649,8 +638,8 @@
           "url": "http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?ID=201011270034&Type=aIPL",
           "title": "Lai keeps DPP's solid grip on Tainan",
           "publisher": "Central News Agency",
-          "access-date": "2010-11-30",
-          "archive-date": "2012-03-17",
+          "access-date": "30 November 2010",
+          "archive-date": "17 March 2012",
           "archive-url": "https://web.archive.org/web/20120317170718/http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?ID=201011270034&Type=aIPL",
           "url-status": "live",
           "template": "citation",
@@ -723,175 +712,12 @@
           ]
         }
       ],
-      "tables": [
-        [
-          {
-            "col1": {
-              "text": "Party"
-            },
-            "col2": {
-              "text": ""
-            },
-            "col3": {
-              "text": "#"
-            },
-            "col4": {
-              "text": "Candidate"
-            },
-            "col5": {
-              "text": "Votes"
-            },
-            "col6": {
-              "text": "Percentage"
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "Emblem of the Kuomintang.svg Kuomintang",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Kuomintang"
-                }
-              ]
-            },
-            "col3": {
-              "text": "1",
-              "number": 1
-            },
-            "col4": {
-              "text": "Kuo Tien-tsai (郭添財)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Kuo Tien-tsai"
-                }
-              ]
-            },
-            "col5": {
-              "text": "406,196",
-              "number": 406196
-            },
-            "col6": {
-              "text": "39.59%"
-            },
-            "col7": {
-              "text": ""
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "Democratic Progressive Party",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Democratic Progressive Party"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Democratic Progressive Party"
-                ]
-              }
-            },
-            "col3": {
-              "text": "2",
-              "number": 2,
-              "formatting": {
-                "bold": [
-                  "2"
-                ]
-              }
-            },
-            "col4": {
-              "text": "Lai Ching-te",
-              "formatting": {
-                "bold": [
-                  "Lai Ching-te"
-                ]
-              }
-            },
-            "col5": {
-              "text": "619,897",
-              "number": 619897,
-              "formatting": {
-                "bold": [
-                  "619,897"
-                ]
-              }
-            },
-            "col6": {
-              "text": "60.41%",
-              "formatting": {
-                "bold": [
-                  "60.41%"
-                ]
-              }
-            },
-            "col7": {
-              "text": "Vote1.svg"
-            }
-          },
-          {
-            "col1": {
-              "text": "Total",
-              "formatting": {
-                "bold": [
-                  "Total"
-                ]
-              }
-            },
-            "col2": {
-              "text": ""
-            },
-            "col3": {
-              "text": ""
-            },
-            "col4": {
-              "text": ""
-            },
-            "col5": {
-              "text": "1,026,093",
-              "number": 1026093,
-              "formatting": {
-                "bold": [
-                  "1,026,093"
-                ]
-              }
-            },
-            "col6": {
-              "text": "100.00%",
-              "formatting": {
-                "bold": [
-                  "100.00%"
-                ]
-              }
-            }
-          }
-        ]
-      ],
       "templates": [
         {
           "list": [
-            "39.59",
-            ""
+            "2010 Taiwanese local elections"
           ],
-          "c": "#000099",
-          "template": "percentage bar"
-        },
-        {
-          "list": [
-            "60.41",
-            ""
-          ],
-          "c": "#1B9431",
-          "template": "percentage bar"
+          "template": "further"
         }
       ],
       "references": [
@@ -899,11 +725,11 @@
           "url": "http://www.dpp.org.tw/news_content.php?kw=&menu_sn=7&sub_menu=44&sn=3587",
           "script-title": "zh:2009民進黨提名縣市長候選人連結",
           "publisher": "Democratic Progressive Party",
-          "date": "2010-09-17",
-          "access-date": "2010-11-30",
+          "date": "17 September 2010",
+          "access-date": "30 November 2010",
           "language": "zh",
           "archive-url": "https://web.archive.org/web/20110717190622/http://www.dpp.org.tw/news_content.php?kw=&menu_sn=7&sub_menu=44&sn=3587",
-          "archive-date": "2011-07-17",
+          "archive-date": "17 July 2011",
           "url-status": "dead",
           "template": "citation",
           "type": "news"
@@ -932,9 +758,9 @@
           "url": "http://www.asianewsnet.net/home/news.php?id=26436&sec=3",
           "archive-url": "https://web.archive.org/web/20120116025026/http://www.asianewsnet.net/home/news.php?id=26436&sec=3",
           "url-status": "dead",
-          "archive-date": "2012-01-16",
+          "archive-date": "16 January 2012",
           "title": "A look ahead at Taiwan's 2016 presidential hopefuls",
-          "date": "2012-01-16",
+          "date": "16 January 2012",
           "publisher": "The China Post",
           "template": "citation",
           "type": "citation"
@@ -942,8 +768,8 @@
         {
           "url": "http://www.taiwannews.com.tw/etn/news_content.php?id=2260571",
           "title": "Tainan City's Lai tops satisfaction poll",
-          "date": "2013-07-19",
-          "access-date": "2013-07-09",
+          "date": "19 July 2013",
+          "access-date": "9 July 2013",
           "publisher": "Taiwan News}}{{Dead link|date=February 2020 |bot=InternetArchiveBot |fix-attempted=yes |undefined",
           "template": "citation",
           "type": "citation"
@@ -980,8 +806,8 @@
           "title": "William Lai set to attend art exhibition in Shanghai",
           "publisher": "Taipei Times",
           "date": "6 June 2014",
-          "access-date": "2021-11-30",
-          "archive-date": "2014-07-08",
+          "access-date": "30 November 2021",
+          "archive-date": "8 July 2014",
           "archive-url": "https://web.archive.org/web/20140708172201/http://www.taipeitimes.com/News/taiwan/archives/2014/06/06/2003592119",
           "url-status": "live",
           "template": "citation",
@@ -990,8 +816,8 @@
         {
           "url": "https://en.rti.org.tw/news/view/id/5457",
           "title": "Tainan Mayor William Lai visits China for cultural exchange",
-          "access-date": "2020-05-19",
-          "archive-date": "2021-11-30",
+          "access-date": "19 May 2020",
+          "archive-date": "30 November 2021",
           "archive-url": "https://web.archive.org/web/20211130124612/https://en.rti.org.tw/news/view/id/5457",
           "url-status": "live",
           "template": "citation",
@@ -1039,7 +865,7 @@
         {
           "sentences": [
             {
-              "text": "Lai stepped down as Mayor on September 7, after being appointed to the Premiership."
+              "text": "Lai stepped down as Mayor in September 2017, after being appointed to the Premiership."
             },
             {
               "text": "He was succeeded in acting capacity by Lee Meng-yen.",
@@ -1053,71 +879,12 @@
           ]
         }
       ],
-      "tables": [
-        [
-          {
-            "No.": {
-              "text": "1",
-              "number": 1
-            },
-            "Candidate": {
-              "text": "Lai Ching-te",
-              "formatting": {
-                "bold": [
-                  "Lai Ching-te"
-                ]
-              }
-            },
-            "Party": {
-              "text": ""
-            },
-            "Votes": {
-              "text": "711,557",
-              "number": 711557
-            },
-            "Percentage": {
-              "text": "72.90%"
-            },
-            "col6": {
-              "text": "Vote1.svg"
-            }
-          },
-          {
-            "No.": {
-              "text": "2",
-              "number": 2
-            },
-            "Candidate": {
-              "text": "Huang Hsiu-shuang (黃秀霜)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Huang Hsiu-shuang"
-                }
-              ]
-            },
-            "Party": {
-              "text": ""
-            },
-            "Votes": {
-              "text": "264,536",
-              "number": 264536
-            },
-            "Percentage": {
-              "text": "27.10%"
-            },
-            "col6": {
-              "text": ""
-            }
-          }
-        ]
-      ],
       "templates": [
         {
-          "template": "dpp/short"
-        },
-        {
-          "template": "kmt/short"
+          "list": [
+            "2014 Taiwanese local elections"
+          ],
+          "template": "further"
         }
       ],
       "references": [
@@ -1126,8 +893,8 @@
           "publisher": "The Taipei Times",
           "title": "Saturday's elections seen as a litmus test for 2016",
           "date": "26 November 2014",
-          "access-date": "2014-12-02",
-          "archive-date": "2014-12-24",
+          "access-date": "2 December 2014",
+          "archive-date": "24 December 2014",
           "archive-url": "https://web.archive.org/web/20141224131943/http://www.taipeitimes.com/News/taiwan/archives/2014/11/26/2003605337",
           "url-status": "live",
           "template": "citation",
@@ -1166,17 +933,6 @@
           "type": "news"
         },
         {
-          "url": "http://thinking-taiwan.com/taiwan-insider-vol-1-no-10/",
-          "publisher": "Thinking Taiwan",
-          "title": "TAIWAN INSIDER Vol. 1 No. 10",
-          "access-date": "2014-12-02",
-          "archive-url": "https://web.archive.org/web/20160503114315/http://thinking-taiwan.com/taiwan-insider-vol-1-no-10/",
-          "archive-date": "2016-05-03",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "citation"
-        },
-        {
           "title": "103年直轄市長選舉 候選人得票數",
           "url": "https://db.cec.gov.tw/histQuery.jsp?voteCode=20141101B1B1&qryType=ctks",
           "website": "中央選舉委員會",
@@ -1184,6 +940,17 @@
           "location": "Taiwan",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "url": "http://thinking-taiwan.com/taiwan-insider-vol-1-no-10/",
+          "publisher": "Thinking Taiwan",
+          "title": "TAIWAN INSIDER Vol. 1 No. 10",
+          "access-date": "2 December 2014",
+          "archive-url": "https://web.archive.org/web/20160503114315/http://thinking-taiwan.com/taiwan-insider-vol-1-no-10/",
+          "archive-date": "3 May 2016",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "citation"
         },
         {
           "title": "蔡總統宣布 賴清德接任行政院長",
@@ -1218,7 +985,7 @@
         {
           "sentences": [
             {
-              "text": "On September 3, 2017, Premier Lin Chuan tendered his resignation to President Tsai Ing-wen, which was reluctantly accepted.",
+              "text": "In September 2017, Premier Lin Chuan tendered his resignation to President Tsai Ing-wen, which was reluctantly accepted.",
               "links": [
                 {
                   "type": "internal",
@@ -1234,14 +1001,14 @@
               "text": "A recent poll showed Lin's approve rating to be a mere 28.7%, with 6 in 10 respondents dissatisfied with the performance of his cabinet."
             },
             {
-              "text": "On September 5, President Tsai announced at a press conference that Lai would become the country's next head of the Executive Yuan, with the Premier-designate saying that running the government is like running in a relay race, and he vowed to take the baton from Lin and complete his unfinished major policies."
+              "text": "On 5 September, President Tsai announced at a press conference that Lai would become the country's next head of the Executive Yuan."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Lai took office on September 8 as the 49th Premier of the Republic of China.",
+              "text": "Lai took office on 8 September as the 49th Premier of the Republic of China.",
               "links": [
                 {
                   "type": "internal",
@@ -1250,10 +1017,10 @@
               ]
             },
             {
-              "text": "On September 17, following Lai's appointment as premier, Tsai's approval ratings reached 46%, rebounding by more than 16 points since August."
+              "text": "Following Lai's appointment as premier, Tsai's approval ratings reached 46%, rebounding by more than 16 points since August."
             },
             {
-              "text": "Lai made his first appearance as premier at the Legislative Yuan on September 26, where he stated \"I am a political worker who advocates Taiwan independence\" but that \"We are already an independent sovereign nation called the Republic of China. We don't need a separate declaration of independence\"."
+              "text": "Lai made his first appearance as premier at the Legislative Yuan on 26 September, where he stated \"I am a political worker who advocates Taiwan independence\" but that \"We are already an independent sovereign nation called the Republic of China. We don't need a separate declaration of independence\"."
             },
             {
               "text": "Lai has appeared to have moderated his position on Taiwanese independence particularly when he proposed the idea of \"being close to China while loving Taiwan\" in June 2017.",
@@ -1268,7 +1035,7 @@
               "text": "He also expressed no desire to run against Tsai Ing-wen in the 2020 presidential election."
             },
             {
-              "text": "On September 28, the New Party called on the KMT to join it in filing a formal complaint against the Premier for sedition.",
+              "text": "On 28 September, the New Party called on the KMT to join it in filing a formal complaint against the Premier for sedition.",
               "links": [
                 {
                   "text": "New Party",
@@ -1287,88 +1054,13 @@
         {
           "sentences": [
             {
-              "text": "On October 2, Lai visited former President Chen Shui-bian and former Premier Chang Chun-hsiung.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chen Shui-bian"
-                },
-                {
-                  "type": "internal",
-                  "page": "Chang Chun-hsiung"
-                }
-              ]
-            },
-            {
-              "text": "During Lai's visit, Chen's hands were shaking involuntarily, and a urine bag was visible outside his pants, indicating that the former president has been ill."
-            },
-            {
-              "text": "Chen and Lai reportedly discussed their daily lives, with Lai wishing Chen good health."
-            },
-            {
-              "text": "At Chang's Kaoshiung residence, the former premier told him that drugs have increasingly become a pressing problem in Taiwan, with the Philippines claiming the origin of their drug problem is from Taiwan.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Kaoshiung"
-                },
-                {
-                  "type": "internal",
-                  "page": "Philippines"
-                }
-              ]
-            },
-            {
-              "text": "Following this, Lai said that laws would be revised to toughen the penalties for drug-related crimes, while authorities must redouble their efforts to investigate and seize illicit substances."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On October 6, Lai requested that government agencies review the nation's information security after the Far Eastern International Bank (遠東商銀) reported that its system was hacked earlier in the week."
-            },
-            {
-              "text": "The premier was fully briefed on the incident and instructed the government to learn from the case and tighten information security by closing vulnerabilities."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On October 7, Lai said the central government would invest a total of NT$45 billion (US$1.48 billion) by 2025 to make Penghu a “green”, energy-powered county.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Penghu"
-                }
-              ]
-            },
-            {
-              "text": "Lai reiterated the commitment of Tsai Ing-wen's administration to implement environmentally friendly measures, such as the use of alternative energy sources in Penghu, during his visit to check on its promotion of electric scooters."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On October 11, Lai said that the government is not giving up its effort to present a proposal before the end of the year to legalize same-sex marriage, after concern that the issue was not moving forward."
-            },
-            {
-              "text": "Lai dismayed gay rights groups by saying earlier in the week that the passage of any proposal would be difficult as the current legislative session was devoting all of its attention to the central government budget."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On October 17, it was reported that Lai had garnered the approval of 68.8 percent of respondents in a survey, while 23 percent expressed dissatisfaction."
+              "text": "In October 2017, it was reported that Lai had garnered the approval of 68.8 percent of respondents in a survey, while 23 percent expressed dissatisfaction."
             },
             {
               "text": "However, critics say that his popularity may not last, due to his rapid reversal of his position on the issue of Taiwanese independence."
             },
             {
-              "text": "However, on October 20, Lai in response to General Secretary Xi Jinping's comments on the one China policy and the 1992 consensus at the 19th National Congress of the Chinese Communist Party, Lai said that the Taiwanese government, following the directives of Tsai Ing-wen, would fulfill its promise of not changing the status quo between the two neighbors and not ceding before pressure from Beijing, which comes in the form of military intimidation and an international blockade.",
+              "text": "However, on 20 October, Lai in response to General Secretary Xi Jinping's comments on the one China policy and the 1992 consensus at the 19th National Congress of the Chinese Communist Party, Lai said that the Taiwanese government, following the directives of Tsai Ing-wen, would fulfill its promise of not changing the status quo between the two neighbors and not ceding before pressure from Beijing, which comes in the form of military intimidation and an international blockade.",
               "links": [
                 {
                   "type": "internal",
@@ -1386,180 +1078,43 @@
         {
           "sentences": [
             {
-              "text": "On October 29, it was announced that the cabinet would announce a draft amendment to change several amendments that were made in 2016 to the Labor Standards Act, which would be reviewed by Lai."
-            },
-            {
-              "text": "The controversial five-day workweek policy, promulgated in December 2016, stipulates a fixed day off and a flexible rest day, while employees, if asked to work on rest days, are to be given four hours of pay for between one and four hours of work, and eight hours of pay for between five and eight hours of work."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On October 30, railroad incidents that had occurred one after another over the previous two weeks, such as overhead electric cables breaking, caused Lai and Minister of Transportation and Communications Hochen Tan, to consider raising ticket prices.",
+              "text": "In November 2018, Lai tendered his resignation to the president, after the ruling DPP was trounced in local elections.",
               "links": [
                 {
+                  "text": "local elections",
                   "type": "internal",
-                  "page": "Hochen Tan"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On November 10, Lai called on all businesses, listed companies and multinational companies based in Taiwan to establish a better way of profit sharing to keep the economy growing and maintain a stable living standard by increasing the starting wage offered to employees."
-            },
-            {
-              "text": "Lai, focusing on the problem of shortage of manpower and skilled workers, urged corporations to build better profit sharing arrangements."
-            },
-            {
-              "text": "Lai also stressed the importance of immigrants in addressing the nation's shortage of workers, as the Cabinet revealed its plan for the immigration of workers from nations targeted by the government's New Southbound Policy."
-            },
-            {
-              "text": "The tentative plan is to implement a labor immigration program to attract talented workers from the 18 nations targeted by the New Southbound Policy — the 10 ASEAN nations, India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan, New Zealand and Australia.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "ASEAN"
-                },
-                {
-                  "type": "internal",
-                  "page": "India"
-                },
-                {
-                  "type": "internal",
-                  "page": "Pakistan"
-                },
-                {
-                  "type": "internal",
-                  "page": "Bangladesh"
-                },
-                {
-                  "type": "internal",
-                  "page": "Sri Lanka"
-                },
-                {
-                  "type": "internal",
-                  "page": "Nepal"
-                },
-                {
-                  "type": "internal",
-                  "page": "Bhutan"
-                },
-                {
-                  "type": "internal",
-                  "page": "New Zealand"
-                },
-                {
-                  "type": "internal",
-                  "page": "Australia"
+                  "page": "2018 Taiwanese local elections"
                 }
               ]
             },
             {
-              "text": "While delivering a speech at the two-day annual conference of the Formosan Medical Association, Lai said that he hopes the healthcare sector could cooperate with the government to enhance the nation's long-term care services and the biotechnology industry, and to introduce more information technology to medical administration."
-            },
-            {
-              "text": "In his speech, Lai briefly introduced the two main topics of this year's conference: National Health Insurance (NHI) payment principles for cancer medication and food safety."
-            },
-            {
-              "text": "“Cancer has ranked No. 1 among the 10 leading causes of death in Taiwan for 35 consecutive years and approximately 650,000 people receive cancer treatment each year,” Lai said."
-            },
-            {
-              "text": "NHI expenditure on cancer treatments has increased from NT$60.7 billion (US$2.01 billion) in 2011 to NT$84.5 billion last year, while expenditure on cancer medication alone increased from NT$25.7 billion in 2012 to NT$32.2 billion last year — accounting for about 38 percent of the total cost of treatment."
-            },
-            {
-              "text": "Lai said that this was not a small percentage and that he hoped to hear suggestions on the issue from the conference."
-            },
-            {
-              "text": "In addition, he said the government is encouraging the healthcare sector to cooperate to achieve improvements in three areas: the Long-term Care Services Program 2.0, the biotechnology industry and medical administration informatization."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On November 20, it was announced that Lai would lead a public pledge declaring the government's determination to fight money laundering, increase financial transparency, and pass the third round of mutual evaluations by the Asia Pacific Group on Money Laundering (APG) in November next year."
-            },
-            {
-              "text": "Nearly 20 government agencies, 50 government officials and numerous civic groups would attend Lai's pledge, sources said."
-            },
-            {
-              "text": "On November 24, Lai said that the Executive Yuan did not have a fixed timetable for the passage of the draft amendment to the Labor Standards Act."
-            },
-            {
-              "text": "Speaking on the sidelines of a long-term care event in Taipei, Lai called for a rational review of the draft amendment to bring it more in line with the needs of society."
-            },
-            {
-              "text": "Despite Democratic Progressive Party (DPP) lawmakers’ failed attempt to complete committee review of the bill on Thursday due to stalling tactics by their KMT counterparts, Lai said the fact the draft amendment was able to survive a plenary vote last week and be forwarded to the committee for review was progress."
-            },
-            {
-              "text": "Labor groups have protested against the proposed revisions, which would raise the ceiling on the number of consecutive working days from six to 12 days."
-            },
-            {
-              "text": "The amendment would also allow companies to cut the minimum rest time between shifts from 11 hours to eight hours if they reached an agreement with employees during labor-management negotiations."
-            },
-            {
-              "text": "On November 25, in an event that marked the establishment of an association for promoting mobile payment, Lai said the government has been trying to push for the development of mobile payment solutions, hoping that with the help from the private sector, the use of mobile payment platforms in the country would reach 90 percent by 2025."
-            },
-            {
-              "text": "Lai said in order to increase the popularity of mobile payment, the Executive Yuan revised and implemented policies that would help better develop such payment solutions throughout the country."
-            },
-            {
-              "text": "Lai emphasized the government's determination to create a \"smart country\" where not only mobile payment but also artificial intelligence, big data, virtual and augmented reality would prosper."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On December 7, Lai announces that the Executive Yuan was to establish an ad hoc commission for the promotion of transitional justice to disclose historical data and remove authoritarian symbols."
-            },
-            {
-              "text": "“The establishment has to be completed in the shortest time possible to meet public expectations for transitional justice and reconciliation,” Lai said."
-            },
-            {
-              "text": "Lai instructed Minister Without Portfolio Lo Ping-cheng to establish such a committee by nominating a list of members, drafting the organizational regulations and planning a budget."
-            },
-            {
-              "text": "The committee would be responsible for making political archives available, removing authoritarian symbols, redressing judicial injustice and investigating political persecution."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On December 10, a source at the Executive Yuan said Lai was likely to distribute more revenue from the air pollution tax to local governments, adding that a decision might be reached after Lai meets with mayors and county commissioners on December 11."
-            },
-            {
-              "text": "There are disagreements over the regulations governing pollutants emitted by Taiwan Power Co's power plants."
-            },
-            {
-              "text": "While the Environmental Protection Administration (EPA) wants to impose regulations on Taipower's coal-fired power plants through the draft amendment, the Ministry of Economic Affairs aims to prioritize stabilizing the nation's power supply, saying that some of Taipower's facilities should not be covered by the draft amendment."
-            },
-            {
-              "text": "The distribution of the fund is also a contentious subject, as there have been demands that the government take more effective measures to improve air quality in the nation's central and southern regions."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On August 31, 2018, Lai announced that English would be made an official language of Taiwan in 2019.",
+              "text": "Lai agreed to remain in office to help stabilize the government until the general budget was cleared by the Legislative Yuan in January 2019.",
               "links": [
                 {
-                  "text": "official language",
                   "type": "internal",
-                  "page": "official language"
+                  "page": "Legislative Yuan"
                 }
               ]
             },
             {
-              "text": "Lai's cabinet resigned on January 11, 2019."
+              "text": "Lai's cabinet resigned on 11 January 2019 and Su Tseng-chang was appointed as new premier.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Su Tseng-chang"
+                }
+              ]
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:臺灣總統蔡英文於總統府監誓行政院院長賴清德與閣員宣誓_Premier_Lai_Ching-te_and_cabinet_members_swore_in_with_President_Tsai_Ing-wen_in_the_Presidential_Office_of_Taiwan_in_the_capital_Taipei_City_in_2017.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%E8%87%BA%E7%81%A3%E7%B8%BD%E7%B5%B1%E8%94%A1%E8%8B%B1%E6%96%87%E6%96%BC%E7%B8%BD%E7%B5%B1%E5%BA%9C%E7%9B%A3%E8%AA%93%E8%A1%8C%E6%94%BF%E9%99%A2%E9%99%A2%E9%95%B7%E8%B3%B4%E6%B8%85%E5%BE%B7%E8%88%87%E9%96%A3%E5%93%A1%E5%AE%A3%E8%AA%93_Premier_Lai_Ching-te_and_cabinet_members_swore_in_with_President_Tsai_Ing-wen_in_the_Presidential_Office_of_Taiwan_in_the_capital_Taipei_City_in_2017.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/%E8%87%BA%E7%81%A3%E7%B8%BD%E7%B5%B1%E8%94%A1%E8%8B%B1%E6%96%87%E6%96%BC%E7%B8%BD%E7%B5%B1%E5%BA%9C%E7%9B%A3%E8%AA%93%E8%A1%8C%E6%94%BF%E9%99%A2%E9%99%A2%E9%95%B7%E8%B3%B4%E6%B8%85%E5%BE%B7%E8%88%87%E9%96%A3%E5%93%A1%E5%AE%A3%E8%AA%93_Premier_Lai_Ching-te_and_cabinet_members_swore_in_with_President_Tsai_Ing-wen_in_the_Presidential_Office_of_Taiwan_in_the_capital_Taipei_City_in_2017.jpg",
+          "caption": "Premier Lai Ching-te led the cabinet during the swearing-in ceremony",
+          "links": []
         }
       ],
       "references": [
@@ -1576,84 +1131,80 @@
           "type": "web"
         },
         {
+          "url": "https://www.reuters.com/article/us-taiwan-premier-idUSKCN1BG0J4",
+          "title": "Taiwan appoints new premier to drive reform efforts",
+          "work": "Reuters",
+          "date": "5 September 2017",
+          "access-date": "22 December 2022",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
+        },
+        {
+          "url": "https://taiwantoday.tw/news.php?unit=2&post=121190",
+          "title": "Premier Lai takes office, vows to advance reform",
+          "website": "Taiwan Today",
+          "date": "8 September 2017",
+          "access-date": "22 December 2022",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "https://asia.nikkei.com/Politics-Economy/Policy-Politics/Taiwan-s-new-premier-revitalizes-President-Tsai-s-fortunes",
           "title": "Taiwan&#039;s new premier revitalizes President Tsai&#039;s fortunes- Nikkei Asian Review",
-          "access-date": "2017-10-03",
-          "archive-date": "2017-10-03",
+          "access-date": "3 October 2017",
+          "archive-date": "3 October 2017",
           "archive-url": "https://web.archive.org/web/20171003233657/https://asia.nikkei.com/Politics-Economy/Policy-Politics/Taiwan-s-new-premier-revitalizes-President-Tsai-s-fortunes",
           "url-status": "dead",
           "template": "citation",
           "type": "web"
         },
         {
+          "url": "https://www.taipeitimes.com/News/front/archives/2017/09/27/2003679217",
+          "title": "Lai reaffirms support for independence",
+          "work": "Taipei Times",
+          "date": "27 September 2017",
+          "access-date": "22 December 2022",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
+        },
+        {
+          "url": "https://news.ltn.com.tw/news/focus/paper/1138762",
+          "title": "賴揆：務實台獨主義者",
+          "work": "The Liberty Times",
+          "language": "zh",
+          "date": "27 September 2017",
+          "access-date": "22 December 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://news.ltn.com.tw/news/politics/paper/1113791",
+          "title": "賴清德︰親中愛台 創造團結台灣平台",
+          "work": "The Liberty Times",
+          "language": "zh",
+          "date": "26 June 2017",
+          "access-date": "22 December 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://tw.news.yahoo.com/%E8%94%A1%E8%B3%B4%E9%85%8D%E9%82%84%E6%97%A9-%E4%B8%8D%E5%8F%83%E9%81%B82020%E5%B9%B4%E7%B8%BD%E7%B5%B1-100000606.html",
+          "title": "蔡賴配還早 不參選2020年總統",
+          "work": "World Journal",
+          "language": "zh",
+          "date": "27 September 2017",
+          "access-date": "22 December 2022",
+          "template": "citation",
+          "type": "news"
         },
         {
           "url": "http://www.taipeitimes.com/News/taiwan/archives/2017/09/29/2003679358",
           "title": "New Party mulls Lai complaint - Taipei Times",
           "website": "www.taipeitimes.com",
           "date": "29 September 2017",
-          "access-date": "2017-10-14",
-          "archive-date": "2017-10-14",
+          "access-date": "14 October 2017",
+          "archive-date": "14 October 2017",
           "archive-url": "https://web.archive.org/web/20171014233635/http://www.taipeitimes.com/News/taiwan/archives/2017/09/29/2003679358",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.taipeitimes.com/News/taiwan/archives/2017/10/02/2003679570",
-          "title": "Lai visits Chang, Chen in Kaohsiung - Taipei Times",
-          "website": "www.taipeitimes.com",
-          "date": "2 October 2017",
-          "access-date": "2017-10-07",
-          "archive-date": "2017-10-08",
-          "archive-url": "https://web.archive.org/web/20171008031035/http://www.taipeitimes.com/News/taiwan/archives/2017/10/02/2003679570",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.taipeitimes.com/News/front/archives/2017/10/08/2003679926",
-          "title": "Lai orders information security review - Taipei Times",
-          "website": "www.taipeitimes.com",
-          "date": "8 October 2017",
-          "access-date": "2017-10-14",
-          "archive-date": "2017-10-14",
-          "archive-url": "https://web.archive.org/web/20171014233806/http://www.taipeitimes.com/News/front/archives/2017/10/08/2003679926",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.taipeitimes.com/News/front/archives/2017/10/08/2003679927",
-          "title": "Government to spend NT$45bn on Penghu: Lai - Taipei Times",
-          "website": "www.taipeitimes.com",
-          "date": "8 October 2017",
-          "access-date": "2017-10-14",
-          "archive-date": "2017-10-14",
-          "archive-url": "https://web.archive.org/web/20171014234055/http://www.taipeitimes.com/News/front/archives/2017/10/08/2003679927",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.taiwannews.com.tw/en/news/3269065",
-          "title": "Legislation on same-sex marriage still possible this year: Taiwan premier - Taiwan News",
-          "first": "Taiwan",
-          "last": "News",
-          "date": "6 October 2017",
-          "access-date": "2017-10-14",
-          "archive-date": "2017-10-12",
-          "archive-url": "https://web.archive.org/web/20171012202334/https://www.taiwannews.com.tw/en/news/3269065",
           "url-status": "live",
           "template": "citation",
           "type": "web"
@@ -1663,8 +1214,8 @@
           "title": "Premier Lai's high approval rating boosts Tsai's - Taipei Times",
           "website": "www.taipeitimes.com",
           "date": "17 October 2017",
-          "access-date": "2017-10-21",
-          "archive-date": "2017-10-21",
+          "access-date": "21 October 2017",
+          "archive-date": "21 October 2017",
           "archive-url": "https://web.archive.org/web/20171021220846/http://www.taipeitimes.com/News/front/archives/2017/10/17/2003680492",
           "url-status": "live",
           "template": "citation",
@@ -1685,153 +1236,60 @@
           "url": "http://www.laht.com/article.asp?ArticleId=2445010&CategoryId=12395",
           "title": "Taiwan's Premier Reaffirms Sovereignty in Response to Chinese President",
           "website": "www.laht.com",
-          "access-date": "2017-10-21",
-          "archive-date": "2017-10-22",
+          "access-date": "21 October 2017",
+          "archive-date": "22 October 2017",
           "archive-url": "https://web.archive.org/web/20171022032324/http://www.laht.com/article.asp?ArticleId=2445010&CategoryId=12395",
           "url-status": "live",
           "template": "citation",
           "type": "web"
         },
         {
-          "url": "http://www.taipeitimes.com/News/front/archives/2017/10/30/2003681303",
-          "title": "Cabinet to revise Labor Standards Act - Taipei Times",
-          "website": "www.taipeitimes.com",
-          "date": "30 October 2017",
-          "access-date": "2017-10-31",
-          "archive-date": "2017-10-31",
-          "archive-url": "https://web.archive.org/web/20171031143645/http://www.taipeitimes.com/News/front/archives/2017/10/30/2003681303",
-          "url-status": "live",
+          "url": "https://www.reuters.com/article/uk-taiwan-politics-premier-idUKKCN1NT0HB",
+          "title": "Taiwan premier offers resignation after local election trouncing",
+          "work": "Reuters",
+          "date": "24 November 2018",
+          "access-date": "21 December 2022",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
-          "url": "http://www.taipeitimes.com/News/taiwan/archives/2017/10/31/2003681377",
-          "title": "TRA prices will not rise: Hochen - Taipei Times",
-          "website": "www.taipeitimes.com",
-          "access-date": "2017-10-31",
-          "archive-date": "2017-10-30",
-          "archive-url": "https://web.archive.org/web/20171030232733/http://www.taipeitimes.com/News/taiwan/archives/2017/10/31/2003681377",
-          "url-status": "live",
+          "url": "https://www.taiwannews.com.tw/en/news/3583637",
+          "title": "Premier Lai rescinds resignation, pledges to respect Taiwan's referendum results",
+          "work": "Taiwan News",
+          "date": "26 November 2018",
+          "access-date": "21 December 2022",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
-          "url": "https://www.taiwannews.com.tw/en/news/3294609",
-          "title": "Taiwan's Premier Lai calls on companies to raise starting salary - Taiwan News",
-          "first": "Taiwan",
-          "last": "News",
-          "date": "10 November 2017",
-          "access-date": "2017-11-12",
-          "archive-date": "2017-11-12",
-          "archive-url": "https://web.archive.org/web/20171112185239/https://www.taiwannews.com.tw/en/news/3294609",
-          "url-status": "live",
+          "url": "https://www.taipeitimes.com/News/front/archives/2018/11/27/2003704995",
+          "title": "Lai, Chen Chu withdraw resignations",
+          "work": "Taipei Times",
+          "date": "27 November 2018",
+          "access-date": "21 December 2022",
           "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.taipeitimes.com/News/front/archives/2017/11/11/2003682047",
-          "title": "Immigrants key to labor shortage: Lai - Taipei Times",
-          "website": "www.taipeitimes.com",
-          "date": "11 November 2017",
-          "access-date": "2017-11-12",
-          "archive-date": "2017-11-12",
-          "archive-url": "https://web.archive.org/web/20171112012324/http://www.taipeitimes.com/News/front/archives/2017/11/11/2003682047",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.taipeitimes.com/News/taiwan/archives/2017/11/12/2003682123",
-          "title": "Lai banks on sector to cut medical costs - Taipei Times",
-          "website": "www.taipeitimes.com",
-          "date": "12 November 2017",
-          "access-date": "2017-11-12",
-          "archive-date": "2017-11-12",
-          "archive-url": "https://web.archive.org/web/20171112102304/http://www.taipeitimes.com/News/taiwan/archives/2017/11/12/2003682123",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.taipeitimes.com/News/taiwan/archives/2017/11/20/2003682587",
-          "title": "Lai to lead public pledge against money laundering - Taipei Times",
-          "website": "www.taipeitimes.com",
-          "date": "20 November 2017",
-          "access-date": "2017-11-26",
-          "archive-date": "2017-12-01",
-          "archive-url": "https://web.archive.org/web/20171201041151/http://www.taipeitimes.com/News/taiwan/archives/2017/11/20/2003682587",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.taipeitimes.com/News/taiwan/archives/2017/11/25/2003682886",
-          "title": "No timetable for passage of labor proposal: premier - Taipei Times",
-          "website": "www.taipeitimes.com",
-          "access-date": "2017-11-26",
-          "archive-date": "2017-11-24",
-          "archive-url": "https://web.archive.org/web/20171124192533/http://www.taipeitimes.com/News/taiwan/archives/2017/11/25/2003682886",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.taiwannews.com.tw/en/news/3306048",
-          "title": "Premier seeks to increase mobile payment across Taiwan - Taiwan News",
-          "first": "Taiwan",
-          "last": "News",
-          "date": "25 November 2017",
-          "access-date": "2017-11-26",
-          "archive-date": "2017-11-25",
-          "archive-url": "https://web.archive.org/web/20171125150430/https://www.taiwannews.com.tw/en/news/3306048",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.taipeitimes.com/News/front/archives/2017/12/08/2003683611",
-          "title": "Transitional justice to be pursued: Lai - Taipei Times",
-          "website": "www.taipeitimes.com",
-          "date": "8 December 2017",
-          "access-date": "2018-01-05",
-          "archive-date": "2018-01-06",
-          "archive-url": "https://web.archive.org/web/20180106063840/http://www.taipeitimes.com/News/front/archives/2017/12/08/2003683611",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.taipeitimes.com/News/front/archives/2017/12/11/2003683773",
-          "title": "Pollution fund likely to be readjusted - Taipei Times",
-          "website": "www.taipeitimes.com",
-          "date": "11 December 2017",
-          "access-date": "2018-01-05",
-          "archive-date": "2018-01-06",
-          "archive-url": "https://web.archive.org/web/20180106063923/http://www.taipeitimes.com/News/front/archives/2017/12/11/2003683773",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "last1": "Lin",
           "first1": "Sean",
           "title": "Cabinet resigns as Premier Lai says he has 'no regrets'",
           "url": "http://www.taipeitimes.com/News/taiwan/archives/2019/01/12/2003707790",
-          "access-date": "January 12, 2019",
+          "access-date": "12 January 2019",
           "work": "Taipei Times",
-          "date": "January 12, 2019",
-          "archive-date": "January 11, 2019",
+          "date": "12 January 2019",
+          "archive-date": "11 January 2019",
           "archive-url": "https://web.archive.org/web/20190111205338/http://www.taipeitimes.com/News/taiwan/archives/2019/01/12/2003707790",
           "url-status": "live",
           "template": "citation",
           "type": "news"
         },
         {
-          "url": "https://www.hongkongfp.com/2018/08/31/taiwan-make-english-official-language-next-year-says-official/",
-          "title": "Taiwan to make English an official language next year, says official",
-          "date": "August 31, 2018",
-          "work": "Hong Kong Free Press",
-          "access-date": "September 5, 2018",
+          "url": "https://www.taipeitimes.com/News/front/archives/2019/01/12/2003707770",
+          "title": "Former premier Su to regain position",
+          "work": "Taipei Times",
+          "date": "12 January 2019",
+          "access-date": "21 December 2022",
           "template": "citation",
           "type": "news"
         }
@@ -1848,31 +1306,26 @@
             },
             {
               "text": "This is the first time in Taiwanese history where a serious primary challenge has been mounted against a sitting president."
+            },
+            {
+              "text": "The results of the DPP's primary poll released on 13 June shown that Tsai defeated Lai by winning 35.67 percent of the vote over Lai's 27.48 percent, officially becoming the DPP's presidential candidate for the 2020 election."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "! style=\"background:#e9e9e9; text-align:center;\" rowspan=\"2\" colspan=\"2\"| Party"
+              "text": "In November 2019, Lai accepted president Tsai Ing-wen's offer to became her running mate for the 2020 presidential election.",
+              "links": [
+                {
+                  "text": "2020 presidential election",
+                  "type": "internal",
+                  "page": "2020 Taiwanese presidential election"
+                }
+              ]
             },
             {
-              "text": "! style=\"background:#e9e9e9; text-align:center;\" colspan=\"2\"| Candidate"
-            },
-            {
-              "text": "! style=\"background:#e9e9e9; text-align:center;\" rowspan=\"2\"| Votes"
-            },
-            {
-              "text": "! style=\"background:#e9e9e9; text-align:center;\" rowspan=\"2\" colspan=\"2\"| Percentage"
-            },
-            {
-              "text": "! colspan=\"4\" style=\"text-align:right;\" |Total"
-            },
-            {
-              "text": "! style=\"text-align:right;\" |14,300,940"
-            },
-            {
-              "text": "! style=\"text-align:right;\" colspan=2|100%"
+              "text": "Tsai secured over 57% of the ballot, winning a record 8.17 million votes in the election and began her second term in 2020."
             }
           ]
         }
@@ -1880,312 +1333,11 @@
       "templates": [
         {
           "list": [
-            "2019 Democratic Progressive Party presidential primary"
+            "2019 Democratic Progressive Party presidential primary",
+            "2020 Taiwanese presidential election"
           ],
           "template": "further"
-        },
-        {
-          "template": "election table"
-        },
-        {
-          "list": [
-            "Democratic Progressive Party"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Democratic Progressive Party"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "57.13",
-            ""
-          ],
-          "template": "percentage bar"
-        },
-        {
-          "list": [
-            "Kuomintang"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Kuomintang"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "38.61",
-            ""
-          ],
-          "template": "percentage bar"
-        },
-        {
-          "list": [
-            "People First Party (Republic of China)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "People First Party (Republic of China)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "4.26",
-            ""
-          ],
-          "template": "percentage bar"
         }
-      ],
-      "lists": [
-        [
-          {
-            "text": "- style=\"background:#e9e9e9; text-align:center;\""
-          },
-          {
-            "text": "President",
-            "formatting": {
-              "bold": [
-                "President"
-              ]
-            }
-          },
-          {
-            "text": "Vice president",
-            "formatting": {
-              "bold": [
-                "Vice president"
-              ]
-            }
-          },
-          {
-            "text": "style=\"background-color:\"|"
-          },
-          {
-            "text": "style=\"text-align:left;\" |Green Island with White Cross.svg Democratic Progressive Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Democratic Progressive Party"
-              }
-            ],
-            "formatting": {
-              "bold": [
-                "Democratic Progressive Party"
-              ]
-            }
-          },
-          {
-            "text": "style=\"text-align:left;\" | Tsai Ing-wen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tsai Ing-wen"
-              }
-            ],
-            "formatting": {
-              "bold": [
-                "Tsai Ing-wen"
-              ]
-            }
-          },
-          {
-            "text": "style=\"text-align:left;\" | Lai Ching-te",
-            "formatting": {
-              "bold": [
-                "Lai Ching-te"
-              ]
-            }
-          },
-          {
-            "text": "style=\"text-align:right;\" | 8,170,231",
-            "formatting": {
-              "bold": [
-                "8,170,231"
-              ]
-            }
-          },
-          {
-            "text": "style=\"text-align:right;\" | 57.13%",
-            "formatting": {
-              "bold": [
-                "57.13%"
-              ]
-            }
-          },
-          {
-            "text": "style=\"text-align:right;\" |"
-          },
-          {
-            "text": "style=\"background-color:\"|"
-          },
-          {
-            "text": "style=\"text-align:left;\" | Emblem of the Kuomintang.svg Kuomintang",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kuomintang"
-              }
-            ]
-          },
-          {
-            "text": "style=\"text-align:left;\" | Han Kuo-yu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Han Kuo-yu"
-              }
-            ]
-          },
-          {
-            "text": "style=\"text-align:left;\" | Chang San-cheng",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chang San-cheng"
-              }
-            ]
-          },
-          {
-            "text": "style=\"text-align:right;\" | 5,522,119"
-          },
-          {
-            "text": "style=\"text-align:right;\" | 38.61%"
-          },
-          {
-            "text": "style=\"text-align:right;\" |"
-          },
-          {
-            "text": "style=\"background-color:\"|"
-          },
-          {
-            "text": "style=\"text-align:left;\" | LogoPFP.svg People First Party",
-            "links": [
-              {
-                "text": "People First Party",
-                "type": "internal",
-                "page": "People First Party (Republic of China)"
-              }
-            ]
-          },
-          {
-            "text": "style=\"text-align:left;\" | James Soong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "James Soong"
-              }
-            ]
-          },
-          {
-            "text": "style=\"text-align:left;\" | Sandra Yu"
-          },
-          {
-            "text": "style=\"text-align:right;\" | 608,590"
-          },
-          {
-            "text": "style=\"text-align:right;\" | 4.26%"
-          },
-          {
-            "text": "style=\"text-align:right;\" |"
-          }
-        ],
-        [
-          {
-            "text": "style=\"text-align:right;\" | 608,590"
-          },
-          {
-            "text": "style=\"text-align:right;\" | 4.26%"
-          },
-          {
-            "text": "style=\"text-align:right;\" |"
-          }
-        ],
-        [
-          {
-            "text": "- style=\"text-align:right;\""
-          },
-          {
-            "text": "colspan=\"4\"|Valid votes",
-            "formatting": {
-              "bold": [
-                "Valid votes"
-              ]
-            }
-          },
-          {
-            "text": "14,300,940",
-            "number": 14300940
-          },
-          {
-            "text": "colspan=\"2\"|98.87%"
-          },
-          {
-            "text": "- style=\"text-align:right;\""
-          },
-          {
-            "text": "colspan=\"4\"|Invalid votes",
-            "formatting": {
-              "bold": [
-                "Invalid votes"
-              ]
-            }
-          },
-          {
-            "text": "163,631",
-            "number": 163631
-          },
-          {
-            "text": "colspan=\"2\"|1.13%"
-          },
-          {
-            "text": "- style=\"text-align:right;\""
-          },
-          {
-            "text": "colspan=\"4\"|Votes cast / turnout",
-            "formatting": {
-              "bold": [
-                "Votes cast / turnout"
-              ]
-            }
-          },
-          {
-            "text": "14,464,571",
-            "number": 14464571
-          },
-          {
-            "text": "colspan=\"2\"|74.90%"
-          },
-          {
-            "text": "- style=\"text-align:right;\""
-          },
-          {
-            "text": "colspan=\"4\"|Eligible voters",
-            "formatting": {
-              "bold": [
-                "Eligible voters"
-              ]
-            }
-          },
-          {
-            "text": "19,311,105",
-            "number": 19311105
-          },
-          {
-            "text": "style=\"text-align:right;\" colspan=2|"
-          },
-          {
-            "text": "}"
-          }
-        ]
       ],
       "references": [
         {
@@ -2197,6 +1349,33 @@
           "archive-date": "22 March 2019",
           "archive-url": "https://web.archive.org/web/20190322170232/https://www.economist.com/asia/2019/03/23/tsai-ing-wen-taiwans-president-is-challenged-by-a-former-underling",
           "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://english.cw.com.tw/article/article.action?id=2437",
+          "title": "President Tsai Ing-wen Beats Former Premier William Lai to Win DPP's Nomination",
+          "work": "CommonWealth Magazine",
+          "date": "13 June 2019",
+          "access-date": "21 December 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.taipeitimes.com/News/front/archives/2019/11/18/2003726046",
+          "title": "Tsai picks William Lai as running mate",
+          "work": "Taipei Times",
+          "date": "18 November 2019",
+          "access-date": "21 December 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.bbc.com/news/world-asia-51077553",
+          "title": "Taiwan election: Tsai Ing-wen wins second presidential term",
+          "work": "BBC",
+          "date": "11 January 2020",
+          "access-date": "21 December 2022",
           "template": "citation",
           "type": "news"
         },
@@ -2228,7 +1407,7 @@
       ]
     },
     {
-      "title": "Vice Presidency",
+      "title": "Vice Presidency (2020–2024)",
       "depth": 0,
       "paragraphs": [
         {
