@@ -1754,6 +1754,32 @@
               "text": "Chen succeeded acting mayor Yang Ming-jou on 24 August."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During Chen's second stint as mayor, President Tsai Ing-wen resigned as chairperson of the Democratic Progressive Party to take responsibility for the party's poor performance in the 2022 local elections.",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of the Republic of China"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tsai Ing-wen"
+                },
+                {
+                  "text": "2022 local elections",
+                  "type": "internal",
+                  "page": "2022 Taiwanese local elections"
+                }
+              ]
+            },
+            {
+              "text": "On 30 November 2022, Chen assumed the party leadership in an acting capacity."
+            }
+          ]
         }
       ],
       "tables": [
@@ -1999,6 +2025,21 @@
           "access-date": "24 August 2020",
           "agency": "Central News Agency",
           "date": "24 August 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Yeh",
+          "first1": "Su-ping",
+          "last2": "Wen",
+          "first2": "Kuei-hsiang",
+          "last3": "Lin",
+          "first3": "Sean",
+          "title": "Kaohsiung Mayor Chen Chi-mai elected acting DPP chairperson",
+          "url": "https://focustaiwan.tw/politics/202211300016",
+          "access-date": "27 December 2022",
+          "agency": "Central News Agency",
+          "date": "30 November 2022",
           "template": "citation",
           "type": "news"
         },
