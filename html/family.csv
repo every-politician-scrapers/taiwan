@@ -2,6 +2,8 @@ id,name,relationship,relative,relativename
 Q11099334,Woody Tyzz-Jiun Duh,sibling,Q60991997,Tu Tze-chen
 Q14866531,Luo Ying-shay,father,Q15936472,羅錫疇
 Q15025,Audrey Tang,mother,Q9210881,Lee Ya-ching
+Q15902678,Shen Lyu-shun,father,Q28418446,Shen Zushi
+Q15902678,Shen Lyu-shun,sibling,Q16926642,沈冬
 Q15904974,Joanna Lei,father,Q18759191,Lei Hsueh-ming
 Q15909081,Wellington Koo,spouse,Q15918515,Wang Mei-hua
 Q15918515,Wang Mei-hua,spouse,Q15909081,Wellington Koo
@@ -89,9 +91,19 @@ Q60992873,Chen Ching-min,sibling,Q8272145,Chen Chien-ming
 Q6148708,Yeh Chu-lan,spouse,Q3846616,Cheng Nan-jung
 Q6513938,Lee Hong-yuan,sibling,Q8275115,Lee Hong-chun
 Q700774,Su Jia-chyuan,sibling,Q17059823,Su Chia-fu
+Q700825,Chang Wen-ying,child,Q47546002,陳俞融
 Q709307,Hau Lung-pin,father,Q709142,Hau Pei-tsun
 Q710060,Huang Chih-hsiung,spouse,Q8273543,Hung Chia-chun
+Q715529,Wu Po-hsiung,child,Q8277252,Wu Chih-kang
+Q715529,Wu Po-hsiung,child,Q8277261,John Wu
+Q715529,Wu Po-hsiung,father,Q8277562,Wu Hong-lin
 Q7198343,Chen Ying,father,Q20687755,Chen Chien-nien
+Q7441162,Sean Lien,father,Q558718,Lien Chan
+Q7441162,Sean Lien,mother,Q6544158,Lien Fang Yu
+Q7441162,Sean Lien,sibling,Q16260705,Lien Yung-hsin
+Q7441162,Sean Lien,sibling,Q19825813,Lien Sheng-wu
+Q7441162,Sean Lien,sibling,Q29913271,Arlene Lien
+Q7441162,Sean Lien,spouse,Q8938814,Patty Tsai
 Q78116451,Hsieh Yi-fong,mother,Q8272916,Cheng Ru-fen
 Q78116451,Hsieh Yi-fong,sibling,Q16260025,Hsieh Tien-lin
 Q7967650,Wang Tuoh,child,Q9066880,Wang Xingzhi
@@ -172,6 +184,7 @@ Q8348951,Hsueh Ling,child,Q16926490,Ho Chih-wei
 Q8348951,Hsueh Ling,spouse,Q8347204,Chen Sheng-hong
 Q8349186,謝欣霓,father,Q8349204,謝錦川
 Q8349186,謝欣霓,sibling,Q16260223,謝賢
+Q8349465,Cheng Wen-tsan,partner,Q8954159,Fan Yun
 Q8349619,Lai Chin-lin,child,Q16260539,Lai Pin-yu
 Q8349970,Lan Mei-chin,sibling,Q8349962,Lan Shih-tsung
 Q8349970,Lan Mei-chin,spouse,Q8348700,Huang Tien-fu
@@ -186,6 +199,11 @@ Q8350626,Yu Tian,child,Q10886645,Ken Yu
 Q8350626,Yu Tian,child,Q113572990,余苑绮
 Q8350626,Yu Tian,spouse,Q15925971,Lee Ya-ping
 Q8351463,Hsu Jung-shu,spouse,Q2667335,Chang Chun-hung
+Q842303,Fredrick Chien,child,Q5039977,Carl Chien
+Q842303,Fredrick Chien,father,Q697502,Chien Shih-Liang
+Q842303,Fredrick Chien,sibling,Q15933562,Robert Chien
+Q842303,Fredrick Chien,sibling,Q7504410,Shu Chien
+Q842303,Fredrick Chien,spouse,Q60992461,Julie Tien
 Q85877352,Wu I-ding,father,Q8277455,Wu Kuang-hsun
 Q85877382,Cynthia Wu,father,Q22773499,Eugene Wu
 Q85877382,Cynthia Wu,spouse,Q47691275,Lin Zhiyan
