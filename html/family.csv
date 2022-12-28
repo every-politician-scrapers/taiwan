@@ -2,6 +2,7 @@ id,name,relationship,relative,relativename
 Q11099334,Woody Tyzz-Jiun Duh,sibling,Q60991997,Tu Tze-chen
 Q14866531,Luo Ying-shay,father,Q15936472,羅錫疇
 Q15025,Audrey Tang,mother,Q9210881,Lee Ya-ching
+Q15904974,Joanna Lei,father,Q18759191,Lei Hsueh-ming
 Q15909081,Wellington Koo,spouse,Q15918515,Wang Mei-hua
 Q15918515,Wang Mei-hua,spouse,Q15909081,Wellington Koo
 Q15920021,Chiang Wan-an,father,Q5371883,Chiang Hsiao-yen
@@ -55,6 +56,8 @@ Q4515439,Chang Po-ya,sibling,Q9188552,Chang Wen-ying
 Q472310,Frank Hsieh,relative,Q18659294,張維洲
 Q5090717,Chen Chi-mai,father,Q8272200,Chen Che-nan
 Q5090859,Chen Ming-wen,child,Q60994502,Chen Kuan-ting
+Q5271504,Diane Lee,father,Q259049,Lee Huan
+Q5271504,Diane Lee,sibling,Q8275026,Lee Ching-hua
 Q5371883,Chiang Hsiao-yen,child,Q15915513,Vivian Chang
 Q5371883,Chiang Hsiao-yen,child,Q15920021,Chiang Wan-an
 Q5371883,Chiang Hsiao-yen,father,Q313598,Chiang Ching-kuo
@@ -127,6 +130,7 @@ Q8274095,Han Kuo-yu,child,Q64211371,Han Ping
 Q8274095,Han Kuo-yu,spouse,Q60992430,Lee Chia-fen
 Q8274104,Justin Huang,father,Q8273908,Huang Ching-fong
 Q8274104,Justin Huang,spouse,Q24833577,Chen Lien-yen
+Q8274341,Lwo Shih-hsiung,father,Q8275462,Luo Chuan-chin
 Q8274368,Lee Hsin,child,Q59455997,Alan Lee
 Q8274707,Lu Shiow-yen,sibling,Q9320607,Lu Shiow-fang
 Q8275026,Lee Ching-hua,father,Q259049,Lee Huan
@@ -137,6 +141,7 @@ Q8275706,Pang Chien-kuo,spouse,Q15935257,邱秀珍
 Q8275781,Tina Pan,sibling,Q9309748,Pan Wei-ta
 Q8277261,John Wu,father,Q715529,Wu Po-hsiung
 Q8277261,John Wu,sibling,Q8277252,Wu Chih-kang
+Q8277455,Wu Kuang-hsun,child,Q85877352,Wu I-ding
 Q8277631,Wang Ting-son,father,Q9314650,Wang Ching-feng (magistrate)
 Q8278747,Yang Yu-xing,spouse,Q15926364,孫效智
 Q8278820,Yen Kuan-heng,father,Q8272659,Yen Ching-piao
@@ -163,6 +168,8 @@ Q8348951,Hsueh Ling,spouse,Q8347204,Chen Sheng-hong
 Q8349186,謝欣霓,father,Q8349204,謝錦川
 Q8349186,謝欣霓,sibling,Q16260223,謝賢
 Q8349619,Lai Chin-lin,child,Q16260539,Lai Pin-yu
+Q8349970,Lan Mei-chin,sibling,Q8349962,Lan Shih-tsung
+Q8349970,Lan Mei-chin,spouse,Q8348700,Huang Tien-fu
 Q8350160,Su Chih-fen,father,Q8350156,Su Dongqi
 Q8350160,Su Chih-fen,mother,Q8350197,Su Hong Yuejiao
 Q8350160,Su Chih-fen,spouse,Q8972039,Huang Wuxiong
@@ -173,6 +180,7 @@ Q8350388,Tsai Yi-yu,father,Q8350331,Tsai Chi-fang
 Q8350626,Yu Tian,child,Q10886645,Ken Yu
 Q8350626,Yu Tian,child,Q113572990,余苑绮
 Q8350626,Yu Tian,spouse,Q15925971,Lee Ya-ping
+Q8351463,Hsu Jung-shu,spouse,Q2667335,Chang Chun-hung
 Q85877352,Wu I-ding,father,Q8277455,Wu Kuang-hsun
 Q85877382,Cynthia Wu,father,Q22773499,Eugene Wu
 Q85877382,Cynthia Wu,spouse,Q47691275,Lin Zhiyan
