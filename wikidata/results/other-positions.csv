@@ -1,12 +1,11 @@
 position,positionLabel,ofLabel,jurisdictionLabel,people,example
-Q49256298,Member of Taipei City Council,,Taipei,15,Q60992793
-Q22947352,Secretary-General of the Democratic Progressive Party,,,14,Q8349604
-Q6310828,Chairperson of the Democratic Progressive Party,,Taiwan,10,Q6393270
-Q16056439,Chairperson of the Kuomintang,,,10,Q8279603
+Q49256298,Member of Taipei City Council,,Taipei,21,Q60992793
+Q22947352,Secretary-General of the Democratic Progressive Party,,,15,Q8349604
+Q6310828,Chairperson of the Democratic Progressive Party,,Taiwan,12,Q6393270
 Q7450649,senior advisor,,,9,Q27901812
+Q48976144,Member of New Taipei City Council,,New Taipei,7,Q19849414
 Q49256480,Member of Tainan City Council,,Tainan,7,Q30946589
-Q10781865,Vice Chairperson of the Kuomintang,,,7,Q8279308
-Q48976144,Member of New Taipei City Council,,New Taipei,6,Q19849414
+Q49255748,Member of Taoyuan City Council,,Taoyuan,6,Q67934538
 Q67931441,Chairperson of the New Power Party,,Taiwan,5,Q21055079
 Q50290512,Magistrate of Changhua County,,Changhua County,5,Q9459543
 Q50306369,Magistrate of Pingtung County,,Pingtung County,5,Q22774121
@@ -14,15 +13,16 @@ Q50306553,Magistrate of Yilan County,,Yilan County,5,Q29952844
 Q49255298,Member of Taipei County Council,,Taipei County,5,Q8357162
 Q15920422,Magistrate of Yunlin County,,Yunlin County,4,Q8350160
 Q49255147,Member of Changhua County Council,,Changhua County,4,Q50067722
-Q49255748,Member of Taoyuan City Council,,Taoyuan,4,Q67934538
 Q15643580,Chairperson of Taiwan Provincial Government,,Taiwan Province,3,Q24572278
+Q50293600,Magistrate of Hsinchu County,,Hsinchu County,3,Q8929909
 Q50294007,Magistrate of Kinmen County,,Kinmen County,3,Q22774355
 Q50293073,Magistrate of Tainan County,,Tainan County,3,Q8273349
 Q16239926,Magistrate of Taipei County,,Taipei County,3,Q8349604
 Q10781685,Magistrate of Taoyuan County,,Taoyuan County,3,Q8277261
 Q6627476,Mayor of Chiayi,,Chiayi City,3,Q8350363
-Q6797822,Mayor of Taichung,,Taichung,3,Q8274707
-Q6797825,Mayor of Tainan,,Tainan,3,Q38876935
+Q49257749,Member of Kaohsiung City Council,,Kaohsiung,3,Q28413567
+Q10493791,Member of Taichung City Council,,Taichung,3,Q19058548
+Q49996446,Member of Taoyuan County Council,,Taoyuan,3,Q67934538
 Q581817,deputy mayor,Kaohsiung,,3,Q19849473
 Q50293691,Magistrate of Hualien County,,Hualien County,2,Q28418899
 Q50306171,Magistrate of Nantou County,,Nantou County,2,Q8274333
@@ -30,25 +30,21 @@ Q657567,Mayor of Hsinchu,,Hsinchu,2,Q85885392
 Q6797738,Mayor of Keelung,,Keelung,2,Q8349734
 Q49255439,Member of Hsinchu City Council,,Hsinchu,2,Q8974428
 Q49255593,Member of Hsinchu County Council,,Hsinchu County,2,Q67934535
-Q49257749,Member of Kaohsiung City Council,,Kaohsiung,2,Q28413567
 Q49257377,Member of Kinmen County Council,,Kinmen County,2,Q48896684
 Q49255006,Member of Pingtung County Council,,Pingtung County,2,Q8350223
-Q10493791,Member of Taichung City Council,,Taichung,2,Q19058548
-Q49996446,Member of Taoyuan County Council,,Taoyuan,2,Q67934538
-Q15909024,President of the Control Yuan,,,2,Q4515439
 Q723682,dean,,,2,Q9370626
 Q115669874,Chairman of the Taiwan People's Party,,,1,Q18113714
 Q86224019,Chairperson of Fujian Provincial Government,,Fujian Province,1,Q8951355
-Q50293600,Magistrate of Hsinchu County,,Hsinchu County,1,Q8351421
+Q15910400,Commander of the Navy,,,1,Q15908898
 Q50293953,Magistrate of Lienchiang County,,Lienchiang County,1,Q8273082
 Q50306440,Magistrate of Taitung County,,Taitung County,1,Q8274104
-Q50306671,Mayor of Taoyuan,,Taoyuan,1,Q10294207
 Q49254733,Member of Keelung City Council,,Keelung,1,Q8347638
 Q49254306,Member of Nantou County Council,,Nantou County,1,Q78123037
 Q49255918,Member of Penghu County Council,,Penghu County,1,Q8278206
 Q106577066,Member of Tainan County Council,,Tainan County,1,Q8349186
 Q49254881,Member of Yilan County Council,,Yilan County,1,Q23883800
 Q49257574,Member of Yunlin County Council,,Yunlin County,1,Q8349646
+Q15473899,"Representative Office of Taiwan, London",,,1,Q15902678
 Q17000695,Spokesperson of the Office of the President of the Republic of China,,Taiwan,1,Q22099954
 Q140686,chairperson,Public Television Service,,1,Q9370626
 Q93755388,commander of the Central Epidemic Command Center,,Taiwan,1,Q28655382
@@ -56,6 +52,7 @@ Q65680093,county magistrates of Kaohsiung,,Kaohsiung County,1,Q16905500
 Q581817,deputy mayor,Zhonghe District,,1,Q8274095
 Q1162163,director,Council for Cultural Affairs,,1,Q9370626
 Q1210069,general manager,Taipei Agricultural Products Marketing Corporation,,1,Q8274095
+Q1251441,leader,,,1,Q5067753
 Q189290,military officer,,,1,Q716768
 Q22132694,museum director,,,1,Q8938281
 Q1553195,party leader,New Party,,1,Q8277493
