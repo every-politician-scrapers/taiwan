@@ -14,6 +14,7 @@ Q16260539,Lai Pin-yu,father,Q8349619,Lai Chin-lin
 Q16926490,Ho Chih-wei,mother,Q8348951,Hsueh Ling
 Q16928868,Lu Sun-ling,father,Q16336627,Lu Tzu-chang
 Q16928868,Lu Sun-ling,sibling,Q60989322,Lu Sun-fu
+Q17059823,Su Chia-fu,sibling,Q700774,Su Jia-chyuan
 Q18113714,Ko Wen-je,spouse,Q18669033,Peggy Chen
 Q19216,Ma Ying-jeou,child,Q4121050,Lesley Wei-chung Ma
 Q19216,Ma Ying-jeou,child,Q4121052,Kelly Yuan-chung Ma
@@ -39,6 +40,7 @@ Q22368,Chen Shui-bian,spouse,Q698512,Wu Shu-chen
 Q233984,Tsai Ing-wen,father,Q15930130,Tsai Chieh-sheng
 Q233984,Tsai Ing-wen,sibling,Q24833232,Tsai Ying-yang
 Q26465348,Liu Chien-sin,spouse,Q9065738,王時齊
+Q2667335,Chang Chun-hung,spouse,Q8351463,Hsu Jung-shu
 Q28416376,Ko Chih-en,father,Q39040656,Ko Wen-fu
 Q28417359,Hung Mong-kai,father,Q28416577,Hong Xiyao
 Q28417359,Hung Mong-kai,mother,Q8976805,Guo Suchun
@@ -118,10 +120,12 @@ Q8273132,Chang Li-shan,relative,Q109347090,張鎔麒
 Q8273132,Chang Li-shan,relative,Q8279212,Chang Chia-chun
 Q8273132,Chang Li-shan,sibling,Q15909770,Chang Jung-wei
 Q8273132,Chang Li-shan,spouse,Q61056629,張永成
+Q8273197,Chen Hung-chang,father,Q28355130,Chen Wanfu
 Q8273275,Ting Mao-shih,sibling,Q10864132,Ting Chung-chiang
 Q8273349,Kao Yu-jen,child,Q8273451,Kao Su-po
 Q8273349,Kao Yu-jen,relative,Q5386280,Eric Chu
 Q8273451,Kao Su-po,father,Q8273349,Kao Yu-jen
+Q8273883,Huang Fung-shih,father,Q6651876,Huang Hai-tai
 Q8273958,Hou Tsai-feng,child,Q50093239,黃香菽
 Q8273958,Hou Tsai-feng,spouse,Q28409751,黃啟川
 Q8274029,Hung Hsiu-chu,father,Q30942148,洪子瑜
@@ -153,6 +157,7 @@ Q8280332,Su Chi,spouse,Q9200211,Chen Yueqing
 Q8280346,Wu Jin-lin,sibling,Q8272594,Wu Tse-yuan
 Q8347124,Chang Ching-hui,child,Q55696381,Wei Yun
 Q8347124,Chang Ching-hui,spouse,Q8350585,Wei Ting-chao
+Q8347204,Chen Sheng-hong,spouse,Q8348951,Hsueh Ling
 Q8347574,Lee Chun-yi,father,Q8982600,李鴻禧
 Q8347775,Chiu Yi-ying,father,Q16907425,Chiu Mao-nan
 Q8347775,Chiu Yi-ying,sibling,Q16259975,Chiu Ming-chang
@@ -197,6 +202,8 @@ Q8981918,Annie Lee,mother,Q8264155,Tseng Wen-hui
 Q8984370,Chen Fu-hai,mother,Q113026202,陳鄭翠紅
 Q8991767,Christina Liu,mother,Q7207296,Shirley Kuo
 Q9037810,Andrew Hsia,spouse,Q115740882,Lisa Cheng
+Q9056791,John Wang,father,Q15908512,Kenjohn Wang
+Q9073763,Yang Fu-mei,spouse,Q18669449,Kao Tsu-min
 Q9130647,Yu Mei-nu,spouse,Q55829919,Remington Huang
 Q9141091,Hsu Hsin-ying,sibling,Q22099965,徐世勳
 Q9182314,Chen Chien-jen,father,Q22099625,Chen Hsin-an
