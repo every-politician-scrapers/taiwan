@@ -1,11 +1,16 @@
 position,person,personID,start,end
 Member of the Legislative Yuan,Zhao Ziqi,Q27901812,1948,2020-08-04
+Member of the Legislative Yuan,Tsai Chung-han,Q17035305,1987-02-01,2002-01-31
 Member of the Legislative Yuan,Chu Fong-chi,Q8273140,1990-02-01,2008-01-31
 Member of the Legislative Yuan,Hung Chi-chang,Q8348911,1990-02-01,2007-07-12
 Member of the Legislative Yuan,Chen Chao-jung,Q8272789,1993-02-01,2002-01-31
 Member of the Legislative Yuan,Shyu Jong-shyong,Q8276466,1993-02-01,2012-01-31
+Member of the Legislative Yuan,David Chou,Q8347099,1993-02-01,2003-01-30
 Member of the Legislative Yuan,Hsu Jung-shu,Q8351463,1993-02-01,2005-01-31
+Member of the Legislative Yuan,Chu Hsing-yu,Q8351707,1993-02-01,2005-01-31
+Member of the Legislative Yuan,Chang Chun-hung,Q2667335,1996-02-01,2005-01-31
 Member of the Legislative Yuan,Lin Chih-chia,Q8272553,1996-02-01,2002-01-31
+Member of the Legislative Yuan,Chen Hung-chang,Q8273197,1996-02-01,2005-01-31
 Member of the Legislative Yuan,Liu Shen-liang,Q8274872,1996-02-01,2002-01-31
 Member of the Legislative Yuan,Lee Chun-yee,Q8349702,1996-02-01,2012-01-31
 Member of the Legislative Yuan,Perng Shaw-jiin,Q8350091,1996-02-01,2002-02-01
@@ -26,14 +31,20 @@ Member of the Legislative Yuan,Elmer Fung,Q5366551,1999-02-01,2002-01-31
 Member of the Legislative Yuan,Eric Chu,Q5386280,1999-02-01,2001-12-20
 Member of the Legislative Yuan,Huang Ming-hui,Q5925638,1999-02-01,2002-01-31
 Member of the Legislative Yuan,Yeh Chu-lan,Q6148708,1999-02-01,2000-05-20
+Member of the Legislative Yuan,Liu Sung-pan,Q6653738,1999-02-01,2002-01-31
 Member of the Legislative Yuan,Liu Wen-hsiung,Q6653764,1999-02-01,2005-01-31
+Member of the Legislative Yuan,Wang Sing-nan,Q7967628,1999-02-01,2012-01-31
 Member of the Legislative Yuan,Huang Chao-shun,Q8270063,1999-02-01,2002-01-31
+Member of the Legislative Yuan,Chiu Chuang-liang,Q8272187,1999-02-01,2005-01-31
 Member of the Legislative Yuan,Chen Chin-ting,Q8272339,1999-02-01,2008-01-31
 Member of the Legislative Yuan,Lin Chun-te,Q8272516,1999-02-01,2008-01-31
 Member of the Legislative Yuan,Wu Tse-yuan,Q8272594,1999-02-01,2002-01-31
+Member of the Legislative Yuan,Tsai Ling-lan,Q8273163,1999-02-01,2005-01-31
 Member of the Legislative Yuan,Chiu Ching-chun,Q8273181,1999-02-01,2009-12-20
+Member of the Legislative Yuan,Chen Chien-chih,Q8273195,1999-02-01,2005-01-31
 Member of the Legislative Yuan,Chen Chao-ming,Q8273248,1999-02-01,2002-01-31
 Member of the Legislative Yuan,Kao Yu-jen,Q8273349,1999-02-01,2002-01-31
+Member of the Legislative Yuan,Kwan Yuk-noan,Q8273434,1999-02-01,2005-01-31
 Member of the Legislative Yuan,Daniel Hwang,Q8273865,1999-02-01,2002-01-31
 Member of the Legislative Yuan,Han Kuo-yu,Q8274095,1999-02-01,2002-01-31
 Member of the Legislative Yuan,Lin Junq-tzer,Q8274439,1999-02-01,2001-12-20
@@ -45,13 +56,21 @@ Member of the Legislative Yuan,Wu Kuang-hsun,Q8277455,1999-02-01,2002-01-31
 Member of the Legislative Yuan,Wu Chin-chih,Q8277544,1999-02-01,2002-01-31
 Member of the Legislative Yuan,許素葉,Q8278206,1999-02-01,2002-01-31
 Member of the Legislative Yuan,Yang Jen-fu,Q8278482,1999-02-01,2012-01-31
+Member of the Legislative Yuan,Chang Tsai Mei,Q8279270,1999-02-01,2002-01-31
+Member of the Legislative Yuan,Cheng Feng-shih,Q8279372,1999-02-01,2005-01-31
+Member of the Legislative Yuan,Chou Huey-ying,Q8347110,1999-02-01,2005-01-31
+Member of the Legislative Yuan,Stephen Chung,Q8347179,1999-02-01,2002-01-31
+Member of the Legislative Yuan,Chen Sheng-hong,Q8347204,1999-02-01,2005-01-31
 Member of the Legislative Yuan,Chen Chau-nan,Q8347259,1999-02-01,2002-01-31
+Member of the Legislative Yuan,Chen Chung-hsin,Q8347900,1999-02-01,2004-05-31
 Member of the Legislative Yuan,Chen Chin-jun,Q8347947,1999-02-01,2002-01-31
 Member of the Legislative Yuan,Tu Wen-ching,Q8348203,1999-02-01,2008-01-31
 Member of the Legislative Yuan,Eugene Jao,Q8349436,1999-02-01,2008-01-31
 Member of the Legislative Yuan,Cheng Pao-ching,Q8349451,1999-02-01,2002-01-31
 Member of the Legislative Yuan,Lin Cho-shui,Q8349853,1999-02-01,2002-01-31
 Member of the Legislative Yuan,梁牧養,Q8349946,1999-02-01,2002-01-31
+Member of the Legislative Yuan,Alice Wang,Q8350560,1999-02-01,2005-01-31
+Member of the Legislative Yuan,Yen Chin-fu,Q8350774,1999-02-01,2005-01-31
 Member of the Legislative Yuan,Hsu Chih-ming,Q8351480,1999-02-01,2005-10-07
 Member of the Legislative Yuan,Shen Fu-hsiung,Q8351614,1999-02-01,2002-01-31
 Member of the Legislative Yuan,Chang Ching-fang,Q8357048,1999-02-01,2002-01-31
@@ -59,12 +78,17 @@ Member of the Legislative Yuan,Chung Shao-ho,Q8974503,1999-02-01,2002-01-31
 Member of the Legislative Yuan,Lee Chu-feng,Q8982294,1999-02-01,2001-12-20
 Member of the Legislative Yuan,Chao Liang-yen,Q8927776,2001,2008
 Member of the Legislative Yuan,Huang Cheng-che,Q8966073,2001,2006-11
+Member of the Legislative Yuan,Ko Shu-min,Q8274277,2002,2008
 Member of the Legislative Yuan,Nelson Ku,Q15908898,2002-02-01,2007-01-15
+Member of the Legislative Yuan,Hsieh Chun-hui,Q15934411,2002-02-01,2002-10-13
+Member of the Legislative Yuan,Tsai Chung-han,Q17035305,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Chen Chi-mai,Q5090717,2002-02-01,2004-05-20
+Member of the Legislative Yuan,Chin-Lung Cheng,Q5091210,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Cho Jung-tai,Q5116472,2002-02-01,2004-05-19
 Member of the Legislative Yuan,Wu Den-yih,Q57838,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Huang Ming-hui,Q5925638,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Sisy Chen,Q6134031,2002-02-01,2005-01-31
+Member of the Legislative Yuan,Liu Sung-pan,Q6653738,2002-02-01,2004-09-08
 Member of the Legislative Yuan,Luo Wen-jia,Q6704543,2002-02-01,2004-05-19
 Member of the Legislative Yuan,Hsiao Bi-khim,Q700752,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Mark Chen,Q707648,2002-02-01,2004-04-16
@@ -83,13 +107,17 @@ Member of the Legislative Yuan,Lin Hui-kuan,Q8274418,2002-02-01,2008-01-31
 Member of the Legislative Yuan,Lu Shiow-yen,Q8274707,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Liao Wan-ju,Q8274940,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Pang Chien-kuo,Q8275706,2002-02-01,2005-01-31
+Member of the Legislative Yuan,Sun Kauo-hwa,Q8276488,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Wu Cherng-dean,Q8277493,2002-02-01,2005-01-31
+Member of the Legislative Yuan,Chang Tsai Mei,Q8279270,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Sun Ta-chien,Q8279442,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Lo Chih-ming,Q8280291,2002-02-01,2008-01-31
 Member of the Legislative Yuan,Chiu Chuang-chin,Q8347154,2002-02-01,2008-01-31
 Member of the Legislative Yuan,Chiu Yi-ying,Q8347775,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Chen Chin-jun,Q8347947,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Chen Tsiao-long,Q8347974,2002-02-01,2005-01-31
+Member of the Legislative Yuan,Chen Mao-nan,Q8348118,2002-02-01,2005-01-31
+Member of the Legislative Yuan,Chen Tao-ming,Q8348157,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Jimmy Kuo,Q8348300,2002-02-01,2008-01-31
 Member of the Legislative Yuan,Julian Kuo,Q8348328,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Huang Chung-yuan,Q8348719,2002-02-01,2005-01-31
@@ -104,17 +132,28 @@ Member of the Legislative Yuan,Peng Tien-fu,Q8350070,2002-02-01,2008-01-31
 Member of the Legislative Yuan,Hsieh Ming-yuan,Q8350236,2002-02-01,2008-01-31
 Member of the Legislative Yuan,Liao Pen-yen,Q8350893,2002-02-01,2008-01-31
 Member of the Legislative Yuan,Chiu Chang,Q8351349,2002-02-01,2002-04-01
+Member of the Legislative Yuan,Ho Chin-sung,Q8351469,2002-02-01,2005-01-31
+Member of the Legislative Yuan,Cheng Yu-cheng,Q8351511,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Lin Chin-hsin,Q8351599,2002-02-01,2008-01-31
 Member of the Legislative Yuan,Shen Fu-hsiung,Q8351614,2002-02-01,2005-01-31
 Member of the Legislative Yuan,蘇盈貴,Q8351632,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Chang Ching-fang,Q8357048,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Tuan Yi-kang,Q8357056,2002-02-01,2005-01-31
+Member of the Legislative Yuan,Chen Chin-hsing,Q8929909,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Fu Kun-chi,Q8956378,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Chung Shao-ho,Q8974503,2002-02-01,2005-01-31
+Member of the Legislative Yuan,Lin Cheng-yi (legislator),Q8983014,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Christina Liu,Q8991767,2002-02-01,2007-11-20
+Member of the Legislative Yuan,John Wang,Q9056791,2002-02-01,2005-01-31
+Member of the Legislative Yuan,Wang Chung-yu,Q9059500,2002-02-01,2005-01-31
+Member of the Legislative Yuan,Yang Fu-mei,Q9073763,2002-02-01,2005-01-31
 Member of the Legislative Yuan,Lee Ho-shun,Q9197408,2002-02-01,2004-10-18
 Member of the Legislative Yuan,Lin Wen-lang,Q8357157,2002-06-19,2005-01-31
 Member of the Legislative Yuan,Yeh Fang-hsiung,Q8278812,2004,2008
+Member of the Legislative Yuan,Su Chia-fu,Q17059823,2004-06-02,2005-01-31
+Member of the Legislative Yuan,Stephen Chung,Q8347179,2004-06-02,2005-01-31
+Member of the Legislative Yuan,Alfred Chen,Q8944907,2004-09-14,2005-01-31
+Member of the Legislative Yuan,Huang Fung-shih,Q8273883,2004-10-28,2005-01-31
 Member of the Legislative Yuan,Hsieh Wen-cheng,Q8278247,2005,2008
 Member of the Legislative Yuan,Marr Chang-chi,Q11115397,2005-02-01,2008-01-31
 Member of the Legislative Yuan,Joanna Lei,Q15904974,2005-02-01,2008-01-01
@@ -122,6 +161,7 @@ Member of the Legislative Yuan,Chen Min-jen,Q16260492,2005-02-01,2008-01-31
 Member of the Legislative Yuan,Tsai Ing-wen,Q233984,2005-02-01,2006-01-25
 Member of the Legislative Yuan,Kuan Bi-ling,Q3846662,2005-02-01,2008-01-31
 Member of the Legislative Yuan,Winston Dang,Q4505147,2005-02-01,2007-05-20
+Member of the Legislative Yuan,Chiu Yi,Q5102553,2005-02-01,2008-01-31
 Member of the Legislative Yuan,Lai Shin-Yuan,Q517151,2005-02-01,2008-01-31
 Member of the Legislative Yuan,Chiang Hsiao-yen,Q5371883,2005-02-01,2012-01-31
 Member of the Legislative Yuan,Wu Den-yih,Q57838,2005-02-01,2008-01-31
@@ -207,6 +247,7 @@ Member of the Legislative Yuan,Chen Tung-jung,Q96749640,2007-06-11,2008-01-31
 Member of the Legislative Yuan,Lo Shu-lei,Q8275467,2007-11-26,2008-01-31
 Member of the Legislative Yuan,Chai Trong-rong,Q5067753,2008-02-01,2012-01-31
 Member of the Legislative Yuan,Cheng Li-wun,Q5091239,2008-02-01,2012-01-31
+Member of the Legislative Yuan,Chiu Yi,Q5102553,2008-02-01,2012-01-31
 Member of the Legislative Yuan,Diane Lee,Q5271504,2008-02-01,2009-01-08
 Member of the Legislative Yuan,Wu Den-yih,Q57838,2008-02-01,2009-09-09
 Member of the Legislative Yuan,Huang Chao-shun,Q8270063,2008-02-01,2012-01-31
@@ -224,7 +265,9 @@ Member of the Legislative Yuan,Liao Kuo-tung,Q8274398,2008-02-01,2012-01-31
 Member of the Legislative Yuan,Lu Shiow-yen,Q8274707,2008-02-01,2012-01-31
 Member of the Legislative Yuan,Liu Chuan-chung,Q8274921,2008-02-01,2012-01-31
 Member of the Legislative Yuan,Liao Wan-ju,Q8274940,2008-02-01,2012-01-31
+Member of the Legislative Yuan,Lee Yi-ting,Q8274956,2008-02-01,2008-12-10
 Member of the Legislative Yuan,Lee Fu-hsing,Q8275016,2008-02-01,2012-01-31
+Member of the Legislative Yuan,Mark Li,Q8275044,2008-02-01,2012-01-31
 Member of the Legislative Yuan,Catherine Lee,Q8275071,2008-02-01,2008-06-30
 Member of the Legislative Yuan,Lo Shu-lei,Q8275467,2008-02-01,2012-01-31
 Member of the Legislative Yuan,Herman Shuai,Q8276537,2008-02-01,2012-01-31
@@ -257,8 +300,8 @@ Member of the Legislative Yuan,Li Gui-min,Q16905422,2012-02-01,2016-01-31
 Member of the Legislative Yuan,Sra Kacaw,Q17027222,2012-02-01,2016-01-31
 Member of the Legislative Yuan,Yang Ying-hsiung,Q19825688,2012-02-01,2016-01-31
 Member of the Legislative Yuan,Kuan Bi-ling,Q3846662,2012-02-01,2016-01-31
-Member of the Legislative Yuan,陳碧涵,Q50410542,2012-02-01,2016-01-31
-Member of the Legislative Yuan,詹凱臣,Q50413814,2012-02-01,2016-01-31
+Member of the Legislative Yuan,Chen Pi-han,Q50410542,2012-02-01,2016-01-31
+Member of the Legislative Yuan,Chan Kai-chen,Q50413814,2012-02-01,2016-01-31
 Member of the Legislative Yuan,Chen Chi-mai,Q5090717,2012-02-01,2016-01-31
 Member of the Legislative Yuan,Chen Ming-wen,Q5090859,2012-02-01,2016-01-31
 Member of the Legislative Yuan,Pi-Han Chen,Q56159332,2012-02-01,2016-01-31
@@ -616,6 +659,7 @@ Member of the Legislative Yuan,Freddy Lim,Q9292454,2020-02-01,
 Member of the Legislative Yuan,Fai Hung-tai,Q9346217,2020-02-01,
 Member of the Legislative Yuan,Lin Ching-yi,Q22774129,2022-01-17,
 Member of the Legislative Yuan,Cynthia Wu,Q85877382,2022-10-14,
+Member of the Legislative Yuan,Chen Wan-hui,Q113071836,2022-12-25,
 member of the National Assembly,Liu Yu-you,Q10900397,1996,2000
 member of the National Assembly,吳茂雄,Q10919115,1996,2000
 member of the National Assembly,李成家,Q11096596,1996,2000
