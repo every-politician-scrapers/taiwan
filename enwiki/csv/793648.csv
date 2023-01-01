@@ -9,8 +9,8 @@ who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,r
 793648,Taipei Economic and Cultural Office in Australia,ROC Representative to Australia,2015-01-01,2016,Q9092954,Katharine Chang,William Lin,William Lin (acting),7
 793648,Australia,ROC Representative to Australia,2015-01-01,2016,Q9092954,Katharine Chang,William Lin,William Lin (acting),8
 793648,TECRO,"Director of the Coordination Council for North American Affairs, TECRO",2012-05-20,2015-01-01,,Shao Yu-ming,,Katherine Chang,9
-793648,Taipei Economic and Cultural Office in Canada,ROC Representative to Canada,2007,2012,,,Liu Chih-kung,Liu Chih-kung,10
-793648,Canada,ROC Representative to Canada,2007,2012,,,Liu Chih-kung,Liu Chih-kung,11
+793648,Taipei Economic and Cultural Office in Canada,ROC Representative to Canada,2007,2012,,,Q18044631,Liu Chih-kung,10
+793648,Canada,ROC Representative to Canada,2007,2012,,,Q18044631,Liu Chih-kung,11
 793648,Taipei Economic and Cultural Representative Office,ROC Representative to United States,2004-07-25,2007-04-10,Q8273004,Chen Chien-jen,Q6288088,Joseph Wu,12
 793648,United States,ROC Representative to United States,2004-07-25,2007-04-10,Q8273004,Chen Chien-jen,Q6288088,Joseph Wu,13
 793648,Taipei Representative Office in the EU and Belgium,ROC Representative to the European Union and Belgium,2001,2004,,,Q8273004,Chen Chien-jen,14
