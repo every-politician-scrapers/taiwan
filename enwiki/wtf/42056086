@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Chang San-cheng or Simon Chang (born 24 June 1954) is a Taiwanese politician who was Premier of the Republic of China from 1 February 2016 until 20 May 2016, appointed by President Ma Ying-jeou.",
+              "text": "Chang San-cheng or Simon Chang (born 24 June 1954) is a Taiwanese politician who has been the Mayor of Taoyuan City since 25 December 2022.",
               "links": [
                 {
                   "text": "Taiwanese",
@@ -30,12 +30,13 @@
                   "page": "Taiwanese people"
                 },
                 {
+                  "text": "Mayor",
                   "type": "internal",
-                  "page": "Premier of the Republic of China"
+                  "page": "Mayor of Taoyuan"
                 },
                 {
                   "type": "internal",
-                  "page": "Ma Ying-jeou"
+                  "page": "Taoyuan City"
                 }
               ],
               "formatting": {
@@ -44,6 +45,19 @@
                   "Simon Chang"
                 ]
               }
+            },
+            {
+              "text": "He was Premier of the Republic of China from 1 February 2016 until 20 May 2016, appointed by President Ma Ying-jeou.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Premier of the Republic of China"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ma Ying-jeou"
+                }
+              ]
             },
             {
               "text": "Before assuming the Premiership, he had served as Vice Premier from 8 December 2014.",
@@ -157,7 +171,7 @@
             "text": "張善政院長.jpg"
           },
           "office1": {
-            "text": "Mayor of Taoyuan City (elect)",
+            "text": "Mayor of Taoyuan City",
             "links": [
               {
                 "text": "Mayor",
@@ -383,12 +397,11 @@
             ]
           },
           "party": {
-            "text": "Independent",
+            "text": "Kuomintang",
             "links": [
               {
-                "text": "Independent",
                 "type": "internal",
-                "page": "Independent politician"
+                "page": "Kuomintang"
               }
             ]
           },
