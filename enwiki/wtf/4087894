@@ -6364,6 +6364,27 @@
       ]
     },
     {
+      "title": "Pets",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tsai has two cats, named Ah Tsai and Think Think."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
       "title": "Honors",
       "depth": 0,
       "paragraphs": [

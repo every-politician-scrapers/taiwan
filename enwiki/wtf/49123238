@@ -835,12 +835,6 @@
             },
             "col4": {
               "text": "Chiang Wan-an (蔣萬安)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chiang Wan-an"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Chiang Wan-an (蔣萬安)"
