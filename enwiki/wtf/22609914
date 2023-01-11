@@ -200,6 +200,32 @@
             ]
           },
           "office1": {
+            "text": "Chairperson of Democratic Progressive Party\nDesignating",
+            "links": [
+              {
+                "text": "Chairperson",
+                "type": "internal",
+                "page": "List of leaders of the Democratic Progressive Party"
+              },
+              {
+                "type": "internal",
+                "page": "Democratic Progressive Party"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "18 January 2023"
+          },
+          "predecessor1": {
+            "text": "Chen Chi-mai",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chen Chi-mai"
+              }
+            ]
+          },
+          "office2": {
             "text": "Premier of the Republic of China",
             "links": [
               {
@@ -208,7 +234,7 @@
               }
             ]
           },
-          "president1": {
+          "president2": {
             "text": "Tsai Ing-wen",
             "links": [
               {
@@ -217,7 +243,7 @@
               }
             ]
           },
-          "vicepremier1": {
+          "vicepremier2": {
             "text": "Shih Jun-ji",
             "links": [
               {
@@ -226,13 +252,13 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "8 September 2017"
           },
-          "term_end1": {
+          "term_end2": {
             "text": "14 January 2019"
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Lin Chuan",
             "links": [
               {
@@ -241,7 +267,7 @@
               }
             ]
           },
-          "successor1": {
+          "successor2": {
             "text": "Su Tseng-chang",
             "links": [
               {
@@ -250,7 +276,7 @@
               }
             ]
           },
-          "office2": {
+          "office3": {
             "text": "Mayor of Tainan",
             "links": [
               {
@@ -259,16 +285,16 @@
               }
             ]
           },
-          "deputy2": {
+          "deputy3": {
             "text": "Hsu He-chun"
           },
-          "term_start2": {
+          "term_start3": {
             "text": "25 December 2010"
           },
-          "term_end2": {
+          "term_end3": {
             "text": "7 September 2017"
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Hsu Tain-tsair",
             "links": [
               {
@@ -277,7 +303,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor3": {
             "text": "Li Meng-yen (acting) \nHuang Wei-cher",
             "links": [
               {
@@ -290,7 +316,7 @@
               }
             ]
           },
-          "office3": {
+          "office4": {
             "text": "Member of the Legislative Yuan",
             "links": [
               {
@@ -300,13 +326,13 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "15 April 1999"
           },
-          "term_end3": {
+          "term_end4": {
             "text": "7 December 2010"
           },
-          "constituency3": {
+          "constituency4": {
             "text": "Tainan City, 2nd ward",
             "links": [
               {
@@ -319,7 +345,7 @@
             "text": "October 6, 1959"
           },
           "birth_place": {
-            "text": "Wanli, Taipei County, Taiwan Province, Republic of China",
+            "text": "Wanli, Taipei County, ROC-TW",
             "links": [
               {
                 "text": "Wanli",
@@ -332,7 +358,7 @@
               },
               {
                 "type": "internal",
-                "page": "Taiwan Province"
+                "page": "ROC-TW"
               }
             ]
           },

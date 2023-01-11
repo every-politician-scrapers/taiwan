@@ -216,6 +216,15 @@
               }
             ]
           },
+          "successor1": {
+            "text": "Lai Ching-te",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lai Ching-te"
+              }
+            ]
+          },
           "office2": {
             "text": "Mayor of Kaohsiung",
             "links": [
